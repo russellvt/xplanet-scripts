@@ -3,10 +3,11 @@
 
 [ ![\[An xplanet image, using peters projection\]][1]][2]
 
-** THIS PROJECT HAS ENDED. IF YOU ARE INTERESTED IN CONTINUING IT, FEEL FREE TO TALK TO ME. **
+**THIS PROJECT HAS ENDED. IF YOU ARE INTERESTED IN CONTINUING IT, FEEL FREE TO TALK TO ME.**
 
 This page is the home of some scripts that deal with _geographic information (GIS)_, especially related to the [xplanet][3] program **(Version 0.9x only, for now)**. They allow you to display **up-to-the-minute** information on **weather**, **earthquakes**, **hurricanes** and more on your computer. You can see how the results look like on [FlatPlanet][4] which uses all the below scripts.
-* * *
+
+***
 
 All-in-one packages that should be unpacked into your xplanet directory (the directory with the images/ and markers/ subdirectories).
 
@@ -14,8 +15,8 @@ Windows users please read [this][5].
 
 [Announcements archive][6] | [Mailing list][7].
 
-| ----- |
-| Program |  Version |  Updated |  Usage |
+| Program | Version | Updated | Usage |
+| ------- | ------- | ------- | ----- |
 | [geo_locator][8] |  2.1.5 |  02 May 2003 |  determine geographic locations |
 | [weather][9] |  4.1.8 |  15 Jul 2003 |  display weather icons and temperatures on xplanet maps |
 | [forecast][10] |  1.2.5 |  17 Jul 2003 |  display the weather forecast for your location on an xplanet map |
@@ -29,7 +30,7 @@ Windows users please read [this][5].
 | [xplanet Linux RPM][18] |  0.94-3 |  02 May 2003 |  Linux RPM's of xplanet with various problems fixed |
 | [Windows binary][5] |  0.94-2 |  21 Feb 2003 |  Windows binary of xplanet with various problems fixed |
 
-* * *
+***
 
 All scripts have been converted to a unified configuration scheme. You don't have to edit scripts (those .pl files) anymore. Instead you only adjust the xplanet.conf configuration file:
 
@@ -40,7 +41,7 @@ All scripts have been converted to a unified configuration scheme. You don't hav
 
 Additionally, all source code published here is now under the [GNU General Public License][19].
 
-* * *
+***
 
 ### geo_locator and igeo
 
@@ -48,7 +49,6 @@ _geo_locator.pl_ is a perl script that determines the coordinates of locations a
 
 _igeo.pl_ is an interactive version. It runs as a shell (using readline) and you can type your requests interactively, load different data sources or change the configuration.
 
-| ----- |
 |  geo_locator.pl is mostly a drop-in replacement for the tzcoord.pl that comes with xplanet, but is much more powerful. The differences are:
 
 * it knows a _lot_ more locations, especially from the Getty Thesaurus
@@ -61,11 +61,10 @@ Downloadable files:
 
  |  There are associated marker files which contain more than 100000 locations.  |
 
-* * *
+***
 
 ### weather
 
-| ----- |
 |  This is a perl script which downloads weather information from [weather.yahoo.com][21] and [weather undergound][22] and writes a marker file which places those icons on the map. You'll need to set one or two environment variables so it knows where to look, but its very cool! Contributed by [Joao Pedro Goncalves][23], and updated by me.
 
 Please install the [above geo_locator package][8] before trying to install weather.pl.
@@ -80,11 +79,10 @@ Europe at dusk: it's sunny and slightly hazy with 14-26 degrees celsius (centigr
 
  |
 
-* * *
+***
 
 ### forecast
 
-| ----- |
 |  This is a perl script which gathers the current weather forecast for your location (home town) from [www.weather.com][25] (example: [Golden, CO, USA][26] or [Berlin, Germany][27] ) and writes a marker file which displays this forecast on your xplanet maps.
 
 Please note that this script _may_ create a markerfile with absolute positions ("position=pixel") of more than 360. This is of course valid - your screen is likely wider than 360 pixels - but the stock xplanet 0.94 chokes on this. If you encounter problems, you have two possibilities:
@@ -102,11 +100,10 @@ Till Friday it will be cold and snowy, but will get drier and slightly warmer af
 
  |
 
-* * *
+***
 
 ### earthq
 
-| ----- |
 |  This perl script downloads information about [the most recent earthquakes][29] and [bigger earthquakes of the last month][30] and writes them into a xplanet-style marker file, to be displayed on your maps. The idea and a reference implementation came from [Michael Dear][31], integrated, updated and rewritten to Perl5 by me.
 
 Last updated _15 July 2003_, Version 2.1.7: filter out more errors in source data
@@ -119,11 +116,10 @@ In south- and east Europe, we see 4 recent earthquakes: one of magnitude 4.4 nea
 
  |
 
-* * *
+***
 
 ### volcano
 
-| ----- |
 |  This perl script downloads information about [currently active volcanoes][33] and writes them into a xplanet-style marker file, to be displayed on your maps.
 
 Last updated _05 May 2003_, Version 2.1.5: parsing improvements
@@ -140,11 +136,10 @@ Popocatepetl near Mexico City is active...
 
  |
 
-* * *
+***
 
 ### hurricane
 
-| ----- |
 |  This perl script downloads information about [tropical hurricanes][39] and writes them into a xplanet-style marker file, to be displayed on your maps. It can also generate a close-up inset of the area around the center of a storm close to you.
 
 Last updated _15 July 2003_, Version 2.2.3: fix in inset name calculation - faster
@@ -167,11 +162,10 @@ An inset example: hurricane Lili shortly before crossing the western tip of Cuba
 
  |
 
-* * *
+***
 
 ### visible-satellites
 
-| ----- |
 |  This perl script downloads information about satellites that will be visible to you during the night from [Heavens-Above.com][48]. The satellites will be displayed at all times, even when they are not visible. However, you can view how the trail of the satellites slowly moves towards your location, till at the prescribed time, it is above you.
 
 Last updated _05 May 2003_, Version 0.8.2: more robust; code cleanup
@@ -184,7 +178,7 @@ Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed east
 
  |
 
-* * *
+***
 
 ### xplanet-update
 
@@ -201,7 +195,7 @@ This script is a direct successor of the **xplanet.clouds.sh** part of the disco
 
 Last updated _15 July 2003_, Version 0.9.7: Unix: overriding DISPLAY with GEOMETRY on top of script
 
-* * *
+***
 
 ### image-stream
 
@@ -215,11 +209,10 @@ Please install the [above geo_locator package][8] before trying to install image
 
 Last updated _15 July 2003_, Version 0.9.7: Unix: overriding DISPLAY with GEOMETRY on top of script
 
-* * *
+***
 
 ### moonphase
 
-| ----- |
 |  Using moonphase, your xplanet desktop shows the moon at its current position in its current phase. It also shows the dates when we have the next new moon, half moon and full moon.
 
 Last updated _02 May 2003_, Version 0.8.1: new moonicons
@@ -232,7 +225,7 @@ Today, on the 13th of February, the phase is between half- and full moon, increa
 
  |
 
-* * *
+***
 
 ### xplanet Linux RPM
 
@@ -249,7 +242,7 @@ where `x` and `y` are above 360. Might be necessary for forecast.pl
 [xplanet-0.94-3.src.rpm][52]: The source RPM to this package, containing the patches.
 [xplanet-0.94-3_8.0.i386.rpm][53]: The binary RPM, compiled under RedHat Linux 8.0.
 
-* * *
+***
 
 ### Windows information and fixed binary xplanet distribution
 
@@ -263,7 +256,7 @@ or
 or
 `C:WINNTProfiles<name>Application&nbsp;DataMozillaProfilesdefault***.sltcookies.txt`
 
-* * *
+***
 
 Please write with any suggestions to [Hans][56]
 
@@ -324,4 +317,3 @@ Please write with any suggestions to [Hans][56]
 [55]: http://www.activestate.com/Products/ActivePerl/
 [56]: mailto:hans(at)ecke(dot)ws
 
-  </name></name></y></x>
