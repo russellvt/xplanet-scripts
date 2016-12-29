@@ -49,17 +49,8 @@ _geo_locator.pl_ is a perl script that determines the coordinates of locations a
 
 _igeo.pl_ is an interactive version. It runs as a shell (using readline) and you can type your requests interactively, load different data sources or change the configuration.
 
-|  geo_locator.pl is mostly a drop-in replacement for the tzcoord.pl that comes with xplanet, but is much more powerful. The differences are:
-
-* it knows a _lot_ more locations, especially from the Getty Thesaurus
-* can perform inexact searches
-* can perform reverse lookup
- |  It gets its information from  |
-|  Last updated _02 May 2003_, Version 2.1.5: more robust; more code cleanup
-
-Downloadable files:
-
- |  There are associated marker files which contain more than 100000 locations.  |
+| geo_locator.pl is mostly a drop-in replacement for the tzcoord.pl that comes with xplanet, but is much more powerful. The differences are:<ul><li>it knows a _lot_ more locations, especially from the Getty Thesaurus</li><li>can perform inexact searches</li><li>can perform reverse lookup</li> |  It gets its information from <ul><li>your system's zone.tab file</li><li>xplanet marker files</li><li>[Getty Thesaurus of Geographic Names](http://www.getty.edu/research/tools/vocabulary/tgn/)</li></ul>  |
+|  Last updated _02 May 2003_, Version 2.1.5: more robust; more code cleanup<br>Downloadable files:<ul><li>README.geo_locator</li><li>README.igeo</li><li>ChangeLog</li><li>geo_locator_pl.tar.gz an archive containing all script- and marker files. Unpack into the xplanet directory, if you have xplanet installed. About 3 MB.</li><li>geo_locator_pl.zip the same archive, in ZIP format for Windows users</li></ul> | There are associated marker files:<ul><li>ed_u.com (from the webpage of the same name)</li><li>bcca.org (from the webpage of the same name)</li><li>weather_markers</li><li>census2000_* (from the Census 2000 in the USA)</li></ul>which contain more than 100000 locations.  |
 
 ***
 
