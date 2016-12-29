@@ -1,0 +1,41 @@
+#
+# info on the TLE format can be found at 
+#    http://www.hq.nasa.gov/osf/station/viewing/issvis.html
+#
+
+# This would draw a marker with the label "ISS (ZARYA)"
+# 25544
+
+# This draws iss.png at the location of the ISS with no label
+# 25544 "" image=iss.png transparent={0,0,0}
+
+# Same as the above, but draws the icon at the proper altitude in an
+# orthographic projection
+# 25544 "" image=iss.png transparent={0,0,0} trail={orbit,0,5} 
+
+# Draw circles bounding the regions where the satellite is more than 0
+# and 45 degrees degrees above the horizon.  Don't draw an icon or label.
+# 25544 "" image=none altcirc=0 altcirc=45
+
+# As the above, but also add an orbit trail showing the last 100
+# minutes.  Color the circles and trail yellow.  
+# 25544 "" image=none altcirc=0 altcirc=45 trail={orbit,100,5} color=yellow
+
+# ISS
+25544 color=yellow
+25544 "" image=none altcirc=0 altcirc=45 trail={orbit,-200,0,2} color=yellow
+
+# PROGRESS
+27681 color=blue
+27681 "" image=none altcirc=0 altcirc=45 trail={orbit,-200,0,2} color=blue
+
+# SOYUZ
+27781 color=green
+27781 "" image=none altcirc=0 altcirc=45 trail={orbit,-200,0,2} color=green
+
+# PROGRESS
+27823 color=blue
+27823 "" image=none altcirc=0 altcirc=45 trail={orbit,-200,0,2} color=blue
+
+
+

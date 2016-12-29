@@ -1,0 +1,24 @@
+# Satellite marker file created by visible-satellites.dpl version <devel>
+# For more information read the top of the visible-satellites.dpl script or go to
+# http://hans.ecke.ws/xplanet
+
+# Envisat [3.4]
+27386 "Envisat (10:01pm)" color=white
+27386 "" image=none altcirc=45 trail={orbit,-2,0,1} color=white
+27386 "" image=none trail={orbit,0,4,1} color=red
+# Cosmos 2322 Rocket [3.3]
+23705 "Cosmos 2322 Rocket (11:11pm)" color=white
+23705 "" image=none altcirc=45 trail={orbit,-1,0,1} color=white
+23705 "" image=none trail={orbit,0,5,1} color=red
+# Okean O Rocket [2.8]
+25861 "Okean O Rocket (09:17pm)" color=white
+25861 "" image=none altcirc=45 trail={orbit,-4,0,1} color=white
+25861 "" image=none trail={orbit,0,4,1} color=red
+# Resurs 1-4 Rocket [3.2]
+25400 "Resurs 1-4 Rocket (11:21pm)" color=white
+25400 "" image=none altcirc=45 trail={orbit,-0,0,1} color=white
+25400 "" image=none trail={orbit,0,5,1} color=red
+# Cosmos 2227 Rocket [3.5]
+22285 "Cosmos 2227 Rocket (09:25pm)" color=white
+22285 "" image=none altcirc=45 trail={orbit,-5,0,1} color=white
+22285 "" image=none trail={orbit,0,5,1} color=red

@@ -1,0 +1,37 @@
+This is an interactive (in a text terminal, using ReadLine)
+script that allows to search the coordinates (latitude and longitude)
+of given locations using exact or inexact searches, using data
+from local sources or sources on the Internet. It can also
+perform reverse lookups.
+
+You can change the configuration during runtime: load or unload data
+source modules, change the search mode, filter for different location
+types etc.
+
+For usage information call "igeo.pl -h" or just run it and type
+"h" (for help) once you see a prompt.
+
+If a city you are interested in is not found, add it to the markers file
+and contact the authors!
+
+homepage/newest version: http://hans.ecke.ws/xplanet
+xplanet information at http://xplanet.sourceforge.net
+
+Copyright 2002 Hans Ecke <hans@ecke.ws> (till version 0.3)
+Copyright 2002 Hans Ecke <hans@ecke.ws>, Felix Andrews <cortex@neurofractal.org> (after version 0.3)
+Licence: BSD. In short: this is free but comes without any warranty.
+Copyright 2002 Hans Ecke <hans@ecke.ws>, Felix Andrews (version 2.0 onwards)
+Licence: GPL. In short: this is free but comes without any warranty. Redistribution only
+   with free sourcecode and this notice intact.
+
+Comment, suggestions, bugreports are very much appreciated!
+
+Needs Perl version 5.6 or later which can be obtained from
+      * http://www.perl.com (Unix)
+      * http://www.activestate.com/Products/ActivePerl/ (Windows)
+
+########## Installation ########################
+
+Please see README.geo_locator for that.
+
+

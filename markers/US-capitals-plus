@@ -1,0 +1,192 @@
+# US-capitals-plus: markers for Xplanet
+#
+# v1.00 (10-Oct-2002)
+# compiled by Stefan P. Wolf (wolf@med2.uni-kiel.de)
+#
+#   50 capitals of all the States of the USA
+# +  1 national capital of the USA
+# +  5 capitals of other US territories and US commonwealth
+# +  9 other US possessions without capitals
+# +  3 capitals of states whose governments are associated to the US
+# ----
+# = 68 markers in total
+# ====
+#
+# 2-letter postal codes are from:
+#   http://www.postalhistory.com/very_latest_additions.htm
+#
+# additional info on the US possessions are from the CIA World Factbook:
+#   http://www.odci.gov/cia/publications/factbook/
+
+# Most Longitudes and latitudes are from:
+#   http://www.getty.edu/research/tools/vocabulary/tgn/index.html
+#
+# except:
+# Nashville, TN  --  http://www.timeanddate.com/worldclock/city.html?n=171
+# Saipan, MP     --  http://www.odci.gov/cia/publications/factbook/
+# Midway Islands --  dito
+# Johnston Atoll --  dito
+# Baker Island   --  dito
+# Howland Island --  dito
+# Jarvis Island  --  dito
+# Kingman Reef   --  dito
+# Palmyra Atoll  --  dito
+
+
+
+# --------- US state capitals ----------------------------------------
+
+  32.367  -86.300 " Montgomery, AL"          color=coral3 #Alabama
+  58.300 -134.417 " Juneau, AK"              color=coral3 #Alaska
+  33.433 -112.067 " Phoenix, AZ"             color=coral3 #Arizona
+  34.733  -92.283 " Little Rock, AR"         color=coral3 #Arkansas
+  38.567 -121.483 " Sacramento, CA"          color=coral3 #California
+  39.733 -104.983 " Denver, CO"              color=coral3 #Colorado
+  41.750  -72.683 " Hartford, CT"            color=coral3 #Connecticut
+  39.150  -75.517 " Dover, DE"               color=coral3 #Delaware
+  30.433  -84.267 " Tallahassee, FL"         color=coral3 #Florida
+  33.733  -84.383 " Atlanta, GA"             color=coral3 #Georgia
+  21.300 -157.850 " Honolulu, HI"            color=coral3 #Hawaii
+  43.600 -116.200 " Boise, ID"               color=coral3 #Idaho
+  39.800  -89.633 " Springfield, IL"         color=coral3 #Illinois
+  39.767  -86.150 " Indianapolis, IN"        color=coral3 #Indiana
+  41.600  -93.600 " Des Moines, IA"          color=coral3 #Iowa
+  39.033  -95.667 " Topeka, KS"              color=coral3 #Kansas
+  38.200  -84.867 " Frankfort, KY"           color=coral3 #Kentucky
+  30.450  -91.150 " Baton Rouge, LA"         color=coral3 #Louisiana
+  44.300  -69.767 " Augusta, ME"             color=coral3 #Maine
+  38.967  -76.483 " Annapolis, MD"           color=coral3 #Maryland
+  42.350  -71.050 " Boston, MA"              color=coral3 #Massachusetts
+  42.717  -84.550 " Lansing, MI"             color=coral3 #Michigan
+  44.933  -93.083 " St. Paul, MN"            color=coral3 #Minnesota
+  32.283  -90.183 " Jackson, MS"             color=coral3 #Mississippi
+  38.567  -92.167 " Jefferson City, MO"      color=coral3 #Missouri
+  46.583 -112.033 " Helena, MT"              color=coral3 #Montana
+  40.800  -96.667 " Lincoln, NE"             color=coral3 #Nebraska
+  39.150 -119.750 " Carson City, NV"         color=coral3 #Nevada
+  43.200  -71.533 " Concord, NH"             color=coral3 #New Hampshire
+  40.217  -74.733 " Trenton, NJ"             color=coral3 #New Jersey
+  35.683 -105.933 " Santa Fe, NM"            color=coral3 #New Mexico
+  42.650  -73.750 " Albany, NY"              color=coral3 #New York
+  35.767  -78.633 " Raleigh, NC"             color=coral3 #North Carolina
+  46.800 -100.783 " Bismarck, ND"            color=coral3 #North Dakota
+  39.950  -82.983 " Columbus, OH"            color=coral3 #Ohio
+  35.467  -97.500 " Oklahoma City, OK"       color=coral3 #Oklahoma
+  44.933 -123.033 " Salem, OR"               color=coral3 #Oregon
+  40.267  -76.883 " Harrisburg, PA"          color=coral3 #Pennsylvania
+  41.817  -71.400 " Providence, RI"          color=coral3 #Rhode Island
+  34.000  -81.033 " Columbia, SC"            color=coral3 #South Carolina
+  44.367 -100.350 " Pierre, SD"              color=coral3 #South Dakota
+  36.167  -86.767 " Nashville, TN"           color=coral3 #Tennessee
+  30.267  -97.733 " Austin, TX"              color=coral3 #Texas
+  40.750 -111.883 " Salt Lake City, UT"      color=coral3 #Utah
+  44.250  -72.567 " Montpelier, VT"          color=coral3 #Vermont
+  37.550  -77.450 " Richmond, VA"            color=coral3 #Virginia
+  47.033 -122.883 " Olympia, WA"             color=coral3 #Washington
+  38.333  -81.617 " Charleston, WV"          color=coral3 #West Virginia
+  43.067  -89.400 " Madison, WI"             color=coral3 #Wisconsin
+  41.133 -104.817 " Cheyenne, WY"            color=coral3 #Wyoming
+
+
+
+# --------- US national capital --------------------------------------
+
+# The USA national capital Washington, DC (District of Columbia)
+  38.883  -77.033 " Washington, DC"          color=gold   # -- USA national capital
+
+
+
+# --------- US territories' capitals ---------------------------------
+
+# American Samoa (Territory of American Samoa)
+# American Samoa is an unorganized, unincorporated territory of the USA
+ -14.267 -170.717 " Pago Pago, AS"           color=green  # -- American Samoa
+
+# Guam (Territority of Guam)
+# Guam is an organized, unincorporated territory of the USA
+# (another name for the capital Hagatna is "Agana")
+  13.467  144.750 " Hagatna, GU"             color=green  # -- Guam
+
+# Northern Mariana Islands (Commonwealth of the Northern Mariana Islands
+# Northern Mariana Islands is commonwealth in political union with the USA
+  15.200  145.750 " Saipan, MP"              color=green  # -- Northern Mariana Islands
+
+# Puerto Rico (Commonwealth of Puerto Rico)
+# Puerto Rico is commonwealth associated with the USA
+  18.483  -66.133 " San Juan, PR"            color=green  # -- Puerto Rico
+
+# United States Virgin Islands
+# United States Virgin Islands are an organized, unincorporated territory of the USA
+  18.367  -64.933 " Charlotte Amalie, VI"    color=green  # -- United States Virgin Islands
+
+
+
+# --------- US possessions without capitals --------------------------
+
+# Baker Island
+# Baker Island is an unincorporated territory of the US
+# The island is uninhabited, it has a day beacon
+   0.217 -176.517 " Baker Island, BI"        color=yellow # -- Baker Island
+
+# Howland Island
+# Howland Island is an unincorporated territory of the US
+# The sland is uninhabited, it has a day beacon
+   0.800 -176.633 " Howland Island"          color=yellow # -- Howland Island
+
+# Jarvis Island
+# Jarvis Island is an unincorporated territory of the US
+# The sland is uninhabited (settlement abandoned) and has a day beacon
+  -0.367 -160.050 " Jarvis Island"           color=yellow # -- Jarvis Island
+
+# Johnston Atoll
+# Johnston Atoll is an unincorporated territory of the US
+# The atoll has an airstrip and a closing Navy site
+  16.750 -169.517 " Johnston Atoll (JO)"     color=yellow # -- Johnston Atoll
+
+# Kingman Reef
+# Kingman Reef is an unincorporated territory of the US
+# The reef is uninhabited
+   6.400 -162.400 " Kingman Reef"            color=yellow # -- Kingman Reef
+
+# Midway Islands
+# Midway Islands are an unincorporated territory of the US
+# The islands are inhabited by US Fish and Wildlife Service staff only and
+# have a closed Navy base, 3 airports and a wildlife refuge open to the public
+  28.217 -177.367 " Midway Islands (MW)"     color=yellow # -- Midway Islands
+
+# Navassa Island
+# Navassa Island is an unincorporated territory of the US
+# The island is uninhabited
+  18.400  -75.017 " Navassa Island"          color=yellow # -- Navassa Island
+
+# Palmyra Atoll
+# Palmyra Atoll an unincorporated territory of the US
+# The atoll is inhabited by US Fish and Wildlife Service staff only; it has an airstrip
+   5.867 -162.100 " Palmyra Atoll (PM)"      color=yellow # -- Palmyra Atoll
+
+# Wake Island
+# Wake Island is an unincorporated territory of the US
+# The island has 1 airport and a military base (only civilian staff left)
+  19.300  166.600 " Wake Island (WK)"        color=yellow # -- Wake Island
+
+
+
+# --------- US associated states -------------------------------------
+
+# Marshall Islands (Republic of the Marshall Islands)
+# Marshall Islands are independent but governed in free association with the US
+   7.083  171.133 " Majuro, MH"              color=white  # -- Marshall Islands
+
+# Micronesia (Federated States of Micronesia)
+# Micronesia is independent but governed in free association with the US
+# (another name for the capital Palikir is "Kolonia")
+   6.967  158.217 " Palikir, FM"             color=white  # -- Micronesia
+
+# Palau (Republic of Palau)
+# Palau is independent but governed in free association with the US
+# current capital is Koror but a new capital is being built about 20 km northeast of Koror
+   7.350  134.517 " Koror, PW"               color=white  # -- Palau
+
+
+# --------- end ------------------------------------------------------
+

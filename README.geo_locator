@@ -1,0 +1,47 @@
+This script searches the coordinates (latitude and longitude)
+of a given location using exact or inexact searches, using data
+from local sources or sources on the Internet. It can also
+perform reverse lookups.
+
+It is a drop-in replacement for the tzcoord.pl script that comes with
+xplanet, but is more powerful and can know a lot more locations.
+
+For usage information call "geo_locator.pl -h".
+
+If a city you are interested in is not found, add it to the markers file
+and contact the authors!
+
+homepage/newest version: http://hans.ecke.ws/xplanet
+xplanet information at http://xplanet.sourceforge.net
+
+Copyright 2002 Hans Ecke <hans@ecke.ws> (till version 0.3)
+Copyright 2002 Hans Ecke <hans@ecke.ws>, Felix Andrews <cortex@neurofractal.org> 
+              (after version 0.3)
+Licence: BSD. In short: this is free but comes without any warranty.
+Copyright 2002 Hans Ecke <hans@ecke.ws>, Felix Andrews (version 2.0 onwards)
+Licence: GPL. In short: this is free but comes without any warranty. Redistribution only
+   with free sourcecode and this notice intact.
+
+Comment, suggestions, bugreports are very much appreciated!
+
+Needs Perl version 5.6 or later which can be obtained from
+      * http://www.perl.com (Unix)
+      * http://www.activestate.com/Products/ActivePerl/ (Windows)
+
+########## Installation ########################
+
+* Unpack the distribution into a directory.
+  If you have xplanet installed, unpack the distribution into the
+  xplanet directory.
+  
+* If you unpacked everything into your xplanet-directory you should
+  be ready to roll. If not, 
+     * either set the XPLANET_DIR environment variable to your xplanet directory
+     * or adjust the variable XPLANET_DIR at top of the xplanet.conf configuration file.  
+
+* The very first run (and the first run after each configuration change) will be
+  somewhat slow so the program can initialize its cache.
+  
+* More detailed configuration can be done by editing the xplanet.conf configuration
+  file. Don't worry, its easy.  
+

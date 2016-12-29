@@ -1,0 +1,83 @@
+# This is a list of the 50 largest cities in the world, as tabulated
+# at http://www.infoplease.com/ipa/A0762524.html.
+#
+# Longitudes and latitudes are from
+# http://www.getty.edu/research/tools/vocabulary/tgn/index.html
+
+ 90.00    0.00 "North Pole"     color=LightBlue # North Pole
+-90.00    0.00 "South Pole"     color=LightBlue # South Pole
+ 33.35   44.42 "Baghdad"                        # Iraq
+ 12.97   77.58 "Bangalore"                      # India
+ 13.73  100.50 "Bangkok"                        # Thailand
+ 39.92  116.43 "Beijing"                        # China
+  4.63  -74.08 "Bogota"                         # Colombia
+# 42.35  -71.05 "Boston"                         # USA
+-34.67  -58.50 "Buenos Aires"                   # Argentina
+ 30.05   31.25 "Cairo"                          # Egypt
+ 22.50   88.33 "Calcutta"                       # India
+# 13.08   80.30 "Chennai"                        # India
+# 41.85  -87.65 "Chicago"                        # USA
+ 32.78  -96.80 "Dallas"                         # USA
+ 28.67   77.22 "Delhi"                          # India
+ 42.32  -83.03 "Detroit"                        # USA
+# 23.72   90.37 "Dhaka"                          # Bangladesh
+# 51.45    6.95 "Essen"                          # Germany
+ 22.28  114.15 "Hong Kong"                      # China
+# 17.37   78.43 "Hyderabad"                      # India
+ 41.03   28.95 "Istanbul"                       # Turkey
+ -6.13  106.75 "Jakarta"                        # Indonesia
+-26.17   28.03 "Johannesburg"                   # South Africa
+ 24.85   67.03 "Karachi"                        # Pakistan
+ -4.30   15.30 "Kinshasa"                       # Congo
+  6.45    3.47 "Lagos"                          # Nigeria
+# 31.57   74.37 "Lahore"                         # Pakistan
+-12.05  -77.05 "Lima"                           # Peru
+ 51.50   -0.17 "London"                         # United Kingdom
+ 34.05 -118.23 "Los Angeles"                    # USA
+ 40.42   -3.72 "Madrid"                         # Spain
+ 14.62  120.97 "Manila"                         # Philippines
+ 19.40  -99.15 "Mexico City"                    # Mexico
+ 55.75   37.70 "Moscow"                         # Russia
+ 18.93   72.85 "Mumbai"                         # India
+# 35.13  136.88 "Nagoya"                         # Japan
+ 40.70  -74.00 "New York"                       # USA
+ 34.67  135.50 "Osaka"                          # Japan
+ 48.87    2.33 "Paris"                          # France
+# 39.95  -75.15 "Philadelphia"                   # USA 
+-22.88  -43.28 "Rio de Janeiro"                 # Brazil
+ 37.77 -122.42 "San Francisco"                  # USA
+-33.45  -70.67 "Santiago"                       # Chile
+-23.55  -46.65 "Sao Paulo"                      # Brazil
+ 37.53  127.00 "Seoul"                          # South Korea
+ 31.10  121.37 "Shanghai"                       # China
+ 59.88   30.25 "St. Petersburg"                 # Russia
+# 25.02  121.37 "Taipei"                         # Taiwan
+ 35.67   51.43 "Teheran"                        # Iran
+ 39.13  117.20 "Tianjin"                        # China
+ 35.75  139.50 "Tokyo"                          # Japan
+ 38.88  -77.03 "Washington"                     # USA
+
+# Some other big cities
+# 23.05   72.67 "Ahmadabad"                      # India
+# 31.20   29.90 "Alexandria"                     # Egypt
+# 39.92   32.83 "Ankara"                         # Turkey
+  52.53   13.42 "Berlin"                         # Germany
+# 10.50  -66.92 "Caracas"                        # Venezuela
+# 30.62  104.10 "Chengdu"                        # China
+# 30.65  103.68 "Chongqing"                      # China
+# 23.13  113.33 "Guangzhou"                      # China
+# 45.75  126.68 "Harbin"                         # China
+# 10.75  106.67 "Ho Chi Minh City"               # Vietnam
+#-37.75  144.97 "Melbourne"                      # Australia
+# 35.08  129.03 "Pusan"                          # South Korea
+# 39.00  125.78 "Pyongyang"                      # North Korea
+# 41.83  123.43 "Shenyang"                       # China
+#  1.28  103.85 "Singapore"                      # Singapore
+ -33.92  151.17 "Sydney"                         # Australia
+# 30.58  114.32 "Wuhan"                          # China
+# 34.27  108.90 "Xian"                           # China
+# 35.47  139.63 "Yokohama"                       # Japan
+
+# This puts a smiley face at the subsolar point.  Comment it out if it
+# makes you sick.
+#position=sun image=smile.png transparent={255,255,255}

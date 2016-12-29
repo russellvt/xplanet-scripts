@@ -1,0 +1,9 @@
+#
+# Get the latest orbital elements from celestrak.com:
+# wget -O science.tle http://www.celestrak.com/NORAD/elements/science.txt
+#
+# info on the TLE format can be found at 
+#    http://www.hq.nasa.gov/osf/station/viewing/issvis.html
+
+20580 "Hubble" color=red
+20580 "" image=none altcirc=0 altcirc=45 trail={orbit,-200,0,2} color=red

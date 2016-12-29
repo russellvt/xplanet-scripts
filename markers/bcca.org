@@ -1,0 +1,1069 @@
+#  32.95  -85.95 "Alexander City"               # Alabama
+#  33.58  -85.85 "Anniston"                     # Alabama
+#  32.60  -85.50 "Auburn"                       # Alabama
+#  33.57  -86.75 "Birmingham"                   # Alabama
+#  34.62  -86.98 "Decatur"                      # Alabama
+#  31.32  -85.45 "Dothan"                       # Alabama
+#  34.80  -87.67 "Florence"                     # Alabama
+#  34.02  -86.00 "Gadsden"                      # Alabama
+#  34.70  -86.58 "Huntsville"                   # Alabama
+#  30.68  -88.25 "Mobile"                       # Alabama
+#  30.67  -88.25 "Mobile Co"                    # Alabama
+#  32.38  -86.37 "Montgomery"                   # Alabama
+#  32.33  -87.98 "Selma-Craig"                  # Alabama
+#  33.45  -86.10 "Talladega"                    # Alabama
+#  33.22  -87.62 "Tuscaloosa"                   # Alabama
+#  61.17 -150.02 "Anchorage"                    # Alaska
+#  71.30 -156.78 "Barrow"                       # Alaska
+#  64.82 -147.87 "Fairbanks"                    # Alaska
+#  58.37 -134.58 "Juneau"                       # Alaska
+#  57.75 -152.48 "Kodiak"                       # Alaska
+#  64.50 -165.43 "Nome"                         # Alaska
+#  31.45 -109.60 "Douglas"                      # Arizona
+#  35.13 -111.67 "Flagstaff"                    # Arizona
+#  31.58 -110.33 "Fort Huachuca"                # Arizona
+#  35.20 -114.02 "Kingman"                      # Arizona
+#  31.35 -110.92 "Nogales"                      # Arizona
+#  33.43 -112.02 "Phoenix"                      # Arizona
+#  34.65 -112.43 "Prescott"                     # Arizona
+#  32.12 -110.93 "Tucson"                       # Arizona
+#  35.02 -110.73 "Winslow"                      # Arizona
+#  32.65 -114.62 "Yuma"                         # Arizona
+#  35.95  -89.95 "Blytheville"                  # Arkansas
+#  33.60  -92.82 "Camden"                       # Arkansas
+#  33.22  -92.82 "El Dorado"                    # Arkansas
+#  36.00  -94.17 "Fayetteville"                 # Arkansas
+#  35.33  -94.37 "Fort Smith"                   # Arkansas
+#  34.48  -93.10 "Hot Springs"                  # Arkansas
+#  35.83  -90.70 "Jonesboro"                    # Arkansas
+#  34.73  -92.23 "Little Rock"                  # Arkansas
+#  34.30  -92.08 "Pine Bluff"                   # Arkansas
+#  33.45  -93.98 "Texarkana"                    # Arkansas
+#  35.42 -119.05 "Bakersfield"                  # California
+#  34.85 -116.78 "Barstow"                      # California
+#  33.62 -114.72 "Blythe"                       # California
+#  34.20 -118.35 "Burbank"                      # California
+#  39.80 -121.85 "Chico"                        # California
+#  37.97 -121.98 "Concord"                      # California
+#  34.08 -117.87 "Covina"                       # California
+#  41.77 -124.20 "Crescent City"                # California
+#  33.93 -118.13 "Downey"                       # California
+#  32.82 -116.97 "El Cajon"                     # California
+#  32.82 -115.67 "El Cerrito"                   # California
+#  33.12 -117.08 "Escondido"                    # California
+#  40.98 -124.10 "Eureka/Arcata"                # California
+#  38.27 -121.93 "Fairfield-Trafis"             # California
+#  36.77 -119.72 "Fresno"                       # California
+#  38.07 -122.50 "Hamilton"                     # California
+#  33.55 -117.78 "Laguna Beach"                 # California
+#  37.70 -121.95 "Livermore"                    # California
+#  34.72 -120.57 "Lompoc"                       # California
+#  33.82 -118.15 "Long Beach"                   # California
+#  33.93 -118.40 "Los Angeles"                  # California
+#  34.05 -118.23 "Los Angeles CO"               # California
+#  37.38 -120.57 "Merced-Castle"                # California
+#  37.65 -121.00 "Modesto"                      # California
+#  36.60 -121.90 "Monterey"                     # California
+#  38.22 -122.28 "Napa"                         # California
+#  34.60 -114.62 "Needles"                      # California
+#  37.82 -122.32 "Oakland"                      # California
+#  33.23 -117.42 "Oceanside"                    # California
+#  34.05 -117.60 "Ontario"                      # California
+#  34.20 -119.18 "Oxnard"                       # California
+#  34.63 -118.10 "Palmdale"                     # California
+#  33.82 -116.53 "Palm Springs"                 # California
+#  34.15 -118.15 "Pasadena"                     # California
+#  38.23 -122.63 "Petaluma"                     # California
+#  34.05 -117.75 "Pomona Co"                    # California
+#  40.52 -122.30 "Redding"                      # California
+#  34.05 -117.18 "Redlands"                     # California
+#  37.93 -122.35 "Richmond"                     # California
+#  33.90 -117.25 "Riverside-March"              # California
+#  38.52 -121.50 "Sacramento"                   # California
+#  36.67 -121.60 "Salinas"                      # California
+#  34.13 -117.27 "San Bernadino"                # California
+#  32.73 -117.17 "San Diego"                    # California
+#  34.28 -118.47 "San Fernando"                 # California
+#  37.62 -122.38 "San Francisco"                # California
+#  37.77 -122.43 "San Francisco Co"             # California
+#  37.37 -121.93 "San Jose"                     # California
+#  35.33 -120.72 "San Louis Obispo"             # California
+#  33.75 -117.87 "Santa Ana"                    # California
+#  34.43 -119.83 "Santa Barbara MAP"            # California
+#  36.98 -122.02 "Santa Cruz"                   # California
+#  34.90 -120.45 "Santa Maria"                  # California
+#  34.02 -118.48 "Santa Monica CIC"             # California
+#  34.35 -119.08 "Santa Paula"                  # California
+#  38.52 -122.82 "Santa Rosa"                   # California
+#  37.90 -121.25 "Stockton"                     # California
+#  39.15 -123.20 "Ukiah"                        # California
+#  36.33 -119.30 "Visalia"                      # California
+#  41.72 -122.63 "Yreka"                        # California
+#  39.13 -121.60 "Yuba City"                    # California
+#  37.45 -105.87 "Alamosa"                      # Colorado
+#  40.00 -105.27 "Boulder"                      # Colorado
+#  38.82 -104.72 "Colorado Springs"             # Colorado
+#  39.75 -104.87 "Denver"                       # Colorado
+#  37.28 -107.88 "Durango"                      # Colorado
+#  40.75 -105.08 "Fort Collins"                 # Colorado
+#  39.12 -108.53 "Grand Junction"               # Colorado
+#  40.43 -104.63 "Greeley"                      # Colorado
+#  38.05 -103.50 "Lajunta"                      # Colorado
+#  39.25 -106.30 "Leadville"                    # Colorado
+#  38.30 -104.48 "Pueblo"                       # Colorado
+#  40.62 -103.20 "Sterling"                     # Colorado
+#  37.25 -104.33 "Trinidad"                     # Colorado
+#  41.18  -73.18 "Bridgeport"                   # Connecticut
+#  41.73  -72.65 "Hartford"                     # Connecticut
+#  41.32  -73.92 "New Haven"                    # Connecticut
+#  41.35  -72.10 "New London"                   # Connecticut
+#  41.12  -73.42 "Norwalk"                      # Connecticut
+#  41.53  -72.07 "Norwick"                      # Connecticut
+#  41.58  -73.07 "Waterbury"                    # Connecticut
+#  41.93  -72.68 "Widsor Locks"                 # Connecticut
+#  39.13  -75.47 "Dover"                        # Delaware
+#  39.67  -75.60 "Wilmington"                   # Delaware
+#  38.08  -76.08 "Andrews"                      # District Of Columbia
+#  38.85  -77.03 "Washington"                   # District Of Columbia
+#  26.65  -80.65 "Belle Glade"                  # Florida
+#  28.48  -80.57 "Cape Kennedy"                 # Florida
+#  29.18  -81.05 "Daytona Beach"                # Florida
+#  26.07  -80.15 "E Fort Lauderdale"            # Florida
+#  26.58  -81.87 "Fort Myers"                   # Florida
+#  27.47  -80.35 "Fort Pierce"                  # Florida
+#  29.68  -82.27 "Gainsville"                   # Florida
+#  30.50  -81.70 "Jacksonville"                 # Florida
+#  24.55  -81.75 "Key West"                     # Florida
+#  28.03  -81.95 "Lakeland Co"                  # Florida
+#  25.80  -80.27 "Miami"                        # Florida
+#  25.78  -80.28 "Miami Beach Co"               # Florida
+#  29.18  -82.13 "Ocala"                        # Florida
+#  28.55  -81.38 "Orlando"                      # Florida
+#  30.07  -85.58 "Panama City"                  # Florida
+#  30.42  -87.22 "Pensacola Co"                 # Florida
+#  29.97  -81.33 "St. Augustine"                # Florida
+#  27.77  -83.33 "St. Petersburg"               # Florida
+#  28.77  -81.28 "Stanford"                     # Florida
+#  27.38  -82.55 "Sarasota"                     # Florida
+#  30.38  -84.37 "Tallahassee"                  # Florida
+#  27.97  -82.53 "Tampa"                        # Florida
+#  26.68  -80.10 "West Palm Beach"              # Florida
+#  31.60  -84.08 "Albany"                       # Georgia
+#  32.05  -84.23 "Americus"                     # Georgia
+#  33.95  -83.32 "Athens"                       # Georgia
+#  33.65  -84.43 "Atlanta"                      # Georgia
+#  33.37  -81.97 "Augusta"                      # Georgia
+#  31.25  -81.48 "Brunswick"                    # Georgia
+#  32.52  -84.93 "Columbus"                     # Georgia
+#  34.57  -84.95 "Dalton"                       # Georgia
+#  32.33  -82.90 "Dublin"                       # Georgia
+#  34.18  -83.68 "Gainsville"                   # Georgia
+#  33.22  -84.27 "Griffin"                      # Georgia
+#  33.02  -85.07 "LaGrange"                     # Georgia
+#  32.70  -83.65 "Macon"                        # Georgia
+#  33.92  -84.52 "Marietta"                     # Georgia
+#  32.13  -81.20 "Savannah"                     # Georgia
+#  30.97  -83.20 "Valdosta-Moody"               # Georgia
+#  31.25  -82.40 "Waycross"                     # Georgia
+#  19.72 -155.08 "Hilo"                         # Hawaii
+#  21.33 -157.92 "Honolulu"                     # Hawaii
+#  21.45 -157.77 "Kaneohe Bay MCAS"             # Hawaii
+#  21.05 -158.03 "Wahiawa"                      # Hawaii
+#  43.57 -116.22 "Boise"                        # Idaho
+#  42.53 -113.77 "Burley"                       # Idaho
+#  47.77 -116.82 "Coeur D'Alene"                # Idaho
+#  43.52 -112.07 "Idaho Falls"                  # Idaho
+#  46.38 -117.02 "Lewiston"                     # Idaho
+#  46.73 -116.97 "Moscow"                       # Idaho
+#  43.03 -115.90 "Mountain Home"                # Idaho
+#  42.92 -112.60 "Pocatello"                    # Idaho
+#  42.48 -114.48 "Twin Falls"                   # Idaho
+#  41.75  -88.33 "Aurora"                       # Illinois
+#  38.55  -89.85 "Belleville"                   # Illinois
+#  40.48  -88.95 "Bloomington"                  # Illinois
+#  37.78  -89.25 "Carbondale"                   # Illinois
+#  40.03  -88.28 "Champaign/Urbana"             # Illinois
+#  41.78  -87.75 "Chicago"                      # Illinois
+#  41.98  -87.90 "Chicago"                      # Illinois
+#  41.88  -87.63 "Chicago Co"                   # Illinois
+#  40.20  -87.60 "Danville"                     # Illinois
+#  39.83  -88.87 "Decatur"                      # Illinois
+#  41.83  -89.48 "Dixon"                        # Illinois
+#  42.03  -88.27 "Elgin"                        # Illinois
+#  42.30  -89.62 "Freeport"                     # Illinois
+#  40.93  -90.43 "Galesburg"                    # Illinois
+#  38.88  -89.40 "Greenville"                   # Illinois
+#  41.52  -88.17 "Joliet"                       # Illinois
+#  41.08  -87.92 "Kankakee"                     # Illinois
+#  41.32  -89.10 "La Salle/Peru"                # Illinois
+#  40.47  -90.67 "Macomb"                       # Illinois
+#  41.45  -90.52 "Moline"                       # Illinois
+#  38.32  -88.87 "Mt Vernon"                    # Illinois
+#  40.67  -89.68 "Peoria"                       # Illinois
+#  39.95  -91.20 "Quincy"                       # Illinois
+#  40.30  -88.13 "Rantoul"                      # Illinois
+#  42.35  -89.05 "Rockford"                     # Illinois
+#  39.83  -89.67 "Springfield"                  # Illinois
+#  42.35  -87.88 "Waukegan"                     # Illinois
+#  40.10  -85.62 "Anderson"                     # Indiana
+#  38.85  -86.50 "Bedford"                      # Indiana
+#  39.13  -86.62 "Bloomington"                  # Indiana
+#  39.27  -85.90 "Columbus"                     # Indiana
+#  40.05  -86.90 "Crawfordsville"               # Indiana
+#  38.05  -87.53 "Evansville"                   # Indiana
+#  41.00  -85.20 "Fort Wayne"                   # Indiana
+#  41.53  -85.80 "Goshen"                       # Indiana
+#  41.53  -87.25 "Hobart"                       # Indiana
+#  40.88  -85.50 "Huntington"                   # Indiana
+#  39.73  -86.28 "Indianapolis"                 # Indiana
+#  38.28  -85.75 "Jeffersonville"               # Indiana
+#  40.42  -86.05 "Kokomo"                       # Indiana
+#  40.03  -86.08 "Lafayette"                    # Indiana
+#  41.60  -86.72 "La Porte"                     # Indiana
+#  40.48  -85.68 "Marion"                       # Indiana
+#  40.18  -85.35 "Muncie"                       # Indiana
+#  40.65  -86.15 "Peru"                         # Indiana
+#  39.77  -84.83 "Richmond"                     # Indiana
+#  39.52  -85.78 "Shelbyville"                  # Indiana
+#  41.70  -86.32 "South Bend"                   # Indiana
+#  39.45  -87.30 "Terre Haute"                  # Indiana
+#  41.52  -87.03 "Valparaiso"                   # Indiana
+#  38.68  -87.53 "Vincennes"                    # Indiana
+#  42.03  -93.80 "Ames"                         # Iowa
+#  40.78  -91.12 "Burlington"                   # Iowa
+#  41.88  -91.70 "Cedar Rapids"                 # Iowa
+#  41.83  -90.22 "Clinton"                      # Iowa
+#  41.33  -95.82 "Council Bluffs"               # Iowa
+#  41.53  -93.65 "Des Moines"                   # Iowa
+#  42.40  -90.70 "Dubuque"                      # Iowa
+#  42.55  -94.18 "Fort Dodge"                   # Iowa
+#  41.63  -91.55 "Iowa City"                    # Iowa
+#  40.40  -91.40 "Keokuk"                       # Iowa
+#  42.07  -92.93 "Marshalltown"                 # Iowa
+#  43.15  -93.33 "Mason City"                   # Iowa
+#  41.68  -93.03 "Newton"                       # Iowa
+#  41.10  -92.45 "Ottumwa"                      # Iowa
+#  42.40  -96.38 "Sioux City"                   # Iowa
+#  42.55  -92.40 "Waterloo"                     # Iowa
+#  39.57  -95.12 "Atchison"                     # Kansas
+#  37.67  -95.48 "Chanute"                      # Kansas
+#  37.77  -99.97 "Dodge City"                   # Kansas
+#  37.82  -96.83 "El Dorado"                    # Kansas
+#  38.33  -96.20 "Emporia"                      # Kansas
+#  37.93 -100.73 "Garden City"                  # Kansas
+#  39.37 -101.70 "Goodland"                     # Kansas
+#  38.35  -98.87 "Great Bend"                   # Kansas
+#  38.07  -97.87 "Hutchinson"                   # Kansas
+#  37.05 -100.97 "Liberal"                      # Kansas
+#  39.05  -96.77 "Manhattan"                    # Kansas
+#  37.33  -95.52 "Parsons"                      # Kansas
+#  38.87  -98.82 "Russell"                      # Kansas
+#  38.80  -97.65 "Salina"                       # Kansas
+#  39.07  -95.63 "Topeka"                       # Kansas
+#  37.65  -97.42 "Wichita"                      # Kansas
+#  38.55  -82.73 "Ashland"                      # Kentucky
+#  35.97  -86.47 "Bowling Green"                # Kentucky
+#  36.95  -84.10 "Corbin"                       # Kentucky
+#  39.05  -84.67 "Covington"                    # Kentucky
+#  36.67  -87.48 "Hopkinsville"                 # Kentucky
+#  38.03  -84.60 "Lexington"                    # Kentucky
+#  38.18  -85.73 "Louisville"                   # Kentucky
+#  37.32  -87.48 "Madisonville"                 # Kentucky
+#  37.75  -87.17 "Owensboro"                    # Kentucky
+#  37.07  -88.77 "Paducah"                      # Kentucky
+#  31.40  -92.30 "Alexandria"                   # Louisiana
+#  30.53  -91.15 "Baton Rouge"                  # Louisiana
+#  30.78  -89.87 "Bogalusa"                     # Louisiana
+#  29.52  -90.67 "Houma"                        # Louisiana
+#  30.20  -92.00 "Lafayette"                    # Louisiana
+#  30.12  -93.22 "Lake Charles"                 # Louisiana
+#  32.60  -93.30 "Minden"                       # Louisiana
+#  32.52  -92.03 "Monroe"                       # Louisiana
+#  31.77  -93.08 "Natchitoches"                 # Louisiana
+#  29.98  -90.25 "New Orleans"                  # Louisiana
+#  32.47  -93.82 "Shreveport"                   # Louisiana
+#  44.32  -69.80 "Augusta"                      # Maine
+#  44.80  -68.83 "Bangor"                       # Maine
+#  46.87  -68.02 "Caribou"                      # Maine
+#  44.03  -70.25 "Lewiston"                     # Maine
+#  45.65  -68.70 "Millinocket"                  # Maine
+#  43.65  -70.32 "Portland"                     # Maine
+#  44.53  -69.67 "Waterville"                   # Maine
+#  39.18  -76.67 "Baltimore"                    # Maryland
+#  39.33  -76.42 "Baltimore Co"                 # Maryland
+#  39.62  -78.77 "Cumberland"                   # Maryland
+#  39.45  -77.42 "Frederick"                    # Maryland
+#  39.70  -77.73 "Hagerstown"                   # Maryland
+#  38.33  -75.50 "Salisbury"                    # Maryland
+#  42.37  -71.03 "Boston"                       # Massachusetts
+#  42.40  -71.68 "Clinton"                      # Massachusetts
+#  41.72  -71.13 "Fall River"                   # Massachusetts
+#  42.28  -71.42 "Framingham"                   # Massachusetts
+#  42.58  -70.68 "Gloucester"                   # Massachusetts
+#  42.05  -72.07 "Greenfield"                   # Massachusetts
+#  42.70  -71.17 "Lawrence"                     # Massachusetts
+#  42.65  -71.32 "Lowell"                       # Massachusetts
+#  41.68  -70.97 "New Bedford"                  # Massachusetts
+#  42.43  -73.30 "Pittsfield"                   # Massachusetts
+#  42.20  -72.53 "Springfield"                  # Massachusetts
+#  41.90  -71.07 "Taunton"                      # Massachusetts
+#  42.27  -71.87 "Worcester"                    # Massachusetts
+#  41.92  -84.02 "Adrian"                       # Michigan
+#  45.07  -83.43 "Alpena"                       # Michigan
+#  42.32  -85.25 "Battle Creek"                 # Michigan
+#  42.13  -86.43 "Benton Harbor"                # Michigan
+#  42.42  -83.02 "Detroit"                      # Michigan
+#  45.73  -87.08 "Escanaba"                     # Michigan
+#  42.97  -83.73 "Flint"                        # Michigan
+#  42.88  -85.52 "Grand Rapids"                 # Michigan
+#  42.70  -86.10 "Holland"                      # Michigan
+#  42.27  -84.47 "Jackson"                      # Michigan
+#  42.28  -85.60 "Kalamazoo"                    # Michigan
+#  42.78  -84.60 "Lansing"                      # Michigan
+#  46.57  -87.40 "Marquette Co"                 # Michigan
+#  43.58  -84.77 "Mt Pleasant"                  # Michigan
+#  43.17  -86.23 "Muskegon"                     # Michigan
+#  42.67  -83.42 "Pontiac"                      # Michigan
+#  42.98  -82.42 "Port Huron"                   # Michigan
+#  43.53  -84.08 "Saginaw"                      # Michigan
+#  46.47  -84.37 "Sault Ste. Marie"             # Michigan
+#  44.75  -85.58 "Traverse City"                # Michigan
+#  42.23  -83.53 "Ypsilanti"                    # Michigan
+#  43.65  -93.35 "Albert Lea"                   # Minnesota
+#  45.87  -95.38 "Alexandria"                   # Minnesota
+#  47.52  -94.93 "Bemidji"                      # Minnesota
+#  46.40  -94.13 "Brainerd"                     # Minnesota
+#  46.83  -92.18 "Duluth"                       # Minnesota
+#  44.30  -93.27 "Fairbault"                    # Minnesota
+#  46.27  -96.07 "Fergus Falls"                 # Minnesota
+#  48.57  -93.38 "International Falls"          # Minnesota
+#  44.15  -93.98 "Mankato"                      # Minnesota
+#  44.88  -93.22 "Minneapolis/St. Paul"         # Minnesota
+#  43.92  -92.50 "Rochester"                    # Minnesota
+#  45.58  -94.18 "St. Cloud"                    # Minnesota
+#  47.50  -92.55 "Virginia"                     # Minnesota
+#  45.12  -95.08 "Willmar"                      # Minnesota
+#  44.05  -91.63 "Winona"                       # Minnesota
+#  30.42  -88.92 "Biloxi--Keesler"              # Mississippi
+#  34.20  -90.57 "Clarksdale"                   # Mississippi
+#  33.65  -88.45 "Columbus"                     # Mississippi
+#  33.48  -90.98 "Greenville"                   # Mississippi
+#  33.50  -90.08 "Greenwood"                    # Mississippi
+#  31.27  -89.25 "Hattiesburg"                  # Mississippi
+#  32.32  -90.08 "Jackson"                      # Mississippi
+#  31.67  -89.17 "Laurel"                       # Mississippi
+#  31.25  -90.47 "Mccomb"                       # Mississippi
+#  32.33  -88.75 "Meridian"                     # Mississippi
+#  31.55  -91.38 "Natchez"                      # Mississippi
+#  34.27  -88.77 "Tupelo"                       # Mississippi
+#  32.40  -90.78 "Vicksburg Co"                 # Mississippi
+#  37.23  -89.58 "Cape Girardeau"               # Missouri
+#  38.97  -92.37 "Columbia"                     # Missouri
+#  37.77  -90.40 "Farmington"                   # Missouri
+#  39.70  -91.35 "Hannibal"                     # Missouri
+#  38.57  -92.18 "Jefferson City"               # Missouri
+#  37.15  -94.50 "Joplin"                       # Missouri
+#  39.12  -94.58 "Kansas City"                  # Missouri
+#  40.10  -92.55 "Kirksville"                   # Missouri
+#  39.18  -91.90 "Mexico"                       # Missouri
+#  39.40  -92.43 "Moberly"                      # Missouri
+#  36.77  -90.42 "Poplar Bluff"                 # Missouri
+#  37.98  -91.72 "Rolla"                        # Missouri
+#  39.77  -94.92 "St. Joseph"                   # Missouri
+#  38.75  -90.38 "St. Louis"                    # Missouri
+#  38.65  -90.63 "St. Louis CO"                 # Missouri
+#  36.88  -89.60 "Sikeston"                     # Missouri
+#  38.72  -93.55 "Sedalia--Whiteman"            # Missouri
+#  36.88  -89.60 "Sikeston"                     # Missouri
+#  37.23  -93.38 "Springfield"                  # Missouri
+#  45.80 -108.53 "Billings"                     # Montana
+#  45.78 -111.15 "Bozeman"                      # Montana
+#  45.95 -112.50 "Butte"                        # Montana
+#  48.62 -112.37 "Cut Bank"                     # Montana
+#  48.42 -106.53 "Glasgow"                      # Montana
+#  47.13 -104.80 "Glendive"                     # Montana
+#  47.48 -111.37 "Great Falls"                  # Montana
+#  48.57 -109.67 "Havre"                        # Montana
+#  46.60 -112.00 "Helena"                       # Montana
+#  48.30 -114.27 "Kalispell"                    # Montana
+#  47.07 -109.45 "Lewiston"                     # Montana
+#  45.70 -110.43 "Livingstown"                  # Montana
+#  46.43 -105.87 "Miles City"                   # Montana
+#  46.92 -114.08 "Missoula"                     # Montana
+#  40.27  -96.75 "Beatrice"                     # Nebraska
+#  42.83 -103.08 "Chadron"                      # Nebraska
+#  41.47  -97.33 "Columbus"                     # Nebraska
+#  41.43  -96.48 "Fremont"                      # Nebraska
+#  40.98  -98.32 "Grand Island"                 # Nebraska
+#  40.60  -98.43 "Hastings"                     # Nebraska
+#  40.73  -99.02 "Kearney"                      # Nebraska
+#  40.85  -96.75 "Lincoln Co"                   # Nebraska
+#  40.20 -100.63 "McCook"                       # Nebraska
+#  41.98  -97.43 "Norfolk"                      # Nebraska
+#  41.13 -100.68 "North Platte"                 # Nebraska
+#  41.30  -95.90 "Omaha"                        # Nebraska
+#  41.87 -103.60 "Scottsbluff"                  # Nebraska
+#  41.22 -103.10 "Sidney"                       # Nebraska
+#  39.17 -119.77 "Carson City"                  # Nevada
+#  40.83 -115.78 "Elko"                         # Nevada
+#  39.28 -114.85 "Ely"                          # Nevada
+#  36.08 -115.17 "Las Vegas"                    # Nevada
+#  40.07 -118.55 "Lovelock"                     # Nevada
+#  39.50 -119.78 "Reno"                         # Nevada
+#  39.50 -119.78 "Reno Co"                      # Nevada
+#  38.07 -117.08 "Tonopah"                      # Nevada
+#  40.90 -117.80 "Winnemucca"                   # Nevada
+#  44.05  -71.02 "Berlin"                       # New Hampshire
+#  43.03  -72.03 "Claremont"                    # New Hampshire
+#  43.20  -71.50 "Concord"                      # New Hampshire
+#  42.92  -72.28 "Keene"                        # New Hampshire
+#  43.05  -71.05 "Laconia"                      # New Hampshire
+#  42.93  -71.43 "Manchester"                   # New Hampshire
+#  43.07  -70.82 "Portsmouth"                   # New Hampshire
+#  39.38  -74.43 "Atlantic City CO"             # New Jersey
+#  40.32  -74.02 "Long Branch"                  # New Jersey
+#  40.70  -74.17 "Newark"                       # New Jersey
+#  40.48  -74.43 "New Brunswick"                # New Jersey
+#  40.90  -74.15 "Paterson"                     # New Jersey
+#  40.68  -75.18 "Phillipsburg"                 # New Jersey
+#  40.22  -74.77 "Trenton Co"                   # New Jersey
+#  39.48  -75.00 "Vineland"                     # New Jersey
+#  32.85 -106.10 "Holloman"                     # New Mexico
+#  35.05 -106.62 "Albuquerque"                  # New Mexico
+#  32.77 -104.38 "Artesia"                      # New Mexico
+#  32.33 -104.27 "Carlsbad"                     # New Mexico
+#  34.38 -103.32 "Clovis"                       # New Mexico
+#  36.73 -108.23 "Farmington"                   # New Mexico
+#  35.52 -108.78 "Gallup"                       # New Mexico
+#  35.17 -107.90 "Grants"                       # New Mexico
+#  32.75 -103.22 "Hobbs"                        # New Mexico
+#  32.30 -106.92 "Las Cruces"                   # New Mexico
+#  35.87 -106.32 "Los Alamos"                   # New Mexico
+#  36.75 -104.50 "Raton"                        # New Mexico
+#  33.30 -104.53 "Roswell"                      # New Mexico
+#  35.62 -106.08 "Santa Fe CO"                  # New Mexico
+#  32.63 -108.17 "Silver City"                  # New Mexico
+#  34.05 -106.88 "Socorro"                      # New Mexico
+#  35.18 -103.60 "Tucumcari"                    # New Mexico
+#  42.75  -73.80 "Albany"                       # New York
+#  42.65  -73.75 "Albany Co"                    # New York
+#  42.90  -76.53 "Auburn"                       # New York
+#  43.00  -78.18 "Batavia"                      # New York
+#  42.22  -75.98 "Binghamton"                   # New York
+#  42.93  -78.73 "Buffalo"                      # New York
+#  42.60  -76.18 "Cortland"                     # New York
+#  42.48  -79.27 "Dunkirk"                      # New York
+#  42.17  -76.90 "Elmira"                       # New York
+#  42.75  -76.90 "Geneva"                       # New York
+#  43.33  -73.62 "Glens Falls"                  # New York
+#  43.03  -74.35 "Gloversville"                 # New York
+#  42.35  -77.70 "Hornell"                      # New York
+#  42.45  -76.48 "Ithaca"                       # New York
+#  42.12  -79.23 "Jamestown"                    # New York
+#  41.93  -74.00 "Kingston"                     # New York
+#  43.15  -79.25 "Lockport"                     # New York
+#  44.93  -74.85 "Massena"                      # New York
+#  41.50  -74.10 "Newburgh"                     # New York
+#  40.78  -73.97 "NYC-Central Park"             # New York
+#  40.65  -73.78 "NYC-Kennedy"                  # New York
+#  40.77  -73.90 "NYC-La Guardia"               # New York
+#  43.10  -79.95 "Niagara Falls"                # New York
+#  42.23  -78.37 "Olean"                        # New York
+#  42.52  -75.07 "Oneonta"                      # New York
+#  43.47  -76.55 "Oswego Co"                    # New York
+#  44.65  -73.47 "Plattsburg"                   # New York
+#  41.63  -73.92 "Poughkeepsie"                 # New York
+#  43.12  -77.67 "Rochester"                    # New York
+#  43.23  -75.42 "Rome"                         # New York
+#  42.85  -73.95 "Schenectady"                  # New York
+#  40.85  -72.63 "Suffolk County"               # New York
+#  43.12  -76.12 "Syracuse"                     # New York
+#  43.15  -75.38 "Utica"                        # New York
+#  43.98  -76.02 "Watertown"                    # New York
+#  35.43  -82.53 "Asheville"                    # North Carolina
+#  35.22  -80.93 "Charlotte"                    # North Carolina
+#  35.87  -78.78 "Durham"                       # North Carolina
+#  36.27  -76.18 "Elizabeth City"               # North Carolina
+#  35.17  -79.02 "Fayetteville"                 # North Carolina
+#  35.33  -77.97 "Goldsboro,Seymour-Johnson"    # North Carolina
+#  36.08  -79.95 "Greensboro"                   # North Carolina
+#  35.62  -77.42 "Greenville"                   # North Carolina
+#  36.37  -78.42 "Henderson"                    # North Carolina
+#  35.75  -81.38 "Hickory"                      # North Carolina
+#  34.83  -77.62 "Jacksonville"                 # North Carolina
+#  34.62  -79.07 "Lumberton"                    # North Carolina
+#  35.08  -77.05 "New Bern"                     # North Carolina
+#  35.87  -78.78 "Raleigh/Durham"               # North Carolina
+#  35.97  -77.80 "Rocky Mount"                  # North Carolina
+#  34.27  -77.92 "Wilmington"                   # North Carolina
+#  36.13  -80.22 "Winston-Salem"                # North Carolina
+#  46.77 -100.75 "Bismarck"                     # North Dakota
+#  48.12  -98.90 "Devils Lake"                  # North Dakota
+#  46.80 -102.80 "Dickinson"                    # North Dakota
+#  46.90  -96.80 "Fargo"                        # North Dakota
+#  47.95  -97.40 "Grand Forks"                  # North Dakota
+#  46.92  -98.68 "Jamestown"                    # North Dakota
+#  48.42 -101.35 "Minot"                        # North Dakota
+#  48.15 -103.58 "Williston"                    # North Dakota
+#  40.92  -81.43 "Akron-Canton"                 # Ohio
+#  41.85  -80.80 "Ashtabula"                    # Ohio
+#  39.33  -82.10 "Athens"                       # Ohio
+#  41.38  -83.63 "Bowling Green"                # Ohio
+#  40.07  -81.58 "Cambridge"                    # Ohio
+#  39.35  -83.00 "Chillicothe"                  # Ohio
+#  39.15  -84.52 "Cincinnati Co"                # Ohio
+#  41.40  -81.85 "Cleveland"                    # Ohio
+#  40.00  -82.88 "Columbus"                     # Ohio
+#  39.90  -84.22 "Dayton"                       # Ohio
+#  41.28  -84.38 "Defiance"                     # Ohio
+#  41.02  -83.67 "Findlay"                      # Ohio
+#  41.33  -83.12 "Fremont"                      # Ohio
+#  39.40  -84.58 "Hamilton"                     # Ohio
+#  39.73  -82.63 "Lancaster"                    # Ohio
+#  40.70  -84.03 "Lima"                         # Ohio
+#  40.82  -82.52 "Mansfield"                    # Ohio
+#  40.60  -83.17 "Marion"                       # Ohio
+#  39.52  -84.42 "Middletown"                   # Ohio
+#  40.02  -82.47 "Newark"                       # Ohio
+#  41.27  -82.62 "Norwalk"                      # Ohio
+#  38.75  -82.92 "Portsmouth"                   # Ohio
+#  41.45  -82.72 "Sandusky Co"                  # Ohio
+#  39.83  -83.83 "Springfield"                  # Ohio
+#  40.38  -80.63 "Steubenville"                 # Ohio
+#  41.60  -83.80 "Toledo"                       # Ohio
+#  41.33  -80.85 "Warren"                       # Ohio
+#  40.78  -81.92 "Wooster"                      # Ohio
+#  41.27  -80.67 "Youngstown"                   # Ohio
+#  39.95  -81.90 "Zanesville"                   # Ohio
+#  34.78  -96.68 "Ada"                          # Oklahoma
+#  34.65  -99.27 "Altus"                        # Oklahoma
+#  34.30  -97.02 "Ardmore"                      # Oklahoma
+#  36.75  -96.00 "Bartlesville"                 # Oklahoma
+#  35.05  -97.92 "Chickasha"                    # Oklahoma
+#  36.35  -97.92 "Enid"                         # Oklahoma
+#  34.57  -98.42 "Lawton"                       # Oklahoma
+#  34.83  -95.92 "McAlester"                    # Oklahoma
+#  35.67  -95.37 "Muskogee"                     # Oklahoma
+#  35.25  -97.48 "Norman"                       # Oklahoma
+#  35.40  -97.60 "Oklahoma City"                # Oklahoma
+#  36.73  -97.10 "Ponca City"                   # Oklahoma
+#  35.23  -96.67 "Seminole"                     # Oklahoma
+#  36.17  -97.08 "Stillwater"                   # Oklahoma
+#  36.20  -95.90 "Tulsa"                        # Oklahoma
+#  36.60  -99.52 "Woodward"                     # Oklahoma
+#  44.63 -123.12 "Albany"                       # Oregon
+#  46.15 -123.88 "Astoria"                      # Oregon
+#  44.83 -117.82 "Baker"                        # Oregon
+#  44.07 -121.32 "Bend"                         # Oregon
+#  44.50 -123.28 "Corvallis"                    # Oregon
+#  44.12 -123.22 "Eugene"                       # Oregon
+#  42.43 -123.32 "Grants Pass"                  # Oregon
+#  42.15 -121.73 "Klamath Falls"                # Oregon
+#  42.37 -122.87 "Medford"                      # Oregon
+#  45.68 -118.85 "Pendleton"                    # Oregon
+#  45.60 -122.60 "Portland"                     # Oregon
+#  45.53 -122.67 "Portland Co"                  # Oregon
+#  43.23 -123.37 "Roseburg"                     # Oregon
+#  44.92 -123.02 "Salem"                        # Oregon
+#  45.60 -121.20 "The Dalles"                   # Oregon
+#  40.65  -75.43 "Allentown"                    # Pennsylvania
+#  40.30  -78.32 "Altoona Co"                   # Pennsylvania
+#  40.87  -79.90 "Butler"                       # Pennsylvania
+#  39.93  -77.63 "Chambersburg"                 # Pennsylvania
+#  42.08  -80.18 "Erie"                         # Pennsylvania
+#  40.20  -76.77 "Harrisburg"                   # Pennsylvania
+#  40.32  -78.83 "Johnstown"                    # Pennsylvania
+#  40.12  -76.30 "Lancaster"                    # Pennsylvania
+#  41.63  -80.17 "Meadville"                    # Pennsylvania
+#  41.02  -80.37 "New Castle"                   # Pennsylvania
+#  39.88  -75.25 "Philadelphia"                 # Pennsylvania
+#  40.50  -80.22 "Pittsburgh"                   # Pennsylvania
+#  40.45  -80.00 "Pittsburgh Co"                # Pennsylvania
+#  40.33  -75.63 "Reading Co"                   # Pennsylvania
+#  41.33  -75.73 "Scranton/Wilkes-Barre"        # Pennsylvania
+#  40.80  -77.87 "State College"                # Pennsylvania
+#  40.88  -76.77 "Sunbury"                      # Pennsylvania
+#  39.92  -79.72 "Uniontown"                    # Pennsylvania
+#  41.85  -79.13 "Warren"                       # Pennsylvania
+#  39.97  -75.63 "West Chester"                 # Pennsylvania
+#  41.25  -76.92 "Williamsport"                 # Pennsylvania
+#  39.92  -76.75 "York"                         # Pennsylvania
+#  41.50  -71.33 "Newport"                      # Rhode Island
+#  41.73  -71.43 "Providence"                   # Rhode Island
+#  34.50  -82.72 "Anderson"                     # South Carolina
+#  32.90  -80.03 "Charleston"                   # South Carolina
+#  32.90  -79.97 "Charleston Co"                # South Carolina
+#  33.95  -81.12 "Columbia"                     # South Carolina
+#  34.18  -79.72 "Florence"                     # South Carolina
+#  33.38  -79.28 "Georgetown"                   # South Carolina
+#  34.90  -82.22 "Greenville"                   # South Carolina
+#  34.17  -82.12 "Greenwood"                    # South Carolina
+#  33.50  -80.87 "Orangeburg"                   # South Carolina
+#  34.98  -80.97 "Rock Hill"                    # South Carolina
+#  34.97  -82.00 "Spartanburg"                  # South Carolina
+#  33.90  -80.37 "Sumter"                       # South Carolina
+#  45.45  -98.43 "Aberdeen"                     # South Dakota
+#  44.30  -96.80 "Brookings"                    # South Dakota
+#  44.38  -98.22 "Huron"                        # South Dakota
+#  43.68  -98.02 "Mitchell"                     # South Dakota
+#  44.38 -100.28 "Pierre"                       # South Dakota
+#  44.05 -103.07 "Rapid City"                   # South Dakota
+#  43.57  -96.73 "Sioux Falls"                  # South Dakota
+#  44.92  -97.15 "Watertown"                    # South Dakota
+#  42.92  -97.38 "Yankton"                      # South Dakota
+#  35.43  -84.58 "Athens"                       # Tennessee
+#  36.48  -82.40 "Bristol-Tri City"             # Tennessee
+#  35.03  -85.20 "Chattanooga"                  # Tennessee
+#  36.55  -87.37 "Clarksville"                  # Tennessee
+#  35.63  -87.03 "Columbia"                     # Tennessee
+#  36.02  -89.40 "Dyersburg"                    # Tennessee
+#  36.07  -82.83 "Greenville"                   # Tennessee
+#  35.60  -88.92 "Jackson"                      # Tennessee
+#  35.82  -83.98 "Knoxville"                    # Tennessee
+#  35.05  -90.00 "Memphis"                      # Tennessee
+#  34.92  -86.47 "Murfreesboro"                 # Tennessee
+#  36.12  -86.68 "Nashville"                    # Tennessee
+#  35.38  -86.08 "Tullahoma"                    # Tennessee
+#  32.42  -99.68 "Abilene"                      # Texas
+#  27.73  -98.03 "Alice"                        # Texas
+#  35.23 -100.70 "Amarillo"                     # Texas
+#  30.30  -97.70 "Austin"                       # Texas
+#  29.00  -95.97 "Bay City"                     # Texas
+#  29.95  -94.02 "Beaumont"                     # Texas
+#  28.37  -97.67 "Beeville"                     # Texas
+#  32.30 -101.45 "Big Spring"                   # Texas
+#  25.90  -97.43 "Brownsville"                  # Texas
+#  31.80  -98.95 "Brownwood"                    # Texas
+#  30.67  -96.55 "Bryan"                        # Texas
+#  27.77  -97.50 "Corpus Christi"               # Texas
+#  32.08  -96.47 "Corsicana"                    # Texas
+#  32.85  -96.85 "Dallas"                       # Texas
+#  29.37 -100.78 "Del Rio"                      # Texas
+#  33.20  -97.10 "Denton"                       # Texas
+#  28.87 -100.53 "Eagle Pass"                   # Texas
+#  31.80 -106.40 "El Paso"                      # Texas
+#  32.83  -97.05 "Fort Worth"                   # Texas
+#  29.30  -94.80 "Galveston"                    # Texas
+#  33.07  -96.05 "Greenville"                   # Texas
+#  26.23  -97.65 "Harlingen"                    # Texas
+#  29.97  -95.35 "Houston"                      # Texas
+#  29.98  -95.37 "Houston Co"                   # Texas
+#  30.72  -95.55 "Huntsville"                   # Texas
+#  31.08  -97.68 "Killeen"                      # Texas
+#  32.70 -101.93 "Lamesa"                       # Texas
+#  27.53  -99.45 "Laredo"                       # Texas
+#  32.47  -94.73 "Longview"                     # Texas
+#  33.65 -101.82 "Lubbock"                      # Texas
+#  31.42  -94.80 "Lufkin"                       # Texas
+#  26.20  -98.22 "Mcallen"                      # Texas
+#  31.95 -102.18 "Midland"                      # Texas
+#  32.78  -98.07 "Mineral Wells"                # Texas
+#  31.78  -95.63 "Palestine Co"                 # Texas
+#  35.53 -100.98 "Pampa"                        # Texas
+#  31.42 -103.50 "Pecos"                        # Texas
+#  34.18 -101.70 "Plainview"                    # Texas
+#  29.95  -94.02 "Port Arthur"                  # Texas
+#  31.43 -100.40 "Goodfellow"                   # Texas
+#  29.53  -98.47 "San Antonio"                  # Texas
+#  33.72  -96.67 "Sherman"                      # Texas
+#  32.72 -100.92 "Snyder"                       # Texas
+#  31.10  -97.35 "Temple"                       # Texas
+#  32.35  -95.27 "Tyler"                        # Texas
+#  34.17  -99.30 "Vernon"                       # Texas
+#  28.85  -96.92 "Victoria"                     # Texas
+#  31.62  -97.22 "Waco"                         # Texas
+#  33.97  -98.48 "Wichita Falls"                # Texas
+#  37.70 -113.10 "Cedar City"                   # Utah
+#  41.75 -111.82 "Logan"                        # Utah
+#  38.60 -109.60 "Moab"                         # Utah
+#  41.20 -112.02 "Ogden"                        # Utah
+#  39.62 -110.83 "Price"                        # Utah
+#  40.22 -111.72 "Provo"                        # Utah
+#  38.77 -112.08 "Richfield"                    # Utah
+#  37.03 -113.52 "St George Co"                 # Utah
+#  40.77 -111.97 "Salt Lake City"               # Utah
+#  40.45 -109.52 "Vernal"                       # Utah
+#  44.20  -72.52 "Barre"                        # Vermont
+#  44.47  -73.15 "Burlington"                   # Vermont
+#  43.60  -72.97 "Rutland"                      # Vermont
+#  38.03  -78.52 "Charlottesville"              # Virginia
+#  36.57  -79.33 "Danville"                     # Virginia
+#  38.30  -77.47 "Fredericksburg"               # Virginia
+#  38.45  -78.90 "Harrisonburg"                 # Virginia
+#  37.33  -79.20 "Lynchburg"                    # Virginia
+#  36.90  -76.20 "Norfolk"                      # Virginia
+#  37.18  -77.52 "Petersburg"                   # Virginia
+#  37.50  -77.33 "Richmond"                     # Virginia
+#  37.32  -79.97 "Roanoke"                      # Virginia
+#  38.27  -78.90 "Staunton"                     # Virginia
+#  39.20  -78.17 "Winchester"                   # Virginia
+#  46.98 -123.82 "Aberdeen"                     # Washington
+#  48.80 -122.53 "Bellingham"                   # Washington
+#  47.57 -122.67 "Bremerton"                    # Washington
+#  47.03 -120.52 "Ellensburg"                   # Washington
+#  47.92 -122.28 "Everett"                      # Washington
+#  46.22 -119.13 "Kennewick"                    # Washington
+#  46.17 -122.93 "Longview"                     # Washington
+#  47.20 -119.32 "Moses Lake"                   # Washington
+#  46.97 -122.90 "Olympia"                      # Washington
+#  48.12 -123.43 "Port Angeles"                 # Washington
+#  47.53 -122.30 "Seattle-Boeing Field"         # Washington
+#  47.65 -122.30 "Seattle Co"                   # Washington
+#  47.45 -122.30 "Seattle-Tacoma"               # Washington
+#  47.63 -117.52 "Spokane"                      # Washington
+#  47.25 -122.50 "Tacoma"                       # Washington
+#  46.10 -118.28 "Walla Walla"                  # Washington
+#  47.42 -120.32 "Wenatchee"                    # Washington
+#  46.57 -120.53 "Yakima"                       # Washington
+#  37.78  -81.12 "Beckley"                      # West Virginia
+#  37.30  -81.22 "Bluefield"                    # West Virginia
+#  38.37  -81.60 "Charleston"                   # West Virginia
+#  39.27  -80.35 "Clarksburg"                   # West Virginia
+#  38.88  -79.85 "Elkins"                       # West Virginia
+#  38.42  -82.50 "Huntington Co"                # West Virginia
+#  39.40  -77.98 "Martinsburg"                  # West Virginia
+#  39.65  -79.92 "Morgantown"                   # West Virginia
+#  39.27  -81.57 "Parkersburg Co"               # West Virginia
+#  40.12  -80.70 "Wheeling"                     # West Virginia
+#  44.25  -88.38 "Appleton"                     # Wisconsin
+#  46.57  -90.97 "Ashland"                      # Wisconsin
+#  42.50  -89.03 "Beloit"                       # Wisconsin
+#  44.87  -91.48 "Eau Claire"                   # Wisconsin
+#  43.80  -88.45 "Fond Du Lac"                  # Wisconsin
+#  44.48  -88.13 "Green Bay"                    # Wisconsin
+#  43.87  -91.25 "La Crosse"                    # Wisconsin
+#  43.13  -89.33 "Madison"                      # Wisconsin
+#  44.10  -87.68 "Manitowoc"                    # Wisconsin
+#  45.10  -87.63 "Marinette"                    # Wisconsin
+#  42.95  -87.90 "Milwaukee"                    # Wisconsin
+#  42.72  -87.85 "Racine"                       # Wisconsin
+#  43.75  -87.72 "Sheboygan"                    # Wisconsin
+#  44.50  -89.57 "Stevens Point"                # Wisconsin
+#  43.02  -88.23 "Waukesha"                     # Wisconsin
+#  44.92  -89.62 "Wausau"                       # Wisconsin
+#  42.92 -106.47 "Casper"                       # Wyoming
+#  41.15 -104.82 "Cheyenne"                     # Wyoming
+#  44.55 -109.07 "Cody"                         # Wyoming
+#  41.27 -110.95 "Evanston"                     # Wyoming
+#  42.82 -108.73 "Lander"                       # Wyoming
+#  41.32 -105.68 "Laramie"                      # Wyoming
+#  43.85 -104.22 "Newcastle"                    # Wyoming
+#  41.80 -107.20 "Rawlins"                      # Wyoming
+#  41.60 -109.00 "Rock Springs"                 # Wyoming
+#  44.77 -106.97 "Sheridan"                     # Wyoming
+#  42.08 -104.22 "Torrington"                   # Wyoming
+#  51.10 -114.02 "Calgary"                      # Alberta
+#  53.57 -113.52 "Edmonton"                     # Alberta
+#  55.18 -118.88 "Grande Prairie"               # Alberta
+#  52.88 -118.07 "Jasper"                       # Alberta
+#  49.63 -112.80 "Lethbridge"                   # Alberta
+#  56.65 -111.22 "McMurray"                     # Alberta
+#  50.02 -110.72 "Medicine Hat"                 # Alberta
+#  52.18 -113.90 "Red Deer"                     # Alberta
+#  55.73 -120.18 "Dawson Creek"                 # British Columbia
+#  58.83 -122.58 "Fort Nelson"                  # British Columbia
+#  50.72 -120.42 "Kamloops Co"                  # British Columbia
+#  49.18 -123.97 "Nanaimo"                      # British Columbia
+#  49.22 -122.90 "New Westminster"              # British Columbia
+#  49.47 -119.60 "Penticton"                    # British Columbia
+#  53.88 -122.68 "Prince George"                # British Columbia
+#  54.28 -130.38 "Prince Rupert Co"             # British Columbia
+#  49.13 -117.73 "Trail"                        # British Columbia
+#  49.18 -123.17 "Vancouver"                    # British Columbia
+#  48.42 -123.32 "Victoria Co"                  # British Columbia
+#  49.87  -99.98 "Brandon"                      # Manitoba
+#  58.75  -94.07 "Churchill"                    # Manitoba
+#  51.10 -100.05 "Dauphin"                      # Manitoba
+#  54.77 -101.85 "Flin Flon"                    # Manitoba
+#  49.90  -98.27 "Portage La Prairie"           # Manitoba
+#  53.97 -101.10 "The Pas"                      # Manitoba
+#  49.90  -97.23 "Winnipeg"                     # Manitoba
+#  48.00  -66.67 "Campbellton Co"               # New Brunswick
+#  47.02  -65.45 "Chatham"                      # New Brunswick
+#  47.37  -68.33 "Edmundston Co"                # New Brunswick
+#  45.87  -66.53 "Fredericton"                  # New Brunswick
+#  46.12  -64.68 "Moncton"                      # New Brunswick
+#  45.32  -65.88 "Saint John"                   # New Brunswick
+#  48.97  -57.95 "Corner Brook"                 # Newfoundland
+#  48.95  -54.57 "Gander"                       # Newfoundland
+#  53.32  -60.42 "Goose Bay"                    # Newfoundland
+#  47.62  -52.75 "St John's"                    # Newfoundland
+#  48.53  -58.55 "Stephenville"                 # Newfoundland
+#  60.02 -111.97 "Fort Smith"                   # Northwest Territories
+#  63.75  -68.55 "Frobisher"                    # Northwest Territories
+#  68.30 -133.48 "Inuvik"                       # Northwest Territories
+#  74.72  -94.98 "Resolute"                     # Northwest Territories
+#  62.47 -114.45 "Yellowknife"                  # Northwest Territories
+#  45.82  -64.22 "Amherst"                      # Nova Scotia
+#  44.65  -63.57 "Halifax"                      # Nova Scotia
+#  45.05  -64.60 "Kentville"                    # Nova Scotia
+#  45.62  -62.62 "New Glasgow"                  # Nova Scotia
+#  46.17  -60.05 "Sydney"                       # Nova Scotia
+#  45.37  -63.27 "Truro Co"                     # Nova Scotia
+#  43.83  -66.08 "Yarmouth"                     # Nova Scotia
+#  44.15  -77.40 "Belleville"                   # Ontario
+#  42.40  -82.20 "Chatham"                      # Ontario
+#  45.02  -74.75 "Cornwall"                     # Ontario
+#  43.27  -79.90 "Hamilton"                     # Ontario
+#  49.42  -82.47 "Kapuskasing"                  # Ontario
+#  49.80  -94.37 "Kenora"                       # Ontario
+#  44.27  -76.50 "Kingston"                     # Ontario
+#  43.43  -80.50 "Kitchener"                    # Ontario
+#  43.03  -81.15 "London"                       # Ontario
+#  46.37  -79.42 "North Bay"                    # Ontario
+#  43.90  -78.87 "Oshawa"                       # Ontario
+#  45.32  -75.67 "Ottawa"                       # Ontario
+#  44.57  -80.92 "Owen Sound"                   # Ontario
+#  44.28  -78.32 "Peterborough"                 # Ontario
+#  43.18  -79.23 "St Catharines"                # Ontario
+#  42.97  -82.37 "Sarnia"                       # Ontario
+#  46.53  -84.50 "Sault Ste Marie"              # Ontario
+#  46.62  -80.80 "Sudbury"                      # Ontario
+#  48.37  -89.32 "Thunder Bay"                  # Ontario
+#  48.57  -81.37 "Timmins"                      # Ontario
+#  43.68  -79.63 "Toronto"                      # Ontario
+#  42.27  -82.97 "Windsor"                      # Ontario
+#  46.28  -63.13 "Charlottetown"                # Prince Edward Island
+#  46.43  -63.83 "Summerside"                   # Prince Edward Island
+#  48.33  -71.00 "Bagotville"                   # Quebec
+#  48.42  -71.08 "Chicoutimi"                   # Quebec
+#  45.88  -72.48 "Drummondville"                # Quebec
+#  45.38  -72.70 "Granby"                       # Quebec
+#  45.43  -75.73 "Hull"                         # Quebec
+#  45.58  -70.87 "Megantic"                     # Quebec
+#  45.47  -73.75 "Montreal"                     # Quebec
+#  46.80  -71.38 "Quebec"                       # Quebec
+#  48.45  -68.53 "Rimouski"                     # Quebec
+#  45.30  -73.27 "St Jean"                      # Quebec
+#  45.80  -74.02 "St Jerome"                    # Quebec
+#  50.22  -66.27 "Sept. Iles"                   # Quebec
+#  46.57  -72.72 "Shawinigan"                   # Quebec
+#  45.40  -71.90 "Sherbrooke Co"                # Quebec
+#  46.07  -71.32 "Thetford Mines"               # Quebec
+#  46.35  -72.58 "Trois Rivieres"               # Quebec
+#  48.05  -77.78 "Val D'or"                     # Quebec
+#  45.27  -74.10 "Valleyfield"                  # Quebec
+#  49.07 -103.00 "Estevan"                      # Saskatchewan
+#  50.33 -105.55 "Moose Jaw"                    # Saskatchewan
+#  52.77 -108.25 "North Battleford"             # Saskatchewan
+#  53.22 -105.68 "Prince Albert"                # Saskatchewan
+#  50.43 -104.67 "Regina"                       # Saskatchewan
+#  52.17 -106.68 "Saskatoon"                    # Saskatchewan
+#  50.28 -107.68 "Swift Current"                # Saskatchewan
+#  51.27 -102.47 "Yorkton"                      # Saskatchewan
+#  60.72 -135.07 "Whitehorse"                   # Yukon Territory
+#  34.58   69.20 "Kabul"                        # Afghanistan
+#  36.77   30.05 "Algiers"                      # Algeria
+# -34.58  -58.48 "Buenos Aires"                 # Argentina
+# -31.37  -64.25 "Cordoba"                      # Argentina
+# -26.83  -65.17 "Tucuman"                      # Argentina
+# -34.93  138.58 "Adelaide"                     # Australia
+# -23.80  133.88 "Alice Springs"                # Australia
+# -27.47  153.03 "Brisbane"                     # Australia
+# -12.47  130.85 "Darwin"                       # Australia
+# -37.82  144.97 "Melbourne"                    # Australia
+# -31.95  115.85 "Perth"                        # Australia
+# -33.87  151.20 "Sydney"                       # Australia
+#  48.25   16.37 "Vienna"                       # Austria
+#  38.75  -27.08 "Lajes"                        # Azores
+#  38.75  -27.08 "Terceira"                     # Azores
+#  25.08  -77.35 "Nassau"                       # Bahamas
+#  22.35   91.83 "Chittagong"                   # Bangladesh
+#  50.80    4.35 "Brussels"                     # Belgium
+#  33.37  -64.68 "Kindley"                      # Bermuda
+# -16.50  -68.15 "La Paz"                       # Bolivia
+#  -1.45  -48.48 "Belem"                        # Brazil
+# -19.93  -43.95 "Belo Horizonte"               # Brazil
+# -15.87  -47.92 "Brasilia"                     # Brazil
+# -25.42  -49.28 "Curitiba"                     # Brazil
+#  -3.77  -38.55 "Fortaleza"                    # Brazil
+# -30.03  -51.22 "Porto Alegre"                 # Brazil
+#  -8.07  -34.88 "Recife"                       # Brazil
+# -22.92  -43.20 "Rio De Janeiro"               # Brazil
+# -13.00  -38.50 "Salvador"                     # Brazil
+# -23.55  -46.63 "Sao Paulo"                    # Brazil
+#  17.52  -88.18 "Belize"                       # Belize
+#  42.70   23.33 "Sofia"                        # Bulgaria
+#  21.98   96.10 "Mandalay"                     # Burma
+#  16.78   96.15 "Rangoon"                      # Burma
+#  11.55  104.85 "Phnom Penh"                   # Cambodia
+# -53.17  -70.90 "Punta Arenas"                 # Chile
+# -33.45  -70.70 "Santiago"                     # Chile
+# -33.02  -71.63 "Valparaiso"                   # Chile
+#  29.55  106.55 "Chongquing"                   # China
+#  31.20  121.43 "Shanghai"                     # China
+#  10.98  -74.80 "Baranquilla"                  # Colombia
+#   4.60  -74.08 "Bogota"                       # Colombia
+#   3.42  -76.50 "Cali"                         # Colombia
+#   6.22  -75.60 "Medellin"                     # Colombia
+#  -4.25   15.25 "Brazzaville"                  # Congo
+#  19.90  -75.15 "Guantanamo Bay"               # Cuba
+#  23.13  -82.35 "Havana"                       # Cuba
+#  50.08   14.42 "Prague"                       # Czechoslovakia
+#  55.68   12.55 "Copenhagen"                   # Denmark
+#  18.48  -69.90 "Santo Domingo"                # Dominican Republic
+#  -2.00  -79.88 "Guayaquil"                    # Equador
+#  -0.22  -78.53 "Quito"                        # Equador
+#  29.87   31.33 "Cairo"                        # Egypt
+#  13.70  -89.22 "San Salvador"                 # El Salvador
+#   9.03   38.75 "Addis Ababa"                  # Ethiopia
+#  15.28   38.92 "Asmara"                       # Ethiopia
+#  60.17   24.95 "Helsinki"                     # Finland
+#  45.70    4.78 "Lyon"                         # France
+#  43.30    5.38 "Marseilles"                   # France
+#  47.25   -1.57 "Nantes"                       # France
+#  43.70    7.27 "Nice"                         # France
+#  48.82    2.48 "Paris"                        # France
+#  48.58    7.77 "Strasbourg"                   # France
+#   4.93  -52.45 "Cayenne"                      # French Guiana
+#  52.45   13.30 "Berlin"                       # Germany
+#  52.45   13.30 "West"                         # Germany
+#  53.55    9.97 "Hamburg"                      # Germany
+#  52.40    9.67 "Hannover"                     # Germany
+#  49.57    8.47 "Mannheim"                     # Germany
+#  48.15   11.57 "Munich"                       # Germany
+#   5.55   -0.20 "Accra"                        # Ghana
+#  36.15   -5.37 "Gibraltar"                    # Gibraltar
+#  37.97   23.72 "Athens"                       # Greece
+#  40.62   22.95 "Thessaloniki"                 # Greece
+#  61.18  -45.42 "Narsarssuaq"                  # Greenland
+#  14.62  -90.52 "Guatemala City"               # Guatemala
+#   6.83  -58.20 "Georgetown"                   # Guyana
+#  18.55  -72.33 "Port Au Prince"               # Haiti
+#  14.10  -87.22 "Tegucigalpa"                  # Honduras
+#  22.30  114.17 "Hong Kong"                    # Hong Kong
+#  47.52   19.03 "Budapest"                     # Hungary
+#  64.15  -21.96 "Reykjavik"                    # Iceland
+#  23.03   72.58 "Ahmenabad"                    # India
+#  12.95   77.62 "Bangalore"                    # India
+#  18.90   72.82 "Bombay"                       # India
+#  22.53   88.33 "Calcutta"                     # India
+#  13.07   80.25 "Madras"                       # India
+#  21.15   79.12 "Nagpur"                       # India
+#  28.58   77.20 "New Delhi"                    # India
+#  -6.18  106.83 "Djakarta"                     # Indonesia
+# -10.17  123.57 "Kupang"                       # Indonesia
+#  -5.13  119.47 "Makassar"                     # Indonesia
+#   3.58   98.68 "Medan"                        # Indonesia
+#  -3.00  104.77 "Palembang"                    # Indonesia
+#  -7.22  112.72 "Surabaya"                     # Indonesia
+#  30.35   48.27 "Abadan"                       # Iran
+#  36.28   59.60 "Meshed"                       # Iran
+#  35.68   51.42 "Tehran"                       # Iran
+#  33.33   44.40 "Baghdad"                      # Iraq
+#  36.32   43.15 "Mosul"                        # Iraq
+#  53.37   -6.35 "Dublin"                       # Ireland
+#  52.68   -8.92 "Shannon"                      # Ireland
+#  -0.87  134.08 "Manokwari"                    # Irian Barat
+#  31.78   35.22 "Jerusalem"                    # Israel
+#  32.10   34.78 "Tel Aviv"                     # Israel
+#  45.45    9.28 "Milan"                        # Italy
+#  40.88   14.30 "Naples"                       # Italy
+#  41.80   12.60 "Rome"                         # Italy
+#   5.32   -4.02 "Abidjan"                      # Ivory Coast
+#  33.58  130.45 "Fukuoka"                      # Japan
+#  43.07  141.35 "Sapporo"                      # Japan
+#  35.68  139.77 "Tokyo"                        # Japan
+#  31.95   35.95 "Amman"                        # Jordan
+#  -1.27   36.80 "Nairobi"                      # Kenya
+#  39.03  125.68 "Pyongyang"                    # Korea
+#  37.57  126.97 "Seoul"                        # Korea
+#  33.90   35.47 "Beirut"                       # Lebanon
+#   6.30  -10.80 "Monrovia"                     # Liberia
+#  32.10   20.07 "Benghazi"                     # Libya
+# -18.92   47.55 "Tananarive"                   # Madagascar
+#   3.12  101.70 "Kuala Lumpur"                 # Malaysia
+#   5.42  100.32 "Penang"                       # Malaysia
+#  14.62  -61.08 "Fort De France"               # Martinique
+#  20.68 -103.33 "Guadalajara"                  # Mexico
+#  20.97  -89.63 "Merida"                       # Mexico
+#  19.40  -99.20 "Mexico City"                  # Mexico
+#  25.67 -100.30 "Monterrey"                    # Mexico
+#  19.20  -96.13 "Vera Cruz"                    # Mexico
+#  33.58   -7.65 "Casablanca"                   # Morocco
+#  27.70   85.20 "Katmandu"                     # Nepal
+#  52.38    4.92 "Amsterdam"                    # Netherlands
+# -36.85  174.77 "Auckland"                     # New Zealand
+# -43.53  172.62 "Christchurch"                 # New Zealand
+# -41.28  174.77 "Wellington"                   # New Zealand
+#  12.17  -86.25 "Managua"                      # Nicaragua
+#   6.45    3.40 "Lagos"                        # Nigeria
+#  60.40    5.32 "Bergen"                       # Norway
+#  59.93   10.73 "Oslo"                         # Norway
+#  24.80   66.98 "Karachi"                      # Pakistan
+#  31.58   74.33 "Lahore"                       # Pakistan
+#  34.02   71.58 "Peshwar"                      # Pakistan
+#   8.97  -79.55 "Panama City"                  # Panama
+#  -9.48  147.15 "Port Moresby"                 # Papua New Guinea
+# -25.28  -57.50 "Ascuncion"                    # Paraguay
+# -12.08  -77.05 "Lima"                         # Peru
+#  14.58  120.98 "Manila"                       # Philippines
+#  50.07   19.95 "Krakow"                       # Poland
+#  52.22   21.03 "Warsaw"                       # Poland
+#  38.72   -9.13 "Lisbon"                       # Portugal
+#  18.48  -66.12 "San Juan"                     # Puerto Rico
+#  44.42   26.10 "Bucharest"                    # Rumania
+#  43.23   76.88 "Alma Ata"                     # Russia
+#  64.55   40.53 "Archangel"                    # Russia
+#  54.72   20.50 "Kaliningrad"                  # Russia
+#  56.02   92.95 "Krasnoyarsk"                  # Russia
+#  50.45   30.50 "Kiev"                         # Russia
+#  50.00   36.23 "Kharkov"                      # Russia
+#  53.18   50.10 "Kuibyshev"                    # Russia
+#  59.93   30.27 "Leningrad"                    # Russia
+#  53.90   27.55 "Minsk"                        # Russia
+#  55.77   37.67 "Moscow"                       # Russia
+#  46.48   30.73 "Odessa"                       # Russia
+#  52.88  158.70 "Petropavlovsk"                # Russia
+#  47.22   39.72 "Rostov on Don"                # Russia
+#  56.82   60.63 "Sverdlovsk"                   # Russia
+#  41.33   69.30 "Tashkent"                     # Russia
+#  41.72   44.80 "Tbilisi"                      # Russia
+#  43.12  131.92 "Vladivostok"                  # Russia
+#  48.70   44.52 "Volgograd"                    # Russia
+#  26.28   50.15 "Dhahran"                      # Saudi Arabia
+#  21.47   39.17 "Jedda"                        # Saudi Arabia
+#  24.65   46.70 "Riyadh"                       # Saudi Arabia
+#  14.70  -17.48 "Dakar"                        # Senegal
+#   1.30  103.83 "Singapore"                    # Singapore
+#   2.03   49.32 "Mogadiscio"                   # Somalia
+# -33.93   18.48 "Cape Town"                    # South Africa
+# -26.18   28.05 "Johannesburg"                 # South Africa
+# -25.75   28.23 "Pretoria"                     # South Africa
+#  12.83   45.03 "Aden"                         # South Yemen
+#  41.40    2.15 "Barcelona"                    # Spain
+#  40.42   -3.68 "Madrid"                       # Spain
+#  39.47   -0.38 "Valencia"                     # Spain
+#   6.90   79.87 "Colombo"                      # Sri Lanka
+#  15.62   32.55 "Khartoum"                     # Sudan
+#   5.82  -55.15 "Paramaribo"                   # Surinam
+#  59.35   18.07 "Stockholm"                    # Sweden
+#  47.38    8.55 "Zurich"                       # Switzerland
+#  33.50   36.33 "Damascus"                     # Syria
+#  22.95  120.20 "Tainan"                       # Taiwan
+#  25.03  121.52 "Taipei"                       # Taiwan
+#  -6.83   39.30 "Dar es Salaam"                # Tanzania
+#  13.73  100.50 "Bangkok"                      # Thailand
+#  10.67  -61.52 "Port of Spain"                # Trinidad
+#  36.78   10.20 "Tunis"                        # Tunisia
+#  36.98   35.30 "Adana"                        # Turkey
+#  39.95   32.88 "Ankara"                       # Turkey
+#  40.97   28.83 "Istanbul"                     # Turkey
+#  38.43   27.17 "Izmir"                        # Turkey
+#  54.60   -5.92 "Belfast"                      # United Kingdom
+#  52.48   -1.93 "Birmingham"                   # United Kingdom
+#  51.47   -3.17 "Cardiff"                      # United Kingdom
+#  55.92   -3.18 "Edinburgh"                    # United Kingdom
+#  55.87   -4.28 "Glasgow"                      # United Kingdom
+#  51.48   -0.00 "London"                       # United Kingdom
+# -34.85  -56.22 "Montevideo"                   # Uruguay
+#  10.50  -66.93 "Caracas"                      # Venezuela
+#  10.65  -71.60 "Maracaibo"                    # Venezuela
+#  16.07  108.22 "Da Nang"                      # Vietnam
+#  21.03  105.87 "Hanoi"                        # Vietnam
+#  10.78  106.70 "Saigon"                       # Vietnam
+#  44.80   20.47 "Belgrade"                     # Yugoslavia
+#  -4.33   15.30 "Kinshasa"                     # Zaire
+#  -4.33   15.30 "Leopoldville"                 # Zaire
+#  -0.43   15.23 "Kisangani"                    # Zaire
+#  -0.43   15.23 "Stanleyville"                 # Zaire

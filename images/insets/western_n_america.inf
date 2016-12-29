@@ -1,0 +1,12620 @@
+# Imagery provided courtesy of NASA (http://www.nasa.gov)
+# Additional image development by the Visible Earth Project
+# (http://visibleearth.nasa.gov)
+# and the Earth Observatory Team
+# (http://earthobservatory.nasa.gov)
+
+# Entries for Western North America and NorthEastern Pacific
+ 
+imagefile = inset_90.0N_180.0W-85.0N_175.0W.jpg
+lat1 = 90.0N
+long1 = 180.0W
+lat2 = 85.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_177.5W-85.0N_172.5W.jpg
+lat1 = 90.0N
+long1 = 177.5W
+lat2 = 85.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_175.0W-85.0N_170.0W.jpg
+lat1 = 90.0N
+long1 = 175.0W
+lat2 = 85.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_172.5W-85.0N_167.5W.jpg
+lat1 = 90.0N
+long1 = 172.5W
+lat2 = 85.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_170.0W-85.0N_165.0W.jpg
+lat1 = 90.0N
+long1 = 170.0W
+lat2 = 85.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_167.5W-85.0N_162.5W.jpg
+lat1 = 90.0N
+long1 = 167.5W
+lat2 = 85.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_165.0W-85.0N_160.0W.jpg
+lat1 = 90.0N
+long1 = 165.0W
+lat2 = 85.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_162.5W-85.0N_157.5W.jpg
+lat1 = 90.0N
+long1 = 162.5W
+lat2 = 85.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_160.0W-85.0N_155.0W.jpg
+lat1 = 90.0N
+long1 = 160.0W
+lat2 = 85.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_157.5W-85.0N_152.5W.jpg
+lat1 = 90.0N
+long1 = 157.5W
+lat2 = 85.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_155.0W-85.0N_150.0W.jpg
+lat1 = 90.0N
+long1 = 155.0W
+lat2 = 85.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_152.5W-85.0N_147.5W.jpg
+lat1 = 90.0N
+long1 = 152.5W
+lat2 = 85.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_150.0W-85.0N_145.0W.jpg
+lat1 = 90.0N
+long1 = 150.0W
+lat2 = 85.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_147.5W-85.0N_142.5W.jpg
+lat1 = 90.0N
+long1 = 147.5W
+lat2 = 85.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_145.0W-85.0N_140.0W.jpg
+lat1 = 90.0N
+long1 = 145.0W
+lat2 = 85.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_142.5W-85.0N_137.5W.jpg
+lat1 = 90.0N
+long1 = 142.5W
+lat2 = 85.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_140.0W-85.0N_135.0W.jpg
+lat1 = 90.0N
+long1 = 140.0W
+lat2 = 85.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_137.5W-85.0N_132.5W.jpg
+lat1 = 90.0N
+long1 = 137.5W
+lat2 = 85.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_135.0W-85.0N_130.0W.jpg
+lat1 = 90.0N
+long1 = 135.0W
+lat2 = 85.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_132.5W-85.0N_127.5W.jpg
+lat1 = 90.0N
+long1 = 132.5W
+lat2 = 85.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_130.0W-85.0N_125.0W.jpg
+lat1 = 90.0N
+long1 = 130.0W
+lat2 = 85.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_127.5W-85.0N_122.5W.jpg
+lat1 = 90.0N
+long1 = 127.5W
+lat2 = 85.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_125.0W-85.0N_120.0W.jpg
+lat1 = 90.0N
+long1 = 125.0W
+lat2 = 85.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_122.5W-85.0N_117.5W.jpg
+lat1 = 90.0N
+long1 = 122.5W
+lat2 = 85.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_120.0W-85.0N_115.0W.jpg
+lat1 = 90.0N
+long1 = 120.0W
+lat2 = 85.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_117.5W-85.0N_112.5W.jpg
+lat1 = 90.0N
+long1 = 117.5W
+lat2 = 85.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_115.0W-85.0N_110.0W.jpg
+lat1 = 90.0N
+long1 = 115.0W
+lat2 = 85.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_112.5W-85.0N_107.5W.jpg
+lat1 = 90.0N
+long1 = 112.5W
+lat2 = 85.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_110.0W-85.0N_105.0W.jpg
+lat1 = 90.0N
+long1 = 110.0W
+lat2 = 85.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_107.5W-85.0N_102.5W.jpg
+lat1 = 90.0N
+long1 = 107.5W
+lat2 = 85.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_105.0W-85.0N_100.0W.jpg
+lat1 = 90.0N
+long1 = 105.0W
+lat2 = 85.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_102.5W-85.0N_97.5W.jpg
+lat1 = 90.0N
+long1 = 102.5W
+lat2 = 85.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_100.0W-85.0N_95.0W.jpg
+lat1 = 90.0N
+long1 = 100.0W
+lat2 = 85.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_97.5W-85.0N_92.5W.jpg
+lat1 = 90.0N
+long1 = 97.5W
+lat2 = 85.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_90.0N_95.0W-85.0N_90.0W.jpg
+lat1 = 90.0N
+long1 = 95.0W
+lat2 = 85.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_180.0W-82.5N_175.0W.jpg
+lat1 = 87.5N
+long1 = 180.0W
+lat2 = 82.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_177.5W-82.5N_172.5W.jpg
+lat1 = 87.5N
+long1 = 177.5W
+lat2 = 82.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_175.0W-82.5N_170.0W.jpg
+lat1 = 87.5N
+long1 = 175.0W
+lat2 = 82.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_172.5W-82.5N_167.5W.jpg
+lat1 = 87.5N
+long1 = 172.5W
+lat2 = 82.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_170.0W-82.5N_165.0W.jpg
+lat1 = 87.5N
+long1 = 170.0W
+lat2 = 82.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_167.5W-82.5N_162.5W.jpg
+lat1 = 87.5N
+long1 = 167.5W
+lat2 = 82.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_165.0W-82.5N_160.0W.jpg
+lat1 = 87.5N
+long1 = 165.0W
+lat2 = 82.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_162.5W-82.5N_157.5W.jpg
+lat1 = 87.5N
+long1 = 162.5W
+lat2 = 82.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_160.0W-82.5N_155.0W.jpg
+lat1 = 87.5N
+long1 = 160.0W
+lat2 = 82.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_157.5W-82.5N_152.5W.jpg
+lat1 = 87.5N
+long1 = 157.5W
+lat2 = 82.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_155.0W-82.5N_150.0W.jpg
+lat1 = 87.5N
+long1 = 155.0W
+lat2 = 82.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_152.5W-82.5N_147.5W.jpg
+lat1 = 87.5N
+long1 = 152.5W
+lat2 = 82.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_150.0W-82.5N_145.0W.jpg
+lat1 = 87.5N
+long1 = 150.0W
+lat2 = 82.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_147.5W-82.5N_142.5W.jpg
+lat1 = 87.5N
+long1 = 147.5W
+lat2 = 82.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_145.0W-82.5N_140.0W.jpg
+lat1 = 87.5N
+long1 = 145.0W
+lat2 = 82.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_142.5W-82.5N_137.5W.jpg
+lat1 = 87.5N
+long1 = 142.5W
+lat2 = 82.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_140.0W-82.5N_135.0W.jpg
+lat1 = 87.5N
+long1 = 140.0W
+lat2 = 82.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_137.5W-82.5N_132.5W.jpg
+lat1 = 87.5N
+long1 = 137.5W
+lat2 = 82.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_135.0W-82.5N_130.0W.jpg
+lat1 = 87.5N
+long1 = 135.0W
+lat2 = 82.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_132.5W-82.5N_127.5W.jpg
+lat1 = 87.5N
+long1 = 132.5W
+lat2 = 82.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_130.0W-82.5N_125.0W.jpg
+lat1 = 87.5N
+long1 = 130.0W
+lat2 = 82.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_127.5W-82.5N_122.5W.jpg
+lat1 = 87.5N
+long1 = 127.5W
+lat2 = 82.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_125.0W-82.5N_120.0W.jpg
+lat1 = 87.5N
+long1 = 125.0W
+lat2 = 82.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_122.5W-82.5N_117.5W.jpg
+lat1 = 87.5N
+long1 = 122.5W
+lat2 = 82.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_120.0W-82.5N_115.0W.jpg
+lat1 = 87.5N
+long1 = 120.0W
+lat2 = 82.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_117.5W-82.5N_112.5W.jpg
+lat1 = 87.5N
+long1 = 117.5W
+lat2 = 82.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_115.0W-82.5N_110.0W.jpg
+lat1 = 87.5N
+long1 = 115.0W
+lat2 = 82.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_112.5W-82.5N_107.5W.jpg
+lat1 = 87.5N
+long1 = 112.5W
+lat2 = 82.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_110.0W-82.5N_105.0W.jpg
+lat1 = 87.5N
+long1 = 110.0W
+lat2 = 82.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_107.5W-82.5N_102.5W.jpg
+lat1 = 87.5N
+long1 = 107.5W
+lat2 = 82.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_105.0W-82.5N_100.0W.jpg
+lat1 = 87.5N
+long1 = 105.0W
+lat2 = 82.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_102.5W-82.5N_97.5W.jpg
+lat1 = 87.5N
+long1 = 102.5W
+lat2 = 82.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_100.0W-82.5N_95.0W.jpg
+lat1 = 87.5N
+long1 = 100.0W
+lat2 = 82.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_97.5W-82.5N_92.5W.jpg
+lat1 = 87.5N
+long1 = 97.5W
+lat2 = 82.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_95.0W-82.5N_90.0W.jpg
+lat1 = 87.5N
+long1 = 95.0W
+lat2 = 82.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_180.0W-80.0N_175.0W.jpg
+lat1 = 85.0N
+long1 = 180.0W
+lat2 = 80.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_177.5W-80.0N_172.5W.jpg
+lat1 = 85.0N
+long1 = 177.5W
+lat2 = 80.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_175.0W-80.0N_170.0W.jpg
+lat1 = 85.0N
+long1 = 175.0W
+lat2 = 80.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_172.5W-80.0N_167.5W.jpg
+lat1 = 85.0N
+long1 = 172.5W
+lat2 = 80.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_170.0W-80.0N_165.0W.jpg
+lat1 = 85.0N
+long1 = 170.0W
+lat2 = 80.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_167.5W-80.0N_162.5W.jpg
+lat1 = 85.0N
+long1 = 167.5W
+lat2 = 80.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_165.0W-80.0N_160.0W.jpg
+lat1 = 85.0N
+long1 = 165.0W
+lat2 = 80.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_162.5W-80.0N_157.5W.jpg
+lat1 = 85.0N
+long1 = 162.5W
+lat2 = 80.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_160.0W-80.0N_155.0W.jpg
+lat1 = 85.0N
+long1 = 160.0W
+lat2 = 80.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_157.5W-80.0N_152.5W.jpg
+lat1 = 85.0N
+long1 = 157.5W
+lat2 = 80.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_155.0W-80.0N_150.0W.jpg
+lat1 = 85.0N
+long1 = 155.0W
+lat2 = 80.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_152.5W-80.0N_147.5W.jpg
+lat1 = 85.0N
+long1 = 152.5W
+lat2 = 80.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_150.0W-80.0N_145.0W.jpg
+lat1 = 85.0N
+long1 = 150.0W
+lat2 = 80.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_147.5W-80.0N_142.5W.jpg
+lat1 = 85.0N
+long1 = 147.5W
+lat2 = 80.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_145.0W-80.0N_140.0W.jpg
+lat1 = 85.0N
+long1 = 145.0W
+lat2 = 80.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_142.5W-80.0N_137.5W.jpg
+lat1 = 85.0N
+long1 = 142.5W
+lat2 = 80.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_140.0W-80.0N_135.0W.jpg
+lat1 = 85.0N
+long1 = 140.0W
+lat2 = 80.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_137.5W-80.0N_132.5W.jpg
+lat1 = 85.0N
+long1 = 137.5W
+lat2 = 80.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_135.0W-80.0N_130.0W.jpg
+lat1 = 85.0N
+long1 = 135.0W
+lat2 = 80.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_132.5W-80.0N_127.5W.jpg
+lat1 = 85.0N
+long1 = 132.5W
+lat2 = 80.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_130.0W-80.0N_125.0W.jpg
+lat1 = 85.0N
+long1 = 130.0W
+lat2 = 80.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_127.5W-80.0N_122.5W.jpg
+lat1 = 85.0N
+long1 = 127.5W
+lat2 = 80.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_125.0W-80.0N_120.0W.jpg
+lat1 = 85.0N
+long1 = 125.0W
+lat2 = 80.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_122.5W-80.0N_117.5W.jpg
+lat1 = 85.0N
+long1 = 122.5W
+lat2 = 80.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_120.0W-80.0N_115.0W.jpg
+lat1 = 85.0N
+long1 = 120.0W
+lat2 = 80.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_117.5W-80.0N_112.5W.jpg
+lat1 = 85.0N
+long1 = 117.5W
+lat2 = 80.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_115.0W-80.0N_110.0W.jpg
+lat1 = 85.0N
+long1 = 115.0W
+lat2 = 80.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_112.5W-80.0N_107.5W.jpg
+lat1 = 85.0N
+long1 = 112.5W
+lat2 = 80.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_110.0W-80.0N_105.0W.jpg
+lat1 = 85.0N
+long1 = 110.0W
+lat2 = 80.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_107.5W-80.0N_102.5W.jpg
+lat1 = 85.0N
+long1 = 107.5W
+lat2 = 80.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_105.0W-80.0N_100.0W.jpg
+lat1 = 85.0N
+long1 = 105.0W
+lat2 = 80.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_102.5W-80.0N_97.5W.jpg
+lat1 = 85.0N
+long1 = 102.5W
+lat2 = 80.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_100.0W-80.0N_95.0W.jpg
+lat1 = 85.0N
+long1 = 100.0W
+lat2 = 80.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_97.5W-80.0N_92.5W.jpg
+lat1 = 85.0N
+long1 = 97.5W
+lat2 = 80.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_95.0W-80.0N_90.0W.jpg
+lat1 = 85.0N
+long1 = 95.0W
+lat2 = 80.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_180.0W-77.5N_175.0W.jpg
+lat1 = 82.5N
+long1 = 180.0W
+lat2 = 77.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_177.5W-77.5N_172.5W.jpg
+lat1 = 82.5N
+long1 = 177.5W
+lat2 = 77.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_175.0W-77.5N_170.0W.jpg
+lat1 = 82.5N
+long1 = 175.0W
+lat2 = 77.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_172.5W-77.5N_167.5W.jpg
+lat1 = 82.5N
+long1 = 172.5W
+lat2 = 77.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_170.0W-77.5N_165.0W.jpg
+lat1 = 82.5N
+long1 = 170.0W
+lat2 = 77.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_167.5W-77.5N_162.5W.jpg
+lat1 = 82.5N
+long1 = 167.5W
+lat2 = 77.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_165.0W-77.5N_160.0W.jpg
+lat1 = 82.5N
+long1 = 165.0W
+lat2 = 77.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_162.5W-77.5N_157.5W.jpg
+lat1 = 82.5N
+long1 = 162.5W
+lat2 = 77.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_160.0W-77.5N_155.0W.jpg
+lat1 = 82.5N
+long1 = 160.0W
+lat2 = 77.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_157.5W-77.5N_152.5W.jpg
+lat1 = 82.5N
+long1 = 157.5W
+lat2 = 77.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_155.0W-77.5N_150.0W.jpg
+lat1 = 82.5N
+long1 = 155.0W
+lat2 = 77.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_152.5W-77.5N_147.5W.jpg
+lat1 = 82.5N
+long1 = 152.5W
+lat2 = 77.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_150.0W-77.5N_145.0W.jpg
+lat1 = 82.5N
+long1 = 150.0W
+lat2 = 77.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_147.5W-77.5N_142.5W.jpg
+lat1 = 82.5N
+long1 = 147.5W
+lat2 = 77.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_145.0W-77.5N_140.0W.jpg
+lat1 = 82.5N
+long1 = 145.0W
+lat2 = 77.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_142.5W-77.5N_137.5W.jpg
+lat1 = 82.5N
+long1 = 142.5W
+lat2 = 77.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_140.0W-77.5N_135.0W.jpg
+lat1 = 82.5N
+long1 = 140.0W
+lat2 = 77.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_137.5W-77.5N_132.5W.jpg
+lat1 = 82.5N
+long1 = 137.5W
+lat2 = 77.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_135.0W-77.5N_130.0W.jpg
+lat1 = 82.5N
+long1 = 135.0W
+lat2 = 77.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_132.5W-77.5N_127.5W.jpg
+lat1 = 82.5N
+long1 = 132.5W
+lat2 = 77.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_130.0W-77.5N_125.0W.jpg
+lat1 = 82.5N
+long1 = 130.0W
+lat2 = 77.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_127.5W-77.5N_122.5W.jpg
+lat1 = 82.5N
+long1 = 127.5W
+lat2 = 77.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_125.0W-77.5N_120.0W.jpg
+lat1 = 82.5N
+long1 = 125.0W
+lat2 = 77.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_122.5W-77.5N_117.5W.jpg
+lat1 = 82.5N
+long1 = 122.5W
+lat2 = 77.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_120.0W-77.5N_115.0W.jpg
+lat1 = 82.5N
+long1 = 120.0W
+lat2 = 77.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_117.5W-77.5N_112.5W.jpg
+lat1 = 82.5N
+long1 = 117.5W
+lat2 = 77.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_115.0W-77.5N_110.0W.jpg
+lat1 = 82.5N
+long1 = 115.0W
+lat2 = 77.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_112.5W-77.5N_107.5W.jpg
+lat1 = 82.5N
+long1 = 112.5W
+lat2 = 77.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_110.0W-77.5N_105.0W.jpg
+lat1 = 82.5N
+long1 = 110.0W
+lat2 = 77.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_107.5W-77.5N_102.5W.jpg
+lat1 = 82.5N
+long1 = 107.5W
+lat2 = 77.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_105.0W-77.5N_100.0W.jpg
+lat1 = 82.5N
+long1 = 105.0W
+lat2 = 77.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_102.5W-77.5N_97.5W.jpg
+lat1 = 82.5N
+long1 = 102.5W
+lat2 = 77.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_100.0W-77.5N_95.0W.jpg
+lat1 = 82.5N
+long1 = 100.0W
+lat2 = 77.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_97.5W-77.5N_92.5W.jpg
+lat1 = 82.5N
+long1 = 97.5W
+lat2 = 77.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_95.0W-77.5N_90.0W.jpg
+lat1 = 82.5N
+long1 = 95.0W
+lat2 = 77.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_180.0W-75.0N_175.0W.jpg
+lat1 = 80.0N
+long1 = 180.0W
+lat2 = 75.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_177.5W-75.0N_172.5W.jpg
+lat1 = 80.0N
+long1 = 177.5W
+lat2 = 75.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_175.0W-75.0N_170.0W.jpg
+lat1 = 80.0N
+long1 = 175.0W
+lat2 = 75.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_172.5W-75.0N_167.5W.jpg
+lat1 = 80.0N
+long1 = 172.5W
+lat2 = 75.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_170.0W-75.0N_165.0W.jpg
+lat1 = 80.0N
+long1 = 170.0W
+lat2 = 75.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_167.5W-75.0N_162.5W.jpg
+lat1 = 80.0N
+long1 = 167.5W
+lat2 = 75.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_165.0W-75.0N_160.0W.jpg
+lat1 = 80.0N
+long1 = 165.0W
+lat2 = 75.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_162.5W-75.0N_157.5W.jpg
+lat1 = 80.0N
+long1 = 162.5W
+lat2 = 75.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_160.0W-75.0N_155.0W.jpg
+lat1 = 80.0N
+long1 = 160.0W
+lat2 = 75.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_157.5W-75.0N_152.5W.jpg
+lat1 = 80.0N
+long1 = 157.5W
+lat2 = 75.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_155.0W-75.0N_150.0W.jpg
+lat1 = 80.0N
+long1 = 155.0W
+lat2 = 75.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_152.5W-75.0N_147.5W.jpg
+lat1 = 80.0N
+long1 = 152.5W
+lat2 = 75.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_150.0W-75.0N_145.0W.jpg
+lat1 = 80.0N
+long1 = 150.0W
+lat2 = 75.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_147.5W-75.0N_142.5W.jpg
+lat1 = 80.0N
+long1 = 147.5W
+lat2 = 75.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_145.0W-75.0N_140.0W.jpg
+lat1 = 80.0N
+long1 = 145.0W
+lat2 = 75.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_142.5W-75.0N_137.5W.jpg
+lat1 = 80.0N
+long1 = 142.5W
+lat2 = 75.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_140.0W-75.0N_135.0W.jpg
+lat1 = 80.0N
+long1 = 140.0W
+lat2 = 75.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_137.5W-75.0N_132.5W.jpg
+lat1 = 80.0N
+long1 = 137.5W
+lat2 = 75.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_135.0W-75.0N_130.0W.jpg
+lat1 = 80.0N
+long1 = 135.0W
+lat2 = 75.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_132.5W-75.0N_127.5W.jpg
+lat1 = 80.0N
+long1 = 132.5W
+lat2 = 75.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_130.0W-75.0N_125.0W.jpg
+lat1 = 80.0N
+long1 = 130.0W
+lat2 = 75.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_127.5W-75.0N_122.5W.jpg
+lat1 = 80.0N
+long1 = 127.5W
+lat2 = 75.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_125.0W-75.0N_120.0W.jpg
+lat1 = 80.0N
+long1 = 125.0W
+lat2 = 75.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_122.5W-75.0N_117.5W.jpg
+lat1 = 80.0N
+long1 = 122.5W
+lat2 = 75.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_120.0W-75.0N_115.0W.jpg
+lat1 = 80.0N
+long1 = 120.0W
+lat2 = 75.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_117.5W-75.0N_112.5W.jpg
+lat1 = 80.0N
+long1 = 117.5W
+lat2 = 75.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_115.0W-75.0N_110.0W.jpg
+lat1 = 80.0N
+long1 = 115.0W
+lat2 = 75.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_112.5W-75.0N_107.5W.jpg
+lat1 = 80.0N
+long1 = 112.5W
+lat2 = 75.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_110.0W-75.0N_105.0W.jpg
+lat1 = 80.0N
+long1 = 110.0W
+lat2 = 75.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_107.5W-75.0N_102.5W.jpg
+lat1 = 80.0N
+long1 = 107.5W
+lat2 = 75.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_105.0W-75.0N_100.0W.jpg
+lat1 = 80.0N
+long1 = 105.0W
+lat2 = 75.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_102.5W-75.0N_97.5W.jpg
+lat1 = 80.0N
+long1 = 102.5W
+lat2 = 75.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_100.0W-75.0N_95.0W.jpg
+lat1 = 80.0N
+long1 = 100.0W
+lat2 = 75.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_97.5W-75.0N_92.5W.jpg
+lat1 = 80.0N
+long1 = 97.5W
+lat2 = 75.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_95.0W-75.0N_90.0W.jpg
+lat1 = 80.0N
+long1 = 95.0W
+lat2 = 75.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_180.0W-72.5N_175.0W.jpg
+lat1 = 77.5N
+long1 = 180.0W
+lat2 = 72.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_177.5W-72.5N_172.5W.jpg
+lat1 = 77.5N
+long1 = 177.5W
+lat2 = 72.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_175.0W-72.5N_170.0W.jpg
+lat1 = 77.5N
+long1 = 175.0W
+lat2 = 72.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_172.5W-72.5N_167.5W.jpg
+lat1 = 77.5N
+long1 = 172.5W
+lat2 = 72.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_170.0W-72.5N_165.0W.jpg
+lat1 = 77.5N
+long1 = 170.0W
+lat2 = 72.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_167.5W-72.5N_162.5W.jpg
+lat1 = 77.5N
+long1 = 167.5W
+lat2 = 72.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_165.0W-72.5N_160.0W.jpg
+lat1 = 77.5N
+long1 = 165.0W
+lat2 = 72.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_162.5W-72.5N_157.5W.jpg
+lat1 = 77.5N
+long1 = 162.5W
+lat2 = 72.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_160.0W-72.5N_155.0W.jpg
+lat1 = 77.5N
+long1 = 160.0W
+lat2 = 72.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_157.5W-72.5N_152.5W.jpg
+lat1 = 77.5N
+long1 = 157.5W
+lat2 = 72.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_155.0W-72.5N_150.0W.jpg
+lat1 = 77.5N
+long1 = 155.0W
+lat2 = 72.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_152.5W-72.5N_147.5W.jpg
+lat1 = 77.5N
+long1 = 152.5W
+lat2 = 72.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_150.0W-72.5N_145.0W.jpg
+lat1 = 77.5N
+long1 = 150.0W
+lat2 = 72.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_147.5W-72.5N_142.5W.jpg
+lat1 = 77.5N
+long1 = 147.5W
+lat2 = 72.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_145.0W-72.5N_140.0W.jpg
+lat1 = 77.5N
+long1 = 145.0W
+lat2 = 72.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_142.5W-72.5N_137.5W.jpg
+lat1 = 77.5N
+long1 = 142.5W
+lat2 = 72.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_140.0W-72.5N_135.0W.jpg
+lat1 = 77.5N
+long1 = 140.0W
+lat2 = 72.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_137.5W-72.5N_132.5W.jpg
+lat1 = 77.5N
+long1 = 137.5W
+lat2 = 72.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_135.0W-72.5N_130.0W.jpg
+lat1 = 77.5N
+long1 = 135.0W
+lat2 = 72.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_132.5W-72.5N_127.5W.jpg
+lat1 = 77.5N
+long1 = 132.5W
+lat2 = 72.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_130.0W-72.5N_125.0W.jpg
+lat1 = 77.5N
+long1 = 130.0W
+lat2 = 72.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_127.5W-72.5N_122.5W.jpg
+lat1 = 77.5N
+long1 = 127.5W
+lat2 = 72.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_125.0W-72.5N_120.0W.jpg
+lat1 = 77.5N
+long1 = 125.0W
+lat2 = 72.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_122.5W-72.5N_117.5W.jpg
+lat1 = 77.5N
+long1 = 122.5W
+lat2 = 72.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_120.0W-72.5N_115.0W.jpg
+lat1 = 77.5N
+long1 = 120.0W
+lat2 = 72.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_117.5W-72.5N_112.5W.jpg
+lat1 = 77.5N
+long1 = 117.5W
+lat2 = 72.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_115.0W-72.5N_110.0W.jpg
+lat1 = 77.5N
+long1 = 115.0W
+lat2 = 72.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_112.5W-72.5N_107.5W.jpg
+lat1 = 77.5N
+long1 = 112.5W
+lat2 = 72.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_110.0W-72.5N_105.0W.jpg
+lat1 = 77.5N
+long1 = 110.0W
+lat2 = 72.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_107.5W-72.5N_102.5W.jpg
+lat1 = 77.5N
+long1 = 107.5W
+lat2 = 72.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_105.0W-72.5N_100.0W.jpg
+lat1 = 77.5N
+long1 = 105.0W
+lat2 = 72.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_102.5W-72.5N_97.5W.jpg
+lat1 = 77.5N
+long1 = 102.5W
+lat2 = 72.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_100.0W-72.5N_95.0W.jpg
+lat1 = 77.5N
+long1 = 100.0W
+lat2 = 72.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_97.5W-72.5N_92.5W.jpg
+lat1 = 77.5N
+long1 = 97.5W
+lat2 = 72.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_95.0W-72.5N_90.0W.jpg
+lat1 = 77.5N
+long1 = 95.0W
+lat2 = 72.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_180.0W-70.0N_175.0W.jpg
+lat1 = 75.0N
+long1 = 180.0W
+lat2 = 70.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_177.5W-70.0N_172.5W.jpg
+lat1 = 75.0N
+long1 = 177.5W
+lat2 = 70.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_175.0W-70.0N_170.0W.jpg
+lat1 = 75.0N
+long1 = 175.0W
+lat2 = 70.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_172.5W-70.0N_167.5W.jpg
+lat1 = 75.0N
+long1 = 172.5W
+lat2 = 70.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_170.0W-70.0N_165.0W.jpg
+lat1 = 75.0N
+long1 = 170.0W
+lat2 = 70.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_167.5W-70.0N_162.5W.jpg
+lat1 = 75.0N
+long1 = 167.5W
+lat2 = 70.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_165.0W-70.0N_160.0W.jpg
+lat1 = 75.0N
+long1 = 165.0W
+lat2 = 70.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_162.5W-70.0N_157.5W.jpg
+lat1 = 75.0N
+long1 = 162.5W
+lat2 = 70.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_160.0W-70.0N_155.0W.jpg
+lat1 = 75.0N
+long1 = 160.0W
+lat2 = 70.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_157.5W-70.0N_152.5W.jpg
+lat1 = 75.0N
+long1 = 157.5W
+lat2 = 70.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_155.0W-70.0N_150.0W.jpg
+lat1 = 75.0N
+long1 = 155.0W
+lat2 = 70.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_152.5W-70.0N_147.5W.jpg
+lat1 = 75.0N
+long1 = 152.5W
+lat2 = 70.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_150.0W-70.0N_145.0W.jpg
+lat1 = 75.0N
+long1 = 150.0W
+lat2 = 70.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_147.5W-70.0N_142.5W.jpg
+lat1 = 75.0N
+long1 = 147.5W
+lat2 = 70.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_145.0W-70.0N_140.0W.jpg
+lat1 = 75.0N
+long1 = 145.0W
+lat2 = 70.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_142.5W-70.0N_137.5W.jpg
+lat1 = 75.0N
+long1 = 142.5W
+lat2 = 70.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_140.0W-70.0N_135.0W.jpg
+lat1 = 75.0N
+long1 = 140.0W
+lat2 = 70.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_137.5W-70.0N_132.5W.jpg
+lat1 = 75.0N
+long1 = 137.5W
+lat2 = 70.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_135.0W-70.0N_130.0W.jpg
+lat1 = 75.0N
+long1 = 135.0W
+lat2 = 70.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_132.5W-70.0N_127.5W.jpg
+lat1 = 75.0N
+long1 = 132.5W
+lat2 = 70.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_130.0W-70.0N_125.0W.jpg
+lat1 = 75.0N
+long1 = 130.0W
+lat2 = 70.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_127.5W-70.0N_122.5W.jpg
+lat1 = 75.0N
+long1 = 127.5W
+lat2 = 70.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_125.0W-70.0N_120.0W.jpg
+lat1 = 75.0N
+long1 = 125.0W
+lat2 = 70.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_122.5W-70.0N_117.5W.jpg
+lat1 = 75.0N
+long1 = 122.5W
+lat2 = 70.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_120.0W-70.0N_115.0W.jpg
+lat1 = 75.0N
+long1 = 120.0W
+lat2 = 70.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_117.5W-70.0N_112.5W.jpg
+lat1 = 75.0N
+long1 = 117.5W
+lat2 = 70.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_115.0W-70.0N_110.0W.jpg
+lat1 = 75.0N
+long1 = 115.0W
+lat2 = 70.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_112.5W-70.0N_107.5W.jpg
+lat1 = 75.0N
+long1 = 112.5W
+lat2 = 70.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_110.0W-70.0N_105.0W.jpg
+lat1 = 75.0N
+long1 = 110.0W
+lat2 = 70.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_107.5W-70.0N_102.5W.jpg
+lat1 = 75.0N
+long1 = 107.5W
+lat2 = 70.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_105.0W-70.0N_100.0W.jpg
+lat1 = 75.0N
+long1 = 105.0W
+lat2 = 70.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_102.5W-70.0N_97.5W.jpg
+lat1 = 75.0N
+long1 = 102.5W
+lat2 = 70.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_100.0W-70.0N_95.0W.jpg
+lat1 = 75.0N
+long1 = 100.0W
+lat2 = 70.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_97.5W-70.0N_92.5W.jpg
+lat1 = 75.0N
+long1 = 97.5W
+lat2 = 70.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_95.0W-70.0N_90.0W.jpg
+lat1 = 75.0N
+long1 = 95.0W
+lat2 = 70.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_180.0W-67.5N_175.0W.jpg
+lat1 = 72.5N
+long1 = 180.0W
+lat2 = 67.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_177.5W-67.5N_172.5W.jpg
+lat1 = 72.5N
+long1 = 177.5W
+lat2 = 67.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_175.0W-67.5N_170.0W.jpg
+lat1 = 72.5N
+long1 = 175.0W
+lat2 = 67.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_172.5W-67.5N_167.5W.jpg
+lat1 = 72.5N
+long1 = 172.5W
+lat2 = 67.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_170.0W-67.5N_165.0W.jpg
+lat1 = 72.5N
+long1 = 170.0W
+lat2 = 67.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_167.5W-67.5N_162.5W.jpg
+lat1 = 72.5N
+long1 = 167.5W
+lat2 = 67.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_165.0W-67.5N_160.0W.jpg
+lat1 = 72.5N
+long1 = 165.0W
+lat2 = 67.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_162.5W-67.5N_157.5W.jpg
+lat1 = 72.5N
+long1 = 162.5W
+lat2 = 67.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_160.0W-67.5N_155.0W.jpg
+lat1 = 72.5N
+long1 = 160.0W
+lat2 = 67.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_157.5W-67.5N_152.5W.jpg
+lat1 = 72.5N
+long1 = 157.5W
+lat2 = 67.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_155.0W-67.5N_150.0W.jpg
+lat1 = 72.5N
+long1 = 155.0W
+lat2 = 67.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_152.5W-67.5N_147.5W.jpg
+lat1 = 72.5N
+long1 = 152.5W
+lat2 = 67.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_150.0W-67.5N_145.0W.jpg
+lat1 = 72.5N
+long1 = 150.0W
+lat2 = 67.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_147.5W-67.5N_142.5W.jpg
+lat1 = 72.5N
+long1 = 147.5W
+lat2 = 67.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_145.0W-67.5N_140.0W.jpg
+lat1 = 72.5N
+long1 = 145.0W
+lat2 = 67.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_142.5W-67.5N_137.5W.jpg
+lat1 = 72.5N
+long1 = 142.5W
+lat2 = 67.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_140.0W-67.5N_135.0W.jpg
+lat1 = 72.5N
+long1 = 140.0W
+lat2 = 67.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_137.5W-67.5N_132.5W.jpg
+lat1 = 72.5N
+long1 = 137.5W
+lat2 = 67.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_135.0W-67.5N_130.0W.jpg
+lat1 = 72.5N
+long1 = 135.0W
+lat2 = 67.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_132.5W-67.5N_127.5W.jpg
+lat1 = 72.5N
+long1 = 132.5W
+lat2 = 67.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_130.0W-67.5N_125.0W.jpg
+lat1 = 72.5N
+long1 = 130.0W
+lat2 = 67.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_127.5W-67.5N_122.5W.jpg
+lat1 = 72.5N
+long1 = 127.5W
+lat2 = 67.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_125.0W-67.5N_120.0W.jpg
+lat1 = 72.5N
+long1 = 125.0W
+lat2 = 67.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_122.5W-67.5N_117.5W.jpg
+lat1 = 72.5N
+long1 = 122.5W
+lat2 = 67.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_120.0W-67.5N_115.0W.jpg
+lat1 = 72.5N
+long1 = 120.0W
+lat2 = 67.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_117.5W-67.5N_112.5W.jpg
+lat1 = 72.5N
+long1 = 117.5W
+lat2 = 67.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_115.0W-67.5N_110.0W.jpg
+lat1 = 72.5N
+long1 = 115.0W
+lat2 = 67.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_112.5W-67.5N_107.5W.jpg
+lat1 = 72.5N
+long1 = 112.5W
+lat2 = 67.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_110.0W-67.5N_105.0W.jpg
+lat1 = 72.5N
+long1 = 110.0W
+lat2 = 67.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_107.5W-67.5N_102.5W.jpg
+lat1 = 72.5N
+long1 = 107.5W
+lat2 = 67.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_105.0W-67.5N_100.0W.jpg
+lat1 = 72.5N
+long1 = 105.0W
+lat2 = 67.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_102.5W-67.5N_97.5W.jpg
+lat1 = 72.5N
+long1 = 102.5W
+lat2 = 67.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_100.0W-67.5N_95.0W.jpg
+lat1 = 72.5N
+long1 = 100.0W
+lat2 = 67.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_97.5W-67.5N_92.5W.jpg
+lat1 = 72.5N
+long1 = 97.5W
+lat2 = 67.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_95.0W-67.5N_90.0W.jpg
+lat1 = 72.5N
+long1 = 95.0W
+lat2 = 67.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_180.0W-65.0N_175.0W.jpg
+lat1 = 70.0N
+long1 = 180.0W
+lat2 = 65.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_177.5W-65.0N_172.5W.jpg
+lat1 = 70.0N
+long1 = 177.5W
+lat2 = 65.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_175.0W-65.0N_170.0W.jpg
+lat1 = 70.0N
+long1 = 175.0W
+lat2 = 65.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_172.5W-65.0N_167.5W.jpg
+lat1 = 70.0N
+long1 = 172.5W
+lat2 = 65.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_170.0W-65.0N_165.0W.jpg
+lat1 = 70.0N
+long1 = 170.0W
+lat2 = 65.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_167.5W-65.0N_162.5W.jpg
+lat1 = 70.0N
+long1 = 167.5W
+lat2 = 65.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_165.0W-65.0N_160.0W.jpg
+lat1 = 70.0N
+long1 = 165.0W
+lat2 = 65.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_162.5W-65.0N_157.5W.jpg
+lat1 = 70.0N
+long1 = 162.5W
+lat2 = 65.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_160.0W-65.0N_155.0W.jpg
+lat1 = 70.0N
+long1 = 160.0W
+lat2 = 65.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_157.5W-65.0N_152.5W.jpg
+lat1 = 70.0N
+long1 = 157.5W
+lat2 = 65.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_155.0W-65.0N_150.0W.jpg
+lat1 = 70.0N
+long1 = 155.0W
+lat2 = 65.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_152.5W-65.0N_147.5W.jpg
+lat1 = 70.0N
+long1 = 152.5W
+lat2 = 65.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_150.0W-65.0N_145.0W.jpg
+lat1 = 70.0N
+long1 = 150.0W
+lat2 = 65.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_147.5W-65.0N_142.5W.jpg
+lat1 = 70.0N
+long1 = 147.5W
+lat2 = 65.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_145.0W-65.0N_140.0W.jpg
+lat1 = 70.0N
+long1 = 145.0W
+lat2 = 65.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_142.5W-65.0N_137.5W.jpg
+lat1 = 70.0N
+long1 = 142.5W
+lat2 = 65.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_140.0W-65.0N_135.0W.jpg
+lat1 = 70.0N
+long1 = 140.0W
+lat2 = 65.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_137.5W-65.0N_132.5W.jpg
+lat1 = 70.0N
+long1 = 137.5W
+lat2 = 65.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_135.0W-65.0N_130.0W.jpg
+lat1 = 70.0N
+long1 = 135.0W
+lat2 = 65.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_132.5W-65.0N_127.5W.jpg
+lat1 = 70.0N
+long1 = 132.5W
+lat2 = 65.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_130.0W-65.0N_125.0W.jpg
+lat1 = 70.0N
+long1 = 130.0W
+lat2 = 65.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_127.5W-65.0N_122.5W.jpg
+lat1 = 70.0N
+long1 = 127.5W
+lat2 = 65.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_125.0W-65.0N_120.0W.jpg
+lat1 = 70.0N
+long1 = 125.0W
+lat2 = 65.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_122.5W-65.0N_117.5W.jpg
+lat1 = 70.0N
+long1 = 122.5W
+lat2 = 65.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_120.0W-65.0N_115.0W.jpg
+lat1 = 70.0N
+long1 = 120.0W
+lat2 = 65.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_117.5W-65.0N_112.5W.jpg
+lat1 = 70.0N
+long1 = 117.5W
+lat2 = 65.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_115.0W-65.0N_110.0W.jpg
+lat1 = 70.0N
+long1 = 115.0W
+lat2 = 65.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_112.5W-65.0N_107.5W.jpg
+lat1 = 70.0N
+long1 = 112.5W
+lat2 = 65.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_110.0W-65.0N_105.0W.jpg
+lat1 = 70.0N
+long1 = 110.0W
+lat2 = 65.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_107.5W-65.0N_102.5W.jpg
+lat1 = 70.0N
+long1 = 107.5W
+lat2 = 65.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_105.0W-65.0N_100.0W.jpg
+lat1 = 70.0N
+long1 = 105.0W
+lat2 = 65.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_102.5W-65.0N_97.5W.jpg
+lat1 = 70.0N
+long1 = 102.5W
+lat2 = 65.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_100.0W-65.0N_95.0W.jpg
+lat1 = 70.0N
+long1 = 100.0W
+lat2 = 65.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_97.5W-65.0N_92.5W.jpg
+lat1 = 70.0N
+long1 = 97.5W
+lat2 = 65.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_95.0W-65.0N_90.0W.jpg
+lat1 = 70.0N
+long1 = 95.0W
+lat2 = 65.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_180.0W-62.5N_175.0W.jpg
+lat1 = 67.5N
+long1 = 180.0W
+lat2 = 62.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_177.5W-62.5N_172.5W.jpg
+lat1 = 67.5N
+long1 = 177.5W
+lat2 = 62.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_175.0W-62.5N_170.0W.jpg
+lat1 = 67.5N
+long1 = 175.0W
+lat2 = 62.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_172.5W-62.5N_167.5W.jpg
+lat1 = 67.5N
+long1 = 172.5W
+lat2 = 62.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_170.0W-62.5N_165.0W.jpg
+lat1 = 67.5N
+long1 = 170.0W
+lat2 = 62.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_167.5W-62.5N_162.5W.jpg
+lat1 = 67.5N
+long1 = 167.5W
+lat2 = 62.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_165.0W-62.5N_160.0W.jpg
+lat1 = 67.5N
+long1 = 165.0W
+lat2 = 62.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_162.5W-62.5N_157.5W.jpg
+lat1 = 67.5N
+long1 = 162.5W
+lat2 = 62.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_160.0W-62.5N_155.0W.jpg
+lat1 = 67.5N
+long1 = 160.0W
+lat2 = 62.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_157.5W-62.5N_152.5W.jpg
+lat1 = 67.5N
+long1 = 157.5W
+lat2 = 62.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_155.0W-62.5N_150.0W.jpg
+lat1 = 67.5N
+long1 = 155.0W
+lat2 = 62.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_152.5W-62.5N_147.5W.jpg
+lat1 = 67.5N
+long1 = 152.5W
+lat2 = 62.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_150.0W-62.5N_145.0W.jpg
+lat1 = 67.5N
+long1 = 150.0W
+lat2 = 62.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_147.5W-62.5N_142.5W.jpg
+lat1 = 67.5N
+long1 = 147.5W
+lat2 = 62.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_145.0W-62.5N_140.0W.jpg
+lat1 = 67.5N
+long1 = 145.0W
+lat2 = 62.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_142.5W-62.5N_137.5W.jpg
+lat1 = 67.5N
+long1 = 142.5W
+lat2 = 62.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_140.0W-62.5N_135.0W.jpg
+lat1 = 67.5N
+long1 = 140.0W
+lat2 = 62.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_137.5W-62.5N_132.5W.jpg
+lat1 = 67.5N
+long1 = 137.5W
+lat2 = 62.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_135.0W-62.5N_130.0W.jpg
+lat1 = 67.5N
+long1 = 135.0W
+lat2 = 62.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_132.5W-62.5N_127.5W.jpg
+lat1 = 67.5N
+long1 = 132.5W
+lat2 = 62.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_130.0W-62.5N_125.0W.jpg
+lat1 = 67.5N
+long1 = 130.0W
+lat2 = 62.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_127.5W-62.5N_122.5W.jpg
+lat1 = 67.5N
+long1 = 127.5W
+lat2 = 62.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_125.0W-62.5N_120.0W.jpg
+lat1 = 67.5N
+long1 = 125.0W
+lat2 = 62.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_122.5W-62.5N_117.5W.jpg
+lat1 = 67.5N
+long1 = 122.5W
+lat2 = 62.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_120.0W-62.5N_115.0W.jpg
+lat1 = 67.5N
+long1 = 120.0W
+lat2 = 62.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_117.5W-62.5N_112.5W.jpg
+lat1 = 67.5N
+long1 = 117.5W
+lat2 = 62.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_115.0W-62.5N_110.0W.jpg
+lat1 = 67.5N
+long1 = 115.0W
+lat2 = 62.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_112.5W-62.5N_107.5W.jpg
+lat1 = 67.5N
+long1 = 112.5W
+lat2 = 62.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_110.0W-62.5N_105.0W.jpg
+lat1 = 67.5N
+long1 = 110.0W
+lat2 = 62.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_107.5W-62.5N_102.5W.jpg
+lat1 = 67.5N
+long1 = 107.5W
+lat2 = 62.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_105.0W-62.5N_100.0W.jpg
+lat1 = 67.5N
+long1 = 105.0W
+lat2 = 62.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_102.5W-62.5N_97.5W.jpg
+lat1 = 67.5N
+long1 = 102.5W
+lat2 = 62.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_100.0W-62.5N_95.0W.jpg
+lat1 = 67.5N
+long1 = 100.0W
+lat2 = 62.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_97.5W-62.5N_92.5W.jpg
+lat1 = 67.5N
+long1 = 97.5W
+lat2 = 62.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_95.0W-62.5N_90.0W.jpg
+lat1 = 67.5N
+long1 = 95.0W
+lat2 = 62.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_180.0W-60.0N_175.0W.jpg
+lat1 = 65.0N
+long1 = 180.0W
+lat2 = 60.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_177.5W-60.0N_172.5W.jpg
+lat1 = 65.0N
+long1 = 177.5W
+lat2 = 60.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_175.0W-60.0N_170.0W.jpg
+lat1 = 65.0N
+long1 = 175.0W
+lat2 = 60.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_172.5W-60.0N_167.5W.jpg
+lat1 = 65.0N
+long1 = 172.5W
+lat2 = 60.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_170.0W-60.0N_165.0W.jpg
+lat1 = 65.0N
+long1 = 170.0W
+lat2 = 60.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_167.5W-60.0N_162.5W.jpg
+lat1 = 65.0N
+long1 = 167.5W
+lat2 = 60.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_165.0W-60.0N_160.0W.jpg
+lat1 = 65.0N
+long1 = 165.0W
+lat2 = 60.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_162.5W-60.0N_157.5W.jpg
+lat1 = 65.0N
+long1 = 162.5W
+lat2 = 60.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_160.0W-60.0N_155.0W.jpg
+lat1 = 65.0N
+long1 = 160.0W
+lat2 = 60.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_157.5W-60.0N_152.5W.jpg
+lat1 = 65.0N
+long1 = 157.5W
+lat2 = 60.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_155.0W-60.0N_150.0W.jpg
+lat1 = 65.0N
+long1 = 155.0W
+lat2 = 60.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_152.5W-60.0N_147.5W.jpg
+lat1 = 65.0N
+long1 = 152.5W
+lat2 = 60.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_150.0W-60.0N_145.0W.jpg
+lat1 = 65.0N
+long1 = 150.0W
+lat2 = 60.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_147.5W-60.0N_142.5W.jpg
+lat1 = 65.0N
+long1 = 147.5W
+lat2 = 60.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_145.0W-60.0N_140.0W.jpg
+lat1 = 65.0N
+long1 = 145.0W
+lat2 = 60.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_142.5W-60.0N_137.5W.jpg
+lat1 = 65.0N
+long1 = 142.5W
+lat2 = 60.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_140.0W-60.0N_135.0W.jpg
+lat1 = 65.0N
+long1 = 140.0W
+lat2 = 60.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_137.5W-60.0N_132.5W.jpg
+lat1 = 65.0N
+long1 = 137.5W
+lat2 = 60.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_135.0W-60.0N_130.0W.jpg
+lat1 = 65.0N
+long1 = 135.0W
+lat2 = 60.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_132.5W-60.0N_127.5W.jpg
+lat1 = 65.0N
+long1 = 132.5W
+lat2 = 60.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_130.0W-60.0N_125.0W.jpg
+lat1 = 65.0N
+long1 = 130.0W
+lat2 = 60.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_127.5W-60.0N_122.5W.jpg
+lat1 = 65.0N
+long1 = 127.5W
+lat2 = 60.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_125.0W-60.0N_120.0W.jpg
+lat1 = 65.0N
+long1 = 125.0W
+lat2 = 60.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_122.5W-60.0N_117.5W.jpg
+lat1 = 65.0N
+long1 = 122.5W
+lat2 = 60.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_120.0W-60.0N_115.0W.jpg
+lat1 = 65.0N
+long1 = 120.0W
+lat2 = 60.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_117.5W-60.0N_112.5W.jpg
+lat1 = 65.0N
+long1 = 117.5W
+lat2 = 60.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_115.0W-60.0N_110.0W.jpg
+lat1 = 65.0N
+long1 = 115.0W
+lat2 = 60.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_112.5W-60.0N_107.5W.jpg
+lat1 = 65.0N
+long1 = 112.5W
+lat2 = 60.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_110.0W-60.0N_105.0W.jpg
+lat1 = 65.0N
+long1 = 110.0W
+lat2 = 60.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_107.5W-60.0N_102.5W.jpg
+lat1 = 65.0N
+long1 = 107.5W
+lat2 = 60.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_105.0W-60.0N_100.0W.jpg
+lat1 = 65.0N
+long1 = 105.0W
+lat2 = 60.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_102.5W-60.0N_97.5W.jpg
+lat1 = 65.0N
+long1 = 102.5W
+lat2 = 60.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_100.0W-60.0N_95.0W.jpg
+lat1 = 65.0N
+long1 = 100.0W
+lat2 = 60.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_97.5W-60.0N_92.5W.jpg
+lat1 = 65.0N
+long1 = 97.5W
+lat2 = 60.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_95.0W-60.0N_90.0W.jpg
+lat1 = 65.0N
+long1 = 95.0W
+lat2 = 60.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_180.0W-57.5N_175.0W.jpg
+lat1 = 62.5N
+long1 = 180.0W
+lat2 = 57.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_177.5W-57.5N_172.5W.jpg
+lat1 = 62.5N
+long1 = 177.5W
+lat2 = 57.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_175.0W-57.5N_170.0W.jpg
+lat1 = 62.5N
+long1 = 175.0W
+lat2 = 57.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_172.5W-57.5N_167.5W.jpg
+lat1 = 62.5N
+long1 = 172.5W
+lat2 = 57.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_170.0W-57.5N_165.0W.jpg
+lat1 = 62.5N
+long1 = 170.0W
+lat2 = 57.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_167.5W-57.5N_162.5W.jpg
+lat1 = 62.5N
+long1 = 167.5W
+lat2 = 57.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_165.0W-57.5N_160.0W.jpg
+lat1 = 62.5N
+long1 = 165.0W
+lat2 = 57.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_162.5W-57.5N_157.5W.jpg
+lat1 = 62.5N
+long1 = 162.5W
+lat2 = 57.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_160.0W-57.5N_155.0W.jpg
+lat1 = 62.5N
+long1 = 160.0W
+lat2 = 57.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_157.5W-57.5N_152.5W.jpg
+lat1 = 62.5N
+long1 = 157.5W
+lat2 = 57.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_155.0W-57.5N_150.0W.jpg
+lat1 = 62.5N
+long1 = 155.0W
+lat2 = 57.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_152.5W-57.5N_147.5W.jpg
+lat1 = 62.5N
+long1 = 152.5W
+lat2 = 57.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_150.0W-57.5N_145.0W.jpg
+lat1 = 62.5N
+long1 = 150.0W
+lat2 = 57.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_147.5W-57.5N_142.5W.jpg
+lat1 = 62.5N
+long1 = 147.5W
+lat2 = 57.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_145.0W-57.5N_140.0W.jpg
+lat1 = 62.5N
+long1 = 145.0W
+lat2 = 57.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_142.5W-57.5N_137.5W.jpg
+lat1 = 62.5N
+long1 = 142.5W
+lat2 = 57.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_140.0W-57.5N_135.0W.jpg
+lat1 = 62.5N
+long1 = 140.0W
+lat2 = 57.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_137.5W-57.5N_132.5W.jpg
+lat1 = 62.5N
+long1 = 137.5W
+lat2 = 57.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_135.0W-57.5N_130.0W.jpg
+lat1 = 62.5N
+long1 = 135.0W
+lat2 = 57.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_132.5W-57.5N_127.5W.jpg
+lat1 = 62.5N
+long1 = 132.5W
+lat2 = 57.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_130.0W-57.5N_125.0W.jpg
+lat1 = 62.5N
+long1 = 130.0W
+lat2 = 57.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_127.5W-57.5N_122.5W.jpg
+lat1 = 62.5N
+long1 = 127.5W
+lat2 = 57.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_125.0W-57.5N_120.0W.jpg
+lat1 = 62.5N
+long1 = 125.0W
+lat2 = 57.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_122.5W-57.5N_117.5W.jpg
+lat1 = 62.5N
+long1 = 122.5W
+lat2 = 57.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_120.0W-57.5N_115.0W.jpg
+lat1 = 62.5N
+long1 = 120.0W
+lat2 = 57.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_117.5W-57.5N_112.5W.jpg
+lat1 = 62.5N
+long1 = 117.5W
+lat2 = 57.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_115.0W-57.5N_110.0W.jpg
+lat1 = 62.5N
+long1 = 115.0W
+lat2 = 57.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_112.5W-57.5N_107.5W.jpg
+lat1 = 62.5N
+long1 = 112.5W
+lat2 = 57.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_110.0W-57.5N_105.0W.jpg
+lat1 = 62.5N
+long1 = 110.0W
+lat2 = 57.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_107.5W-57.5N_102.5W.jpg
+lat1 = 62.5N
+long1 = 107.5W
+lat2 = 57.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_105.0W-57.5N_100.0W.jpg
+lat1 = 62.5N
+long1 = 105.0W
+lat2 = 57.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_102.5W-57.5N_97.5W.jpg
+lat1 = 62.5N
+long1 = 102.5W
+lat2 = 57.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_100.0W-57.5N_95.0W.jpg
+lat1 = 62.5N
+long1 = 100.0W
+lat2 = 57.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_97.5W-57.5N_92.5W.jpg
+lat1 = 62.5N
+long1 = 97.5W
+lat2 = 57.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_95.0W-57.5N_90.0W.jpg
+lat1 = 62.5N
+long1 = 95.0W
+lat2 = 57.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_180.0W-55.0N_175.0W.jpg
+lat1 = 60.0N
+long1 = 180.0W
+lat2 = 55.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_177.5W-55.0N_172.5W.jpg
+lat1 = 60.0N
+long1 = 177.5W
+lat2 = 55.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_175.0W-55.0N_170.0W.jpg
+lat1 = 60.0N
+long1 = 175.0W
+lat2 = 55.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_172.5W-55.0N_167.5W.jpg
+lat1 = 60.0N
+long1 = 172.5W
+lat2 = 55.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_170.0W-55.0N_165.0W.jpg
+lat1 = 60.0N
+long1 = 170.0W
+lat2 = 55.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_167.5W-55.0N_162.5W.jpg
+lat1 = 60.0N
+long1 = 167.5W
+lat2 = 55.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_165.0W-55.0N_160.0W.jpg
+lat1 = 60.0N
+long1 = 165.0W
+lat2 = 55.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_162.5W-55.0N_157.5W.jpg
+lat1 = 60.0N
+long1 = 162.5W
+lat2 = 55.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_160.0W-55.0N_155.0W.jpg
+lat1 = 60.0N
+long1 = 160.0W
+lat2 = 55.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_157.5W-55.0N_152.5W.jpg
+lat1 = 60.0N
+long1 = 157.5W
+lat2 = 55.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_155.0W-55.0N_150.0W.jpg
+lat1 = 60.0N
+long1 = 155.0W
+lat2 = 55.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_152.5W-55.0N_147.5W.jpg
+lat1 = 60.0N
+long1 = 152.5W
+lat2 = 55.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_150.0W-55.0N_145.0W.jpg
+lat1 = 60.0N
+long1 = 150.0W
+lat2 = 55.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_147.5W-55.0N_142.5W.jpg
+lat1 = 60.0N
+long1 = 147.5W
+lat2 = 55.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_145.0W-55.0N_140.0W.jpg
+lat1 = 60.0N
+long1 = 145.0W
+lat2 = 55.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_142.5W-55.0N_137.5W.jpg
+lat1 = 60.0N
+long1 = 142.5W
+lat2 = 55.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_140.0W-55.0N_135.0W.jpg
+lat1 = 60.0N
+long1 = 140.0W
+lat2 = 55.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_137.5W-55.0N_132.5W.jpg
+lat1 = 60.0N
+long1 = 137.5W
+lat2 = 55.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_135.0W-55.0N_130.0W.jpg
+lat1 = 60.0N
+long1 = 135.0W
+lat2 = 55.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_132.5W-55.0N_127.5W.jpg
+lat1 = 60.0N
+long1 = 132.5W
+lat2 = 55.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_130.0W-55.0N_125.0W.jpg
+lat1 = 60.0N
+long1 = 130.0W
+lat2 = 55.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_127.5W-55.0N_122.5W.jpg
+lat1 = 60.0N
+long1 = 127.5W
+lat2 = 55.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_125.0W-55.0N_120.0W.jpg
+lat1 = 60.0N
+long1 = 125.0W
+lat2 = 55.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_122.5W-55.0N_117.5W.jpg
+lat1 = 60.0N
+long1 = 122.5W
+lat2 = 55.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_120.0W-55.0N_115.0W.jpg
+lat1 = 60.0N
+long1 = 120.0W
+lat2 = 55.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_117.5W-55.0N_112.5W.jpg
+lat1 = 60.0N
+long1 = 117.5W
+lat2 = 55.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_115.0W-55.0N_110.0W.jpg
+lat1 = 60.0N
+long1 = 115.0W
+lat2 = 55.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_112.5W-55.0N_107.5W.jpg
+lat1 = 60.0N
+long1 = 112.5W
+lat2 = 55.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_110.0W-55.0N_105.0W.jpg
+lat1 = 60.0N
+long1 = 110.0W
+lat2 = 55.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_107.5W-55.0N_102.5W.jpg
+lat1 = 60.0N
+long1 = 107.5W
+lat2 = 55.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_105.0W-55.0N_100.0W.jpg
+lat1 = 60.0N
+long1 = 105.0W
+lat2 = 55.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_102.5W-55.0N_97.5W.jpg
+lat1 = 60.0N
+long1 = 102.5W
+lat2 = 55.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_100.0W-55.0N_95.0W.jpg
+lat1 = 60.0N
+long1 = 100.0W
+lat2 = 55.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_97.5W-55.0N_92.5W.jpg
+lat1 = 60.0N
+long1 = 97.5W
+lat2 = 55.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_95.0W-55.0N_90.0W.jpg
+lat1 = 60.0N
+long1 = 95.0W
+lat2 = 55.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_180.0W-52.5N_175.0W.jpg
+lat1 = 57.5N
+long1 = 180.0W
+lat2 = 52.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_177.5W-52.5N_172.5W.jpg
+lat1 = 57.5N
+long1 = 177.5W
+lat2 = 52.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_175.0W-52.5N_170.0W.jpg
+lat1 = 57.5N
+long1 = 175.0W
+lat2 = 52.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_172.5W-52.5N_167.5W.jpg
+lat1 = 57.5N
+long1 = 172.5W
+lat2 = 52.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_170.0W-52.5N_165.0W.jpg
+lat1 = 57.5N
+long1 = 170.0W
+lat2 = 52.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_167.5W-52.5N_162.5W.jpg
+lat1 = 57.5N
+long1 = 167.5W
+lat2 = 52.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_165.0W-52.5N_160.0W.jpg
+lat1 = 57.5N
+long1 = 165.0W
+lat2 = 52.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_162.5W-52.5N_157.5W.jpg
+lat1 = 57.5N
+long1 = 162.5W
+lat2 = 52.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_160.0W-52.5N_155.0W.jpg
+lat1 = 57.5N
+long1 = 160.0W
+lat2 = 52.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_157.5W-52.5N_152.5W.jpg
+lat1 = 57.5N
+long1 = 157.5W
+lat2 = 52.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_155.0W-52.5N_150.0W.jpg
+lat1 = 57.5N
+long1 = 155.0W
+lat2 = 52.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_152.5W-52.5N_147.5W.jpg
+lat1 = 57.5N
+long1 = 152.5W
+lat2 = 52.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_150.0W-52.5N_145.0W.jpg
+lat1 = 57.5N
+long1 = 150.0W
+lat2 = 52.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_147.5W-52.5N_142.5W.jpg
+lat1 = 57.5N
+long1 = 147.5W
+lat2 = 52.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_145.0W-52.5N_140.0W.jpg
+lat1 = 57.5N
+long1 = 145.0W
+lat2 = 52.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_142.5W-52.5N_137.5W.jpg
+lat1 = 57.5N
+long1 = 142.5W
+lat2 = 52.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_140.0W-52.5N_135.0W.jpg
+lat1 = 57.5N
+long1 = 140.0W
+lat2 = 52.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_137.5W-52.5N_132.5W.jpg
+lat1 = 57.5N
+long1 = 137.5W
+lat2 = 52.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_135.0W-52.5N_130.0W.jpg
+lat1 = 57.5N
+long1 = 135.0W
+lat2 = 52.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_132.5W-52.5N_127.5W.jpg
+lat1 = 57.5N
+long1 = 132.5W
+lat2 = 52.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_130.0W-52.5N_125.0W.jpg
+lat1 = 57.5N
+long1 = 130.0W
+lat2 = 52.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_127.5W-52.5N_122.5W.jpg
+lat1 = 57.5N
+long1 = 127.5W
+lat2 = 52.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_125.0W-52.5N_120.0W.jpg
+lat1 = 57.5N
+long1 = 125.0W
+lat2 = 52.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_122.5W-52.5N_117.5W.jpg
+lat1 = 57.5N
+long1 = 122.5W
+lat2 = 52.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_120.0W-52.5N_115.0W.jpg
+lat1 = 57.5N
+long1 = 120.0W
+lat2 = 52.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_117.5W-52.5N_112.5W.jpg
+lat1 = 57.5N
+long1 = 117.5W
+lat2 = 52.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_115.0W-52.5N_110.0W.jpg
+lat1 = 57.5N
+long1 = 115.0W
+lat2 = 52.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_112.5W-52.5N_107.5W.jpg
+lat1 = 57.5N
+long1 = 112.5W
+lat2 = 52.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_110.0W-52.5N_105.0W.jpg
+lat1 = 57.5N
+long1 = 110.0W
+lat2 = 52.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_107.5W-52.5N_102.5W.jpg
+lat1 = 57.5N
+long1 = 107.5W
+lat2 = 52.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_105.0W-52.5N_100.0W.jpg
+lat1 = 57.5N
+long1 = 105.0W
+lat2 = 52.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_102.5W-52.5N_97.5W.jpg
+lat1 = 57.5N
+long1 = 102.5W
+lat2 = 52.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_100.0W-52.5N_95.0W.jpg
+lat1 = 57.5N
+long1 = 100.0W
+lat2 = 52.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_97.5W-52.5N_92.5W.jpg
+lat1 = 57.5N
+long1 = 97.5W
+lat2 = 52.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_95.0W-52.5N_90.0W.jpg
+lat1 = 57.5N
+long1 = 95.0W
+lat2 = 52.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_180.0W-50.0N_175.0W.jpg
+lat1 = 55.0N
+long1 = 180.0W
+lat2 = 50.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_177.5W-50.0N_172.5W.jpg
+lat1 = 55.0N
+long1 = 177.5W
+lat2 = 50.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_175.0W-50.0N_170.0W.jpg
+lat1 = 55.0N
+long1 = 175.0W
+lat2 = 50.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_172.5W-50.0N_167.5W.jpg
+lat1 = 55.0N
+long1 = 172.5W
+lat2 = 50.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_170.0W-50.0N_165.0W.jpg
+lat1 = 55.0N
+long1 = 170.0W
+lat2 = 50.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_167.5W-50.0N_162.5W.jpg
+lat1 = 55.0N
+long1 = 167.5W
+lat2 = 50.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_165.0W-50.0N_160.0W.jpg
+lat1 = 55.0N
+long1 = 165.0W
+lat2 = 50.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_162.5W-50.0N_157.5W.jpg
+lat1 = 55.0N
+long1 = 162.5W
+lat2 = 50.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_160.0W-50.0N_155.0W.jpg
+lat1 = 55.0N
+long1 = 160.0W
+lat2 = 50.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_157.5W-50.0N_152.5W.jpg
+lat1 = 55.0N
+long1 = 157.5W
+lat2 = 50.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_155.0W-50.0N_150.0W.jpg
+lat1 = 55.0N
+long1 = 155.0W
+lat2 = 50.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_152.5W-50.0N_147.5W.jpg
+lat1 = 55.0N
+long1 = 152.5W
+lat2 = 50.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_150.0W-50.0N_145.0W.jpg
+lat1 = 55.0N
+long1 = 150.0W
+lat2 = 50.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_147.5W-50.0N_142.5W.jpg
+lat1 = 55.0N
+long1 = 147.5W
+lat2 = 50.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_145.0W-50.0N_140.0W.jpg
+lat1 = 55.0N
+long1 = 145.0W
+lat2 = 50.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_142.5W-50.0N_137.5W.jpg
+lat1 = 55.0N
+long1 = 142.5W
+lat2 = 50.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_140.0W-50.0N_135.0W.jpg
+lat1 = 55.0N
+long1 = 140.0W
+lat2 = 50.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_137.5W-50.0N_132.5W.jpg
+lat1 = 55.0N
+long1 = 137.5W
+lat2 = 50.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_135.0W-50.0N_130.0W.jpg
+lat1 = 55.0N
+long1 = 135.0W
+lat2 = 50.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_132.5W-50.0N_127.5W.jpg
+lat1 = 55.0N
+long1 = 132.5W
+lat2 = 50.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_130.0W-50.0N_125.0W.jpg
+lat1 = 55.0N
+long1 = 130.0W
+lat2 = 50.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_127.5W-50.0N_122.5W.jpg
+lat1 = 55.0N
+long1 = 127.5W
+lat2 = 50.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_125.0W-50.0N_120.0W.jpg
+lat1 = 55.0N
+long1 = 125.0W
+lat2 = 50.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_122.5W-50.0N_117.5W.jpg
+lat1 = 55.0N
+long1 = 122.5W
+lat2 = 50.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_120.0W-50.0N_115.0W.jpg
+lat1 = 55.0N
+long1 = 120.0W
+lat2 = 50.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_117.5W-50.0N_112.5W.jpg
+lat1 = 55.0N
+long1 = 117.5W
+lat2 = 50.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_115.0W-50.0N_110.0W.jpg
+lat1 = 55.0N
+long1 = 115.0W
+lat2 = 50.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_112.5W-50.0N_107.5W.jpg
+lat1 = 55.0N
+long1 = 112.5W
+lat2 = 50.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_110.0W-50.0N_105.0W.jpg
+lat1 = 55.0N
+long1 = 110.0W
+lat2 = 50.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_107.5W-50.0N_102.5W.jpg
+lat1 = 55.0N
+long1 = 107.5W
+lat2 = 50.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_105.0W-50.0N_100.0W.jpg
+lat1 = 55.0N
+long1 = 105.0W
+lat2 = 50.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_102.5W-50.0N_97.5W.jpg
+lat1 = 55.0N
+long1 = 102.5W
+lat2 = 50.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_100.0W-50.0N_95.0W.jpg
+lat1 = 55.0N
+long1 = 100.0W
+lat2 = 50.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_97.5W-50.0N_92.5W.jpg
+lat1 = 55.0N
+long1 = 97.5W
+lat2 = 50.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_95.0W-50.0N_90.0W.jpg
+lat1 = 55.0N
+long1 = 95.0W
+lat2 = 50.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_180.0W-47.5N_175.0W.jpg
+lat1 = 52.5N
+long1 = 180.0W
+lat2 = 47.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_177.5W-47.5N_172.5W.jpg
+lat1 = 52.5N
+long1 = 177.5W
+lat2 = 47.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_175.0W-47.5N_170.0W.jpg
+lat1 = 52.5N
+long1 = 175.0W
+lat2 = 47.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_172.5W-47.5N_167.5W.jpg
+lat1 = 52.5N
+long1 = 172.5W
+lat2 = 47.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_170.0W-47.5N_165.0W.jpg
+lat1 = 52.5N
+long1 = 170.0W
+lat2 = 47.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_167.5W-47.5N_162.5W.jpg
+lat1 = 52.5N
+long1 = 167.5W
+lat2 = 47.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_165.0W-47.5N_160.0W.jpg
+lat1 = 52.5N
+long1 = 165.0W
+lat2 = 47.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_162.5W-47.5N_157.5W.jpg
+lat1 = 52.5N
+long1 = 162.5W
+lat2 = 47.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_160.0W-47.5N_155.0W.jpg
+lat1 = 52.5N
+long1 = 160.0W
+lat2 = 47.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_157.5W-47.5N_152.5W.jpg
+lat1 = 52.5N
+long1 = 157.5W
+lat2 = 47.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_155.0W-47.5N_150.0W.jpg
+lat1 = 52.5N
+long1 = 155.0W
+lat2 = 47.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_152.5W-47.5N_147.5W.jpg
+lat1 = 52.5N
+long1 = 152.5W
+lat2 = 47.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_150.0W-47.5N_145.0W.jpg
+lat1 = 52.5N
+long1 = 150.0W
+lat2 = 47.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_147.5W-47.5N_142.5W.jpg
+lat1 = 52.5N
+long1 = 147.5W
+lat2 = 47.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_145.0W-47.5N_140.0W.jpg
+lat1 = 52.5N
+long1 = 145.0W
+lat2 = 47.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_142.5W-47.5N_137.5W.jpg
+lat1 = 52.5N
+long1 = 142.5W
+lat2 = 47.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_140.0W-47.5N_135.0W.jpg
+lat1 = 52.5N
+long1 = 140.0W
+lat2 = 47.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_137.5W-47.5N_132.5W.jpg
+lat1 = 52.5N
+long1 = 137.5W
+lat2 = 47.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_135.0W-47.5N_130.0W.jpg
+lat1 = 52.5N
+long1 = 135.0W
+lat2 = 47.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_132.5W-47.5N_127.5W.jpg
+lat1 = 52.5N
+long1 = 132.5W
+lat2 = 47.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_130.0W-47.5N_125.0W.jpg
+lat1 = 52.5N
+long1 = 130.0W
+lat2 = 47.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_127.5W-47.5N_122.5W.jpg
+lat1 = 52.5N
+long1 = 127.5W
+lat2 = 47.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_125.0W-47.5N_120.0W.jpg
+lat1 = 52.5N
+long1 = 125.0W
+lat2 = 47.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_122.5W-47.5N_117.5W.jpg
+lat1 = 52.5N
+long1 = 122.5W
+lat2 = 47.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_120.0W-47.5N_115.0W.jpg
+lat1 = 52.5N
+long1 = 120.0W
+lat2 = 47.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_117.5W-47.5N_112.5W.jpg
+lat1 = 52.5N
+long1 = 117.5W
+lat2 = 47.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_115.0W-47.5N_110.0W.jpg
+lat1 = 52.5N
+long1 = 115.0W
+lat2 = 47.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_112.5W-47.5N_107.5W.jpg
+lat1 = 52.5N
+long1 = 112.5W
+lat2 = 47.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_110.0W-47.5N_105.0W.jpg
+lat1 = 52.5N
+long1 = 110.0W
+lat2 = 47.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_107.5W-47.5N_102.5W.jpg
+lat1 = 52.5N
+long1 = 107.5W
+lat2 = 47.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_105.0W-47.5N_100.0W.jpg
+lat1 = 52.5N
+long1 = 105.0W
+lat2 = 47.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_102.5W-47.5N_97.5W.jpg
+lat1 = 52.5N
+long1 = 102.5W
+lat2 = 47.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_100.0W-47.5N_95.0W.jpg
+lat1 = 52.5N
+long1 = 100.0W
+lat2 = 47.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_97.5W-47.5N_92.5W.jpg
+lat1 = 52.5N
+long1 = 97.5W
+lat2 = 47.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_95.0W-47.5N_90.0W.jpg
+lat1 = 52.5N
+long1 = 95.0W
+lat2 = 47.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_180.0W-45.0N_175.0W.jpg
+lat1 = 50.0N
+long1 = 180.0W
+lat2 = 45.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_177.5W-45.0N_172.5W.jpg
+lat1 = 50.0N
+long1 = 177.5W
+lat2 = 45.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_175.0W-45.0N_170.0W.jpg
+lat1 = 50.0N
+long1 = 175.0W
+lat2 = 45.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_172.5W-45.0N_167.5W.jpg
+lat1 = 50.0N
+long1 = 172.5W
+lat2 = 45.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_170.0W-45.0N_165.0W.jpg
+lat1 = 50.0N
+long1 = 170.0W
+lat2 = 45.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_167.5W-45.0N_162.5W.jpg
+lat1 = 50.0N
+long1 = 167.5W
+lat2 = 45.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_165.0W-45.0N_160.0W.jpg
+lat1 = 50.0N
+long1 = 165.0W
+lat2 = 45.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_162.5W-45.0N_157.5W.jpg
+lat1 = 50.0N
+long1 = 162.5W
+lat2 = 45.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_160.0W-45.0N_155.0W.jpg
+lat1 = 50.0N
+long1 = 160.0W
+lat2 = 45.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_157.5W-45.0N_152.5W.jpg
+lat1 = 50.0N
+long1 = 157.5W
+lat2 = 45.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_155.0W-45.0N_150.0W.jpg
+lat1 = 50.0N
+long1 = 155.0W
+lat2 = 45.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_152.5W-45.0N_147.5W.jpg
+lat1 = 50.0N
+long1 = 152.5W
+lat2 = 45.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_150.0W-45.0N_145.0W.jpg
+lat1 = 50.0N
+long1 = 150.0W
+lat2 = 45.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_147.5W-45.0N_142.5W.jpg
+lat1 = 50.0N
+long1 = 147.5W
+lat2 = 45.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_145.0W-45.0N_140.0W.jpg
+lat1 = 50.0N
+long1 = 145.0W
+lat2 = 45.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_142.5W-45.0N_137.5W.jpg
+lat1 = 50.0N
+long1 = 142.5W
+lat2 = 45.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_140.0W-45.0N_135.0W.jpg
+lat1 = 50.0N
+long1 = 140.0W
+lat2 = 45.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_137.5W-45.0N_132.5W.jpg
+lat1 = 50.0N
+long1 = 137.5W
+lat2 = 45.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_135.0W-45.0N_130.0W.jpg
+lat1 = 50.0N
+long1 = 135.0W
+lat2 = 45.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_132.5W-45.0N_127.5W.jpg
+lat1 = 50.0N
+long1 = 132.5W
+lat2 = 45.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_130.0W-45.0N_125.0W.jpg
+lat1 = 50.0N
+long1 = 130.0W
+lat2 = 45.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_127.5W-45.0N_122.5W.jpg
+lat1 = 50.0N
+long1 = 127.5W
+lat2 = 45.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_125.0W-45.0N_120.0W.jpg
+lat1 = 50.0N
+long1 = 125.0W
+lat2 = 45.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_122.5W-45.0N_117.5W.jpg
+lat1 = 50.0N
+long1 = 122.5W
+lat2 = 45.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_120.0W-45.0N_115.0W.jpg
+lat1 = 50.0N
+long1 = 120.0W
+lat2 = 45.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_117.5W-45.0N_112.5W.jpg
+lat1 = 50.0N
+long1 = 117.5W
+lat2 = 45.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_115.0W-45.0N_110.0W.jpg
+lat1 = 50.0N
+long1 = 115.0W
+lat2 = 45.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_112.5W-45.0N_107.5W.jpg
+lat1 = 50.0N
+long1 = 112.5W
+lat2 = 45.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_110.0W-45.0N_105.0W.jpg
+lat1 = 50.0N
+long1 = 110.0W
+lat2 = 45.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_107.5W-45.0N_102.5W.jpg
+lat1 = 50.0N
+long1 = 107.5W
+lat2 = 45.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_105.0W-45.0N_100.0W.jpg
+lat1 = 50.0N
+long1 = 105.0W
+lat2 = 45.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_102.5W-45.0N_97.5W.jpg
+lat1 = 50.0N
+long1 = 102.5W
+lat2 = 45.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_100.0W-45.0N_95.0W.jpg
+lat1 = 50.0N
+long1 = 100.0W
+lat2 = 45.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_97.5W-45.0N_92.5W.jpg
+lat1 = 50.0N
+long1 = 97.5W
+lat2 = 45.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_95.0W-45.0N_90.0W.jpg
+lat1 = 50.0N
+long1 = 95.0W
+lat2 = 45.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_180.0W-42.5N_175.0W.jpg
+lat1 = 47.5N
+long1 = 180.0W
+lat2 = 42.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_177.5W-42.5N_172.5W.jpg
+lat1 = 47.5N
+long1 = 177.5W
+lat2 = 42.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_175.0W-42.5N_170.0W.jpg
+lat1 = 47.5N
+long1 = 175.0W
+lat2 = 42.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_172.5W-42.5N_167.5W.jpg
+lat1 = 47.5N
+long1 = 172.5W
+lat2 = 42.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_170.0W-42.5N_165.0W.jpg
+lat1 = 47.5N
+long1 = 170.0W
+lat2 = 42.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_167.5W-42.5N_162.5W.jpg
+lat1 = 47.5N
+long1 = 167.5W
+lat2 = 42.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_165.0W-42.5N_160.0W.jpg
+lat1 = 47.5N
+long1 = 165.0W
+lat2 = 42.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_162.5W-42.5N_157.5W.jpg
+lat1 = 47.5N
+long1 = 162.5W
+lat2 = 42.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_160.0W-42.5N_155.0W.jpg
+lat1 = 47.5N
+long1 = 160.0W
+lat2 = 42.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_157.5W-42.5N_152.5W.jpg
+lat1 = 47.5N
+long1 = 157.5W
+lat2 = 42.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_155.0W-42.5N_150.0W.jpg
+lat1 = 47.5N
+long1 = 155.0W
+lat2 = 42.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_152.5W-42.5N_147.5W.jpg
+lat1 = 47.5N
+long1 = 152.5W
+lat2 = 42.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_150.0W-42.5N_145.0W.jpg
+lat1 = 47.5N
+long1 = 150.0W
+lat2 = 42.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_147.5W-42.5N_142.5W.jpg
+lat1 = 47.5N
+long1 = 147.5W
+lat2 = 42.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_145.0W-42.5N_140.0W.jpg
+lat1 = 47.5N
+long1 = 145.0W
+lat2 = 42.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_142.5W-42.5N_137.5W.jpg
+lat1 = 47.5N
+long1 = 142.5W
+lat2 = 42.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_140.0W-42.5N_135.0W.jpg
+lat1 = 47.5N
+long1 = 140.0W
+lat2 = 42.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_137.5W-42.5N_132.5W.jpg
+lat1 = 47.5N
+long1 = 137.5W
+lat2 = 42.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_135.0W-42.5N_130.0W.jpg
+lat1 = 47.5N
+long1 = 135.0W
+lat2 = 42.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_132.5W-42.5N_127.5W.jpg
+lat1 = 47.5N
+long1 = 132.5W
+lat2 = 42.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_130.0W-42.5N_125.0W.jpg
+lat1 = 47.5N
+long1 = 130.0W
+lat2 = 42.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_127.5W-42.5N_122.5W.jpg
+lat1 = 47.5N
+long1 = 127.5W
+lat2 = 42.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_125.0W-42.5N_120.0W.jpg
+lat1 = 47.5N
+long1 = 125.0W
+lat2 = 42.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_122.5W-42.5N_117.5W.jpg
+lat1 = 47.5N
+long1 = 122.5W
+lat2 = 42.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_120.0W-42.5N_115.0W.jpg
+lat1 = 47.5N
+long1 = 120.0W
+lat2 = 42.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_117.5W-42.5N_112.5W.jpg
+lat1 = 47.5N
+long1 = 117.5W
+lat2 = 42.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_115.0W-42.5N_110.0W.jpg
+lat1 = 47.5N
+long1 = 115.0W
+lat2 = 42.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_112.5W-42.5N_107.5W.jpg
+lat1 = 47.5N
+long1 = 112.5W
+lat2 = 42.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_110.0W-42.5N_105.0W.jpg
+lat1 = 47.5N
+long1 = 110.0W
+lat2 = 42.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_107.5W-42.5N_102.5W.jpg
+lat1 = 47.5N
+long1 = 107.5W
+lat2 = 42.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_105.0W-42.5N_100.0W.jpg
+lat1 = 47.5N
+long1 = 105.0W
+lat2 = 42.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_102.5W-42.5N_97.5W.jpg
+lat1 = 47.5N
+long1 = 102.5W
+lat2 = 42.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_100.0W-42.5N_95.0W.jpg
+lat1 = 47.5N
+long1 = 100.0W
+lat2 = 42.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_97.5W-42.5N_92.5W.jpg
+lat1 = 47.5N
+long1 = 97.5W
+lat2 = 42.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_95.0W-42.5N_90.0W.jpg
+lat1 = 47.5N
+long1 = 95.0W
+lat2 = 42.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_180.0W-40.0N_175.0W.jpg
+lat1 = 45.0N
+long1 = 180.0W
+lat2 = 40.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_177.5W-40.0N_172.5W.jpg
+lat1 = 45.0N
+long1 = 177.5W
+lat2 = 40.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_175.0W-40.0N_170.0W.jpg
+lat1 = 45.0N
+long1 = 175.0W
+lat2 = 40.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_172.5W-40.0N_167.5W.jpg
+lat1 = 45.0N
+long1 = 172.5W
+lat2 = 40.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_170.0W-40.0N_165.0W.jpg
+lat1 = 45.0N
+long1 = 170.0W
+lat2 = 40.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_167.5W-40.0N_162.5W.jpg
+lat1 = 45.0N
+long1 = 167.5W
+lat2 = 40.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_165.0W-40.0N_160.0W.jpg
+lat1 = 45.0N
+long1 = 165.0W
+lat2 = 40.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_162.5W-40.0N_157.5W.jpg
+lat1 = 45.0N
+long1 = 162.5W
+lat2 = 40.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_160.0W-40.0N_155.0W.jpg
+lat1 = 45.0N
+long1 = 160.0W
+lat2 = 40.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_157.5W-40.0N_152.5W.jpg
+lat1 = 45.0N
+long1 = 157.5W
+lat2 = 40.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_155.0W-40.0N_150.0W.jpg
+lat1 = 45.0N
+long1 = 155.0W
+lat2 = 40.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_152.5W-40.0N_147.5W.jpg
+lat1 = 45.0N
+long1 = 152.5W
+lat2 = 40.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_150.0W-40.0N_145.0W.jpg
+lat1 = 45.0N
+long1 = 150.0W
+lat2 = 40.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_147.5W-40.0N_142.5W.jpg
+lat1 = 45.0N
+long1 = 147.5W
+lat2 = 40.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_145.0W-40.0N_140.0W.jpg
+lat1 = 45.0N
+long1 = 145.0W
+lat2 = 40.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_142.5W-40.0N_137.5W.jpg
+lat1 = 45.0N
+long1 = 142.5W
+lat2 = 40.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_140.0W-40.0N_135.0W.jpg
+lat1 = 45.0N
+long1 = 140.0W
+lat2 = 40.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_137.5W-40.0N_132.5W.jpg
+lat1 = 45.0N
+long1 = 137.5W
+lat2 = 40.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_135.0W-40.0N_130.0W.jpg
+lat1 = 45.0N
+long1 = 135.0W
+lat2 = 40.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_132.5W-40.0N_127.5W.jpg
+lat1 = 45.0N
+long1 = 132.5W
+lat2 = 40.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_130.0W-40.0N_125.0W.jpg
+lat1 = 45.0N
+long1 = 130.0W
+lat2 = 40.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_127.5W-40.0N_122.5W.jpg
+lat1 = 45.0N
+long1 = 127.5W
+lat2 = 40.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_125.0W-40.0N_120.0W.jpg
+lat1 = 45.0N
+long1 = 125.0W
+lat2 = 40.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_122.5W-40.0N_117.5W.jpg
+lat1 = 45.0N
+long1 = 122.5W
+lat2 = 40.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_120.0W-40.0N_115.0W.jpg
+lat1 = 45.0N
+long1 = 120.0W
+lat2 = 40.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_117.5W-40.0N_112.5W.jpg
+lat1 = 45.0N
+long1 = 117.5W
+lat2 = 40.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_115.0W-40.0N_110.0W.jpg
+lat1 = 45.0N
+long1 = 115.0W
+lat2 = 40.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_112.5W-40.0N_107.5W.jpg
+lat1 = 45.0N
+long1 = 112.5W
+lat2 = 40.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_110.0W-40.0N_105.0W.jpg
+lat1 = 45.0N
+long1 = 110.0W
+lat2 = 40.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_107.5W-40.0N_102.5W.jpg
+lat1 = 45.0N
+long1 = 107.5W
+lat2 = 40.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_105.0W-40.0N_100.0W.jpg
+lat1 = 45.0N
+long1 = 105.0W
+lat2 = 40.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_102.5W-40.0N_97.5W.jpg
+lat1 = 45.0N
+long1 = 102.5W
+lat2 = 40.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_100.0W-40.0N_95.0W.jpg
+lat1 = 45.0N
+long1 = 100.0W
+lat2 = 40.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_97.5W-40.0N_92.5W.jpg
+lat1 = 45.0N
+long1 = 97.5W
+lat2 = 40.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_95.0W-40.0N_90.0W.jpg
+lat1 = 45.0N
+long1 = 95.0W
+lat2 = 40.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_180.0W-37.5N_175.0W.jpg
+lat1 = 42.5N
+long1 = 180.0W
+lat2 = 37.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_177.5W-37.5N_172.5W.jpg
+lat1 = 42.5N
+long1 = 177.5W
+lat2 = 37.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_175.0W-37.5N_170.0W.jpg
+lat1 = 42.5N
+long1 = 175.0W
+lat2 = 37.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_172.5W-37.5N_167.5W.jpg
+lat1 = 42.5N
+long1 = 172.5W
+lat2 = 37.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_170.0W-37.5N_165.0W.jpg
+lat1 = 42.5N
+long1 = 170.0W
+lat2 = 37.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_167.5W-37.5N_162.5W.jpg
+lat1 = 42.5N
+long1 = 167.5W
+lat2 = 37.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_165.0W-37.5N_160.0W.jpg
+lat1 = 42.5N
+long1 = 165.0W
+lat2 = 37.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_162.5W-37.5N_157.5W.jpg
+lat1 = 42.5N
+long1 = 162.5W
+lat2 = 37.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_160.0W-37.5N_155.0W.jpg
+lat1 = 42.5N
+long1 = 160.0W
+lat2 = 37.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_157.5W-37.5N_152.5W.jpg
+lat1 = 42.5N
+long1 = 157.5W
+lat2 = 37.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_155.0W-37.5N_150.0W.jpg
+lat1 = 42.5N
+long1 = 155.0W
+lat2 = 37.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_152.5W-37.5N_147.5W.jpg
+lat1 = 42.5N
+long1 = 152.5W
+lat2 = 37.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_150.0W-37.5N_145.0W.jpg
+lat1 = 42.5N
+long1 = 150.0W
+lat2 = 37.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_147.5W-37.5N_142.5W.jpg
+lat1 = 42.5N
+long1 = 147.5W
+lat2 = 37.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_145.0W-37.5N_140.0W.jpg
+lat1 = 42.5N
+long1 = 145.0W
+lat2 = 37.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_142.5W-37.5N_137.5W.jpg
+lat1 = 42.5N
+long1 = 142.5W
+lat2 = 37.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_140.0W-37.5N_135.0W.jpg
+lat1 = 42.5N
+long1 = 140.0W
+lat2 = 37.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_137.5W-37.5N_132.5W.jpg
+lat1 = 42.5N
+long1 = 137.5W
+lat2 = 37.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_135.0W-37.5N_130.0W.jpg
+lat1 = 42.5N
+long1 = 135.0W
+lat2 = 37.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_132.5W-37.5N_127.5W.jpg
+lat1 = 42.5N
+long1 = 132.5W
+lat2 = 37.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_130.0W-37.5N_125.0W.jpg
+lat1 = 42.5N
+long1 = 130.0W
+lat2 = 37.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_127.5W-37.5N_122.5W.jpg
+lat1 = 42.5N
+long1 = 127.5W
+lat2 = 37.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_125.0W-37.5N_120.0W.jpg
+lat1 = 42.5N
+long1 = 125.0W
+lat2 = 37.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_122.5W-37.5N_117.5W.jpg
+lat1 = 42.5N
+long1 = 122.5W
+lat2 = 37.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_120.0W-37.5N_115.0W.jpg
+lat1 = 42.5N
+long1 = 120.0W
+lat2 = 37.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_117.5W-37.5N_112.5W.jpg
+lat1 = 42.5N
+long1 = 117.5W
+lat2 = 37.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_115.0W-37.5N_110.0W.jpg
+lat1 = 42.5N
+long1 = 115.0W
+lat2 = 37.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_112.5W-37.5N_107.5W.jpg
+lat1 = 42.5N
+long1 = 112.5W
+lat2 = 37.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_110.0W-37.5N_105.0W.jpg
+lat1 = 42.5N
+long1 = 110.0W
+lat2 = 37.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_107.5W-37.5N_102.5W.jpg
+lat1 = 42.5N
+long1 = 107.5W
+lat2 = 37.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_105.0W-37.5N_100.0W.jpg
+lat1 = 42.5N
+long1 = 105.0W
+lat2 = 37.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_102.5W-37.5N_97.5W.jpg
+lat1 = 42.5N
+long1 = 102.5W
+lat2 = 37.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_100.0W-37.5N_95.0W.jpg
+lat1 = 42.5N
+long1 = 100.0W
+lat2 = 37.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_97.5W-37.5N_92.5W.jpg
+lat1 = 42.5N
+long1 = 97.5W
+lat2 = 37.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_95.0W-37.5N_90.0W.jpg
+lat1 = 42.5N
+long1 = 95.0W
+lat2 = 37.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_180.0W-35.0N_175.0W.jpg
+lat1 = 40.0N
+long1 = 180.0W
+lat2 = 35.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_177.5W-35.0N_172.5W.jpg
+lat1 = 40.0N
+long1 = 177.5W
+lat2 = 35.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_175.0W-35.0N_170.0W.jpg
+lat1 = 40.0N
+long1 = 175.0W
+lat2 = 35.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_172.5W-35.0N_167.5W.jpg
+lat1 = 40.0N
+long1 = 172.5W
+lat2 = 35.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_170.0W-35.0N_165.0W.jpg
+lat1 = 40.0N
+long1 = 170.0W
+lat2 = 35.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_167.5W-35.0N_162.5W.jpg
+lat1 = 40.0N
+long1 = 167.5W
+lat2 = 35.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_165.0W-35.0N_160.0W.jpg
+lat1 = 40.0N
+long1 = 165.0W
+lat2 = 35.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_162.5W-35.0N_157.5W.jpg
+lat1 = 40.0N
+long1 = 162.5W
+lat2 = 35.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_160.0W-35.0N_155.0W.jpg
+lat1 = 40.0N
+long1 = 160.0W
+lat2 = 35.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_157.5W-35.0N_152.5W.jpg
+lat1 = 40.0N
+long1 = 157.5W
+lat2 = 35.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_155.0W-35.0N_150.0W.jpg
+lat1 = 40.0N
+long1 = 155.0W
+lat2 = 35.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_152.5W-35.0N_147.5W.jpg
+lat1 = 40.0N
+long1 = 152.5W
+lat2 = 35.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_150.0W-35.0N_145.0W.jpg
+lat1 = 40.0N
+long1 = 150.0W
+lat2 = 35.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_147.5W-35.0N_142.5W.jpg
+lat1 = 40.0N
+long1 = 147.5W
+lat2 = 35.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_145.0W-35.0N_140.0W.jpg
+lat1 = 40.0N
+long1 = 145.0W
+lat2 = 35.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_142.5W-35.0N_137.5W.jpg
+lat1 = 40.0N
+long1 = 142.5W
+lat2 = 35.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_140.0W-35.0N_135.0W.jpg
+lat1 = 40.0N
+long1 = 140.0W
+lat2 = 35.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_137.5W-35.0N_132.5W.jpg
+lat1 = 40.0N
+long1 = 137.5W
+lat2 = 35.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_135.0W-35.0N_130.0W.jpg
+lat1 = 40.0N
+long1 = 135.0W
+lat2 = 35.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_132.5W-35.0N_127.5W.jpg
+lat1 = 40.0N
+long1 = 132.5W
+lat2 = 35.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_130.0W-35.0N_125.0W.jpg
+lat1 = 40.0N
+long1 = 130.0W
+lat2 = 35.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_127.5W-35.0N_122.5W.jpg
+lat1 = 40.0N
+long1 = 127.5W
+lat2 = 35.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_125.0W-35.0N_120.0W.jpg
+lat1 = 40.0N
+long1 = 125.0W
+lat2 = 35.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_122.5W-35.0N_117.5W.jpg
+lat1 = 40.0N
+long1 = 122.5W
+lat2 = 35.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_120.0W-35.0N_115.0W.jpg
+lat1 = 40.0N
+long1 = 120.0W
+lat2 = 35.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_117.5W-35.0N_112.5W.jpg
+lat1 = 40.0N
+long1 = 117.5W
+lat2 = 35.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_115.0W-35.0N_110.0W.jpg
+lat1 = 40.0N
+long1 = 115.0W
+lat2 = 35.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_112.5W-35.0N_107.5W.jpg
+lat1 = 40.0N
+long1 = 112.5W
+lat2 = 35.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_110.0W-35.0N_105.0W.jpg
+lat1 = 40.0N
+long1 = 110.0W
+lat2 = 35.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_107.5W-35.0N_102.5W.jpg
+lat1 = 40.0N
+long1 = 107.5W
+lat2 = 35.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_105.0W-35.0N_100.0W.jpg
+lat1 = 40.0N
+long1 = 105.0W
+lat2 = 35.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_102.5W-35.0N_97.5W.jpg
+lat1 = 40.0N
+long1 = 102.5W
+lat2 = 35.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_100.0W-35.0N_95.0W.jpg
+lat1 = 40.0N
+long1 = 100.0W
+lat2 = 35.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_97.5W-35.0N_92.5W.jpg
+lat1 = 40.0N
+long1 = 97.5W
+lat2 = 35.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_95.0W-35.0N_90.0W.jpg
+lat1 = 40.0N
+long1 = 95.0W
+lat2 = 35.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_180.0W-32.5N_175.0W.jpg
+lat1 = 37.5N
+long1 = 180.0W
+lat2 = 32.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_177.5W-32.5N_172.5W.jpg
+lat1 = 37.5N
+long1 = 177.5W
+lat2 = 32.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_175.0W-32.5N_170.0W.jpg
+lat1 = 37.5N
+long1 = 175.0W
+lat2 = 32.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_172.5W-32.5N_167.5W.jpg
+lat1 = 37.5N
+long1 = 172.5W
+lat2 = 32.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_170.0W-32.5N_165.0W.jpg
+lat1 = 37.5N
+long1 = 170.0W
+lat2 = 32.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_167.5W-32.5N_162.5W.jpg
+lat1 = 37.5N
+long1 = 167.5W
+lat2 = 32.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_165.0W-32.5N_160.0W.jpg
+lat1 = 37.5N
+long1 = 165.0W
+lat2 = 32.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_162.5W-32.5N_157.5W.jpg
+lat1 = 37.5N
+long1 = 162.5W
+lat2 = 32.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_160.0W-32.5N_155.0W.jpg
+lat1 = 37.5N
+long1 = 160.0W
+lat2 = 32.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_157.5W-32.5N_152.5W.jpg
+lat1 = 37.5N
+long1 = 157.5W
+lat2 = 32.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_155.0W-32.5N_150.0W.jpg
+lat1 = 37.5N
+long1 = 155.0W
+lat2 = 32.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_152.5W-32.5N_147.5W.jpg
+lat1 = 37.5N
+long1 = 152.5W
+lat2 = 32.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_150.0W-32.5N_145.0W.jpg
+lat1 = 37.5N
+long1 = 150.0W
+lat2 = 32.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_147.5W-32.5N_142.5W.jpg
+lat1 = 37.5N
+long1 = 147.5W
+lat2 = 32.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_145.0W-32.5N_140.0W.jpg
+lat1 = 37.5N
+long1 = 145.0W
+lat2 = 32.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_142.5W-32.5N_137.5W.jpg
+lat1 = 37.5N
+long1 = 142.5W
+lat2 = 32.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_140.0W-32.5N_135.0W.jpg
+lat1 = 37.5N
+long1 = 140.0W
+lat2 = 32.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_137.5W-32.5N_132.5W.jpg
+lat1 = 37.5N
+long1 = 137.5W
+lat2 = 32.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_135.0W-32.5N_130.0W.jpg
+lat1 = 37.5N
+long1 = 135.0W
+lat2 = 32.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_132.5W-32.5N_127.5W.jpg
+lat1 = 37.5N
+long1 = 132.5W
+lat2 = 32.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_130.0W-32.5N_125.0W.jpg
+lat1 = 37.5N
+long1 = 130.0W
+lat2 = 32.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_127.5W-32.5N_122.5W.jpg
+lat1 = 37.5N
+long1 = 127.5W
+lat2 = 32.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_125.0W-32.5N_120.0W.jpg
+lat1 = 37.5N
+long1 = 125.0W
+lat2 = 32.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_122.5W-32.5N_117.5W.jpg
+lat1 = 37.5N
+long1 = 122.5W
+lat2 = 32.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_120.0W-32.5N_115.0W.jpg
+lat1 = 37.5N
+long1 = 120.0W
+lat2 = 32.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_117.5W-32.5N_112.5W.jpg
+lat1 = 37.5N
+long1 = 117.5W
+lat2 = 32.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_115.0W-32.5N_110.0W.jpg
+lat1 = 37.5N
+long1 = 115.0W
+lat2 = 32.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_112.5W-32.5N_107.5W.jpg
+lat1 = 37.5N
+long1 = 112.5W
+lat2 = 32.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_110.0W-32.5N_105.0W.jpg
+lat1 = 37.5N
+long1 = 110.0W
+lat2 = 32.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_107.5W-32.5N_102.5W.jpg
+lat1 = 37.5N
+long1 = 107.5W
+lat2 = 32.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_105.0W-32.5N_100.0W.jpg
+lat1 = 37.5N
+long1 = 105.0W
+lat2 = 32.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_102.5W-32.5N_97.5W.jpg
+lat1 = 37.5N
+long1 = 102.5W
+lat2 = 32.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_100.0W-32.5N_95.0W.jpg
+lat1 = 37.5N
+long1 = 100.0W
+lat2 = 32.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_97.5W-32.5N_92.5W.jpg
+lat1 = 37.5N
+long1 = 97.5W
+lat2 = 32.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_95.0W-32.5N_90.0W.jpg
+lat1 = 37.5N
+long1 = 95.0W
+lat2 = 32.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_180.0W-30.0N_175.0W.jpg
+lat1 = 35.0N
+long1 = 180.0W
+lat2 = 30.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_177.5W-30.0N_172.5W.jpg
+lat1 = 35.0N
+long1 = 177.5W
+lat2 = 30.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_175.0W-30.0N_170.0W.jpg
+lat1 = 35.0N
+long1 = 175.0W
+lat2 = 30.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_172.5W-30.0N_167.5W.jpg
+lat1 = 35.0N
+long1 = 172.5W
+lat2 = 30.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_170.0W-30.0N_165.0W.jpg
+lat1 = 35.0N
+long1 = 170.0W
+lat2 = 30.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_167.5W-30.0N_162.5W.jpg
+lat1 = 35.0N
+long1 = 167.5W
+lat2 = 30.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_165.0W-30.0N_160.0W.jpg
+lat1 = 35.0N
+long1 = 165.0W
+lat2 = 30.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_162.5W-30.0N_157.5W.jpg
+lat1 = 35.0N
+long1 = 162.5W
+lat2 = 30.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_160.0W-30.0N_155.0W.jpg
+lat1 = 35.0N
+long1 = 160.0W
+lat2 = 30.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_157.5W-30.0N_152.5W.jpg
+lat1 = 35.0N
+long1 = 157.5W
+lat2 = 30.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_155.0W-30.0N_150.0W.jpg
+lat1 = 35.0N
+long1 = 155.0W
+lat2 = 30.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_152.5W-30.0N_147.5W.jpg
+lat1 = 35.0N
+long1 = 152.5W
+lat2 = 30.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_150.0W-30.0N_145.0W.jpg
+lat1 = 35.0N
+long1 = 150.0W
+lat2 = 30.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_147.5W-30.0N_142.5W.jpg
+lat1 = 35.0N
+long1 = 147.5W
+lat2 = 30.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_145.0W-30.0N_140.0W.jpg
+lat1 = 35.0N
+long1 = 145.0W
+lat2 = 30.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_142.5W-30.0N_137.5W.jpg
+lat1 = 35.0N
+long1 = 142.5W
+lat2 = 30.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_140.0W-30.0N_135.0W.jpg
+lat1 = 35.0N
+long1 = 140.0W
+lat2 = 30.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_137.5W-30.0N_132.5W.jpg
+lat1 = 35.0N
+long1 = 137.5W
+lat2 = 30.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_135.0W-30.0N_130.0W.jpg
+lat1 = 35.0N
+long1 = 135.0W
+lat2 = 30.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_132.5W-30.0N_127.5W.jpg
+lat1 = 35.0N
+long1 = 132.5W
+lat2 = 30.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_130.0W-30.0N_125.0W.jpg
+lat1 = 35.0N
+long1 = 130.0W
+lat2 = 30.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_127.5W-30.0N_122.5W.jpg
+lat1 = 35.0N
+long1 = 127.5W
+lat2 = 30.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_125.0W-30.0N_120.0W.jpg
+lat1 = 35.0N
+long1 = 125.0W
+lat2 = 30.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_122.5W-30.0N_117.5W.jpg
+lat1 = 35.0N
+long1 = 122.5W
+lat2 = 30.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_120.0W-30.0N_115.0W.jpg
+lat1 = 35.0N
+long1 = 120.0W
+lat2 = 30.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_117.5W-30.0N_112.5W.jpg
+lat1 = 35.0N
+long1 = 117.5W
+lat2 = 30.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_115.0W-30.0N_110.0W.jpg
+lat1 = 35.0N
+long1 = 115.0W
+lat2 = 30.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_112.5W-30.0N_107.5W.jpg
+lat1 = 35.0N
+long1 = 112.5W
+lat2 = 30.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_110.0W-30.0N_105.0W.jpg
+lat1 = 35.0N
+long1 = 110.0W
+lat2 = 30.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_107.5W-30.0N_102.5W.jpg
+lat1 = 35.0N
+long1 = 107.5W
+lat2 = 30.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_105.0W-30.0N_100.0W.jpg
+lat1 = 35.0N
+long1 = 105.0W
+lat2 = 30.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_102.5W-30.0N_97.5W.jpg
+lat1 = 35.0N
+long1 = 102.5W
+lat2 = 30.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_100.0W-30.0N_95.0W.jpg
+lat1 = 35.0N
+long1 = 100.0W
+lat2 = 30.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_97.5W-30.0N_92.5W.jpg
+lat1 = 35.0N
+long1 = 97.5W
+lat2 = 30.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_95.0W-30.0N_90.0W.jpg
+lat1 = 35.0N
+long1 = 95.0W
+lat2 = 30.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_180.0W-27.5N_175.0W.jpg
+lat1 = 32.5N
+long1 = 180.0W
+lat2 = 27.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_177.5W-27.5N_172.5W.jpg
+lat1 = 32.5N
+long1 = 177.5W
+lat2 = 27.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_175.0W-27.5N_170.0W.jpg
+lat1 = 32.5N
+long1 = 175.0W
+lat2 = 27.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_172.5W-27.5N_167.5W.jpg
+lat1 = 32.5N
+long1 = 172.5W
+lat2 = 27.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_170.0W-27.5N_165.0W.jpg
+lat1 = 32.5N
+long1 = 170.0W
+lat2 = 27.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_167.5W-27.5N_162.5W.jpg
+lat1 = 32.5N
+long1 = 167.5W
+lat2 = 27.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_165.0W-27.5N_160.0W.jpg
+lat1 = 32.5N
+long1 = 165.0W
+lat2 = 27.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_162.5W-27.5N_157.5W.jpg
+lat1 = 32.5N
+long1 = 162.5W
+lat2 = 27.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_160.0W-27.5N_155.0W.jpg
+lat1 = 32.5N
+long1 = 160.0W
+lat2 = 27.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_157.5W-27.5N_152.5W.jpg
+lat1 = 32.5N
+long1 = 157.5W
+lat2 = 27.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_155.0W-27.5N_150.0W.jpg
+lat1 = 32.5N
+long1 = 155.0W
+lat2 = 27.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_152.5W-27.5N_147.5W.jpg
+lat1 = 32.5N
+long1 = 152.5W
+lat2 = 27.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_150.0W-27.5N_145.0W.jpg
+lat1 = 32.5N
+long1 = 150.0W
+lat2 = 27.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_147.5W-27.5N_142.5W.jpg
+lat1 = 32.5N
+long1 = 147.5W
+lat2 = 27.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_145.0W-27.5N_140.0W.jpg
+lat1 = 32.5N
+long1 = 145.0W
+lat2 = 27.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_142.5W-27.5N_137.5W.jpg
+lat1 = 32.5N
+long1 = 142.5W
+lat2 = 27.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_140.0W-27.5N_135.0W.jpg
+lat1 = 32.5N
+long1 = 140.0W
+lat2 = 27.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_137.5W-27.5N_132.5W.jpg
+lat1 = 32.5N
+long1 = 137.5W
+lat2 = 27.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_135.0W-27.5N_130.0W.jpg
+lat1 = 32.5N
+long1 = 135.0W
+lat2 = 27.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_132.5W-27.5N_127.5W.jpg
+lat1 = 32.5N
+long1 = 132.5W
+lat2 = 27.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_130.0W-27.5N_125.0W.jpg
+lat1 = 32.5N
+long1 = 130.0W
+lat2 = 27.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_127.5W-27.5N_122.5W.jpg
+lat1 = 32.5N
+long1 = 127.5W
+lat2 = 27.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_125.0W-27.5N_120.0W.jpg
+lat1 = 32.5N
+long1 = 125.0W
+lat2 = 27.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_122.5W-27.5N_117.5W.jpg
+lat1 = 32.5N
+long1 = 122.5W
+lat2 = 27.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_120.0W-27.5N_115.0W.jpg
+lat1 = 32.5N
+long1 = 120.0W
+lat2 = 27.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_117.5W-27.5N_112.5W.jpg
+lat1 = 32.5N
+long1 = 117.5W
+lat2 = 27.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_115.0W-27.5N_110.0W.jpg
+lat1 = 32.5N
+long1 = 115.0W
+lat2 = 27.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_112.5W-27.5N_107.5W.jpg
+lat1 = 32.5N
+long1 = 112.5W
+lat2 = 27.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_110.0W-27.5N_105.0W.jpg
+lat1 = 32.5N
+long1 = 110.0W
+lat2 = 27.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_107.5W-27.5N_102.5W.jpg
+lat1 = 32.5N
+long1 = 107.5W
+lat2 = 27.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_105.0W-27.5N_100.0W.jpg
+lat1 = 32.5N
+long1 = 105.0W
+lat2 = 27.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_102.5W-27.5N_97.5W.jpg
+lat1 = 32.5N
+long1 = 102.5W
+lat2 = 27.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_100.0W-27.5N_95.0W.jpg
+lat1 = 32.5N
+long1 = 100.0W
+lat2 = 27.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_97.5W-27.5N_92.5W.jpg
+lat1 = 32.5N
+long1 = 97.5W
+lat2 = 27.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_95.0W-27.5N_90.0W.jpg
+lat1 = 32.5N
+long1 = 95.0W
+lat2 = 27.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_180.0W-25.0N_175.0W.jpg
+lat1 = 30.0N
+long1 = 180.0W
+lat2 = 25.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_177.5W-25.0N_172.5W.jpg
+lat1 = 30.0N
+long1 = 177.5W
+lat2 = 25.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_175.0W-25.0N_170.0W.jpg
+lat1 = 30.0N
+long1 = 175.0W
+lat2 = 25.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_172.5W-25.0N_167.5W.jpg
+lat1 = 30.0N
+long1 = 172.5W
+lat2 = 25.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_170.0W-25.0N_165.0W.jpg
+lat1 = 30.0N
+long1 = 170.0W
+lat2 = 25.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_167.5W-25.0N_162.5W.jpg
+lat1 = 30.0N
+long1 = 167.5W
+lat2 = 25.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_165.0W-25.0N_160.0W.jpg
+lat1 = 30.0N
+long1 = 165.0W
+lat2 = 25.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_162.5W-25.0N_157.5W.jpg
+lat1 = 30.0N
+long1 = 162.5W
+lat2 = 25.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_160.0W-25.0N_155.0W.jpg
+lat1 = 30.0N
+long1 = 160.0W
+lat2 = 25.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_157.5W-25.0N_152.5W.jpg
+lat1 = 30.0N
+long1 = 157.5W
+lat2 = 25.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_155.0W-25.0N_150.0W.jpg
+lat1 = 30.0N
+long1 = 155.0W
+lat2 = 25.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_152.5W-25.0N_147.5W.jpg
+lat1 = 30.0N
+long1 = 152.5W
+lat2 = 25.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_150.0W-25.0N_145.0W.jpg
+lat1 = 30.0N
+long1 = 150.0W
+lat2 = 25.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_147.5W-25.0N_142.5W.jpg
+lat1 = 30.0N
+long1 = 147.5W
+lat2 = 25.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_145.0W-25.0N_140.0W.jpg
+lat1 = 30.0N
+long1 = 145.0W
+lat2 = 25.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_142.5W-25.0N_137.5W.jpg
+lat1 = 30.0N
+long1 = 142.5W
+lat2 = 25.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_140.0W-25.0N_135.0W.jpg
+lat1 = 30.0N
+long1 = 140.0W
+lat2 = 25.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_137.5W-25.0N_132.5W.jpg
+lat1 = 30.0N
+long1 = 137.5W
+lat2 = 25.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_135.0W-25.0N_130.0W.jpg
+lat1 = 30.0N
+long1 = 135.0W
+lat2 = 25.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_132.5W-25.0N_127.5W.jpg
+lat1 = 30.0N
+long1 = 132.5W
+lat2 = 25.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_130.0W-25.0N_125.0W.jpg
+lat1 = 30.0N
+long1 = 130.0W
+lat2 = 25.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_127.5W-25.0N_122.5W.jpg
+lat1 = 30.0N
+long1 = 127.5W
+lat2 = 25.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_125.0W-25.0N_120.0W.jpg
+lat1 = 30.0N
+long1 = 125.0W
+lat2 = 25.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_122.5W-25.0N_117.5W.jpg
+lat1 = 30.0N
+long1 = 122.5W
+lat2 = 25.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_120.0W-25.0N_115.0W.jpg
+lat1 = 30.0N
+long1 = 120.0W
+lat2 = 25.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_117.5W-25.0N_112.5W.jpg
+lat1 = 30.0N
+long1 = 117.5W
+lat2 = 25.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_115.0W-25.0N_110.0W.jpg
+lat1 = 30.0N
+long1 = 115.0W
+lat2 = 25.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_112.5W-25.0N_107.5W.jpg
+lat1 = 30.0N
+long1 = 112.5W
+lat2 = 25.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_110.0W-25.0N_105.0W.jpg
+lat1 = 30.0N
+long1 = 110.0W
+lat2 = 25.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_107.5W-25.0N_102.5W.jpg
+lat1 = 30.0N
+long1 = 107.5W
+lat2 = 25.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_105.0W-25.0N_100.0W.jpg
+lat1 = 30.0N
+long1 = 105.0W
+lat2 = 25.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_102.5W-25.0N_97.5W.jpg
+lat1 = 30.0N
+long1 = 102.5W
+lat2 = 25.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_100.0W-25.0N_95.0W.jpg
+lat1 = 30.0N
+long1 = 100.0W
+lat2 = 25.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_97.5W-25.0N_92.5W.jpg
+lat1 = 30.0N
+long1 = 97.5W
+lat2 = 25.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_95.0W-25.0N_90.0W.jpg
+lat1 = 30.0N
+long1 = 95.0W
+lat2 = 25.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_180.0W-22.5N_175.0W.jpg
+lat1 = 27.5N
+long1 = 180.0W
+lat2 = 22.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_177.5W-22.5N_172.5W.jpg
+lat1 = 27.5N
+long1 = 177.5W
+lat2 = 22.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_175.0W-22.5N_170.0W.jpg
+lat1 = 27.5N
+long1 = 175.0W
+lat2 = 22.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_172.5W-22.5N_167.5W.jpg
+lat1 = 27.5N
+long1 = 172.5W
+lat2 = 22.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_170.0W-22.5N_165.0W.jpg
+lat1 = 27.5N
+long1 = 170.0W
+lat2 = 22.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_167.5W-22.5N_162.5W.jpg
+lat1 = 27.5N
+long1 = 167.5W
+lat2 = 22.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_165.0W-22.5N_160.0W.jpg
+lat1 = 27.5N
+long1 = 165.0W
+lat2 = 22.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_162.5W-22.5N_157.5W.jpg
+lat1 = 27.5N
+long1 = 162.5W
+lat2 = 22.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_160.0W-22.5N_155.0W.jpg
+lat1 = 27.5N
+long1 = 160.0W
+lat2 = 22.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_157.5W-22.5N_152.5W.jpg
+lat1 = 27.5N
+long1 = 157.5W
+lat2 = 22.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_155.0W-22.5N_150.0W.jpg
+lat1 = 27.5N
+long1 = 155.0W
+lat2 = 22.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_152.5W-22.5N_147.5W.jpg
+lat1 = 27.5N
+long1 = 152.5W
+lat2 = 22.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_150.0W-22.5N_145.0W.jpg
+lat1 = 27.5N
+long1 = 150.0W
+lat2 = 22.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_147.5W-22.5N_142.5W.jpg
+lat1 = 27.5N
+long1 = 147.5W
+lat2 = 22.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_145.0W-22.5N_140.0W.jpg
+lat1 = 27.5N
+long1 = 145.0W
+lat2 = 22.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_142.5W-22.5N_137.5W.jpg
+lat1 = 27.5N
+long1 = 142.5W
+lat2 = 22.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_140.0W-22.5N_135.0W.jpg
+lat1 = 27.5N
+long1 = 140.0W
+lat2 = 22.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_137.5W-22.5N_132.5W.jpg
+lat1 = 27.5N
+long1 = 137.5W
+lat2 = 22.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_135.0W-22.5N_130.0W.jpg
+lat1 = 27.5N
+long1 = 135.0W
+lat2 = 22.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_132.5W-22.5N_127.5W.jpg
+lat1 = 27.5N
+long1 = 132.5W
+lat2 = 22.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_130.0W-22.5N_125.0W.jpg
+lat1 = 27.5N
+long1 = 130.0W
+lat2 = 22.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_127.5W-22.5N_122.5W.jpg
+lat1 = 27.5N
+long1 = 127.5W
+lat2 = 22.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_125.0W-22.5N_120.0W.jpg
+lat1 = 27.5N
+long1 = 125.0W
+lat2 = 22.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_122.5W-22.5N_117.5W.jpg
+lat1 = 27.5N
+long1 = 122.5W
+lat2 = 22.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_120.0W-22.5N_115.0W.jpg
+lat1 = 27.5N
+long1 = 120.0W
+lat2 = 22.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_117.5W-22.5N_112.5W.jpg
+lat1 = 27.5N
+long1 = 117.5W
+lat2 = 22.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_115.0W-22.5N_110.0W.jpg
+lat1 = 27.5N
+long1 = 115.0W
+lat2 = 22.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_112.5W-22.5N_107.5W.jpg
+lat1 = 27.5N
+long1 = 112.5W
+lat2 = 22.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_110.0W-22.5N_105.0W.jpg
+lat1 = 27.5N
+long1 = 110.0W
+lat2 = 22.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_107.5W-22.5N_102.5W.jpg
+lat1 = 27.5N
+long1 = 107.5W
+lat2 = 22.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_105.0W-22.5N_100.0W.jpg
+lat1 = 27.5N
+long1 = 105.0W
+lat2 = 22.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_102.5W-22.5N_97.5W.jpg
+lat1 = 27.5N
+long1 = 102.5W
+lat2 = 22.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_100.0W-22.5N_95.0W.jpg
+lat1 = 27.5N
+long1 = 100.0W
+lat2 = 22.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_97.5W-22.5N_92.5W.jpg
+lat1 = 27.5N
+long1 = 97.5W
+lat2 = 22.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_95.0W-22.5N_90.0W.jpg
+lat1 = 27.5N
+long1 = 95.0W
+lat2 = 22.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_180.0W-20.0N_175.0W.jpg
+lat1 = 25.0N
+long1 = 180.0W
+lat2 = 20.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_177.5W-20.0N_172.5W.jpg
+lat1 = 25.0N
+long1 = 177.5W
+lat2 = 20.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_175.0W-20.0N_170.0W.jpg
+lat1 = 25.0N
+long1 = 175.0W
+lat2 = 20.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_172.5W-20.0N_167.5W.jpg
+lat1 = 25.0N
+long1 = 172.5W
+lat2 = 20.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_170.0W-20.0N_165.0W.jpg
+lat1 = 25.0N
+long1 = 170.0W
+lat2 = 20.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_167.5W-20.0N_162.5W.jpg
+lat1 = 25.0N
+long1 = 167.5W
+lat2 = 20.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_165.0W-20.0N_160.0W.jpg
+lat1 = 25.0N
+long1 = 165.0W
+lat2 = 20.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_162.5W-20.0N_157.5W.jpg
+lat1 = 25.0N
+long1 = 162.5W
+lat2 = 20.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_160.0W-20.0N_155.0W.jpg
+lat1 = 25.0N
+long1 = 160.0W
+lat2 = 20.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_157.5W-20.0N_152.5W.jpg
+lat1 = 25.0N
+long1 = 157.5W
+lat2 = 20.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_155.0W-20.0N_150.0W.jpg
+lat1 = 25.0N
+long1 = 155.0W
+lat2 = 20.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_152.5W-20.0N_147.5W.jpg
+lat1 = 25.0N
+long1 = 152.5W
+lat2 = 20.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_150.0W-20.0N_145.0W.jpg
+lat1 = 25.0N
+long1 = 150.0W
+lat2 = 20.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_147.5W-20.0N_142.5W.jpg
+lat1 = 25.0N
+long1 = 147.5W
+lat2 = 20.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_145.0W-20.0N_140.0W.jpg
+lat1 = 25.0N
+long1 = 145.0W
+lat2 = 20.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_142.5W-20.0N_137.5W.jpg
+lat1 = 25.0N
+long1 = 142.5W
+lat2 = 20.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_140.0W-20.0N_135.0W.jpg
+lat1 = 25.0N
+long1 = 140.0W
+lat2 = 20.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_137.5W-20.0N_132.5W.jpg
+lat1 = 25.0N
+long1 = 137.5W
+lat2 = 20.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_135.0W-20.0N_130.0W.jpg
+lat1 = 25.0N
+long1 = 135.0W
+lat2 = 20.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_132.5W-20.0N_127.5W.jpg
+lat1 = 25.0N
+long1 = 132.5W
+lat2 = 20.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_130.0W-20.0N_125.0W.jpg
+lat1 = 25.0N
+long1 = 130.0W
+lat2 = 20.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_127.5W-20.0N_122.5W.jpg
+lat1 = 25.0N
+long1 = 127.5W
+lat2 = 20.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_125.0W-20.0N_120.0W.jpg
+lat1 = 25.0N
+long1 = 125.0W
+lat2 = 20.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_122.5W-20.0N_117.5W.jpg
+lat1 = 25.0N
+long1 = 122.5W
+lat2 = 20.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_120.0W-20.0N_115.0W.jpg
+lat1 = 25.0N
+long1 = 120.0W
+lat2 = 20.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_117.5W-20.0N_112.5W.jpg
+lat1 = 25.0N
+long1 = 117.5W
+lat2 = 20.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_115.0W-20.0N_110.0W.jpg
+lat1 = 25.0N
+long1 = 115.0W
+lat2 = 20.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_112.5W-20.0N_107.5W.jpg
+lat1 = 25.0N
+long1 = 112.5W
+lat2 = 20.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_110.0W-20.0N_105.0W.jpg
+lat1 = 25.0N
+long1 = 110.0W
+lat2 = 20.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_107.5W-20.0N_102.5W.jpg
+lat1 = 25.0N
+long1 = 107.5W
+lat2 = 20.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_105.0W-20.0N_100.0W.jpg
+lat1 = 25.0N
+long1 = 105.0W
+lat2 = 20.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_102.5W-20.0N_97.5W.jpg
+lat1 = 25.0N
+long1 = 102.5W
+lat2 = 20.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_100.0W-20.0N_95.0W.jpg
+lat1 = 25.0N
+long1 = 100.0W
+lat2 = 20.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_97.5W-20.0N_92.5W.jpg
+lat1 = 25.0N
+long1 = 97.5W
+lat2 = 20.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_95.0W-20.0N_90.0W.jpg
+lat1 = 25.0N
+long1 = 95.0W
+lat2 = 20.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_180.0W-17.5N_175.0W.jpg
+lat1 = 22.5N
+long1 = 180.0W
+lat2 = 17.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_177.5W-17.5N_172.5W.jpg
+lat1 = 22.5N
+long1 = 177.5W
+lat2 = 17.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_175.0W-17.5N_170.0W.jpg
+lat1 = 22.5N
+long1 = 175.0W
+lat2 = 17.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_172.5W-17.5N_167.5W.jpg
+lat1 = 22.5N
+long1 = 172.5W
+lat2 = 17.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_170.0W-17.5N_165.0W.jpg
+lat1 = 22.5N
+long1 = 170.0W
+lat2 = 17.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_167.5W-17.5N_162.5W.jpg
+lat1 = 22.5N
+long1 = 167.5W
+lat2 = 17.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_165.0W-17.5N_160.0W.jpg
+lat1 = 22.5N
+long1 = 165.0W
+lat2 = 17.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_162.5W-17.5N_157.5W.jpg
+lat1 = 22.5N
+long1 = 162.5W
+lat2 = 17.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_160.0W-17.5N_155.0W.jpg
+lat1 = 22.5N
+long1 = 160.0W
+lat2 = 17.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_157.5W-17.5N_152.5W.jpg
+lat1 = 22.5N
+long1 = 157.5W
+lat2 = 17.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_155.0W-17.5N_150.0W.jpg
+lat1 = 22.5N
+long1 = 155.0W
+lat2 = 17.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_152.5W-17.5N_147.5W.jpg
+lat1 = 22.5N
+long1 = 152.5W
+lat2 = 17.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_150.0W-17.5N_145.0W.jpg
+lat1 = 22.5N
+long1 = 150.0W
+lat2 = 17.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_147.5W-17.5N_142.5W.jpg
+lat1 = 22.5N
+long1 = 147.5W
+lat2 = 17.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_145.0W-17.5N_140.0W.jpg
+lat1 = 22.5N
+long1 = 145.0W
+lat2 = 17.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_142.5W-17.5N_137.5W.jpg
+lat1 = 22.5N
+long1 = 142.5W
+lat2 = 17.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_140.0W-17.5N_135.0W.jpg
+lat1 = 22.5N
+long1 = 140.0W
+lat2 = 17.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_137.5W-17.5N_132.5W.jpg
+lat1 = 22.5N
+long1 = 137.5W
+lat2 = 17.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_135.0W-17.5N_130.0W.jpg
+lat1 = 22.5N
+long1 = 135.0W
+lat2 = 17.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_132.5W-17.5N_127.5W.jpg
+lat1 = 22.5N
+long1 = 132.5W
+lat2 = 17.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_130.0W-17.5N_125.0W.jpg
+lat1 = 22.5N
+long1 = 130.0W
+lat2 = 17.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_127.5W-17.5N_122.5W.jpg
+lat1 = 22.5N
+long1 = 127.5W
+lat2 = 17.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_125.0W-17.5N_120.0W.jpg
+lat1 = 22.5N
+long1 = 125.0W
+lat2 = 17.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_122.5W-17.5N_117.5W.jpg
+lat1 = 22.5N
+long1 = 122.5W
+lat2 = 17.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_120.0W-17.5N_115.0W.jpg
+lat1 = 22.5N
+long1 = 120.0W
+lat2 = 17.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_117.5W-17.5N_112.5W.jpg
+lat1 = 22.5N
+long1 = 117.5W
+lat2 = 17.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_115.0W-17.5N_110.0W.jpg
+lat1 = 22.5N
+long1 = 115.0W
+lat2 = 17.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_112.5W-17.5N_107.5W.jpg
+lat1 = 22.5N
+long1 = 112.5W
+lat2 = 17.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_110.0W-17.5N_105.0W.jpg
+lat1 = 22.5N
+long1 = 110.0W
+lat2 = 17.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_107.5W-17.5N_102.5W.jpg
+lat1 = 22.5N
+long1 = 107.5W
+lat2 = 17.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_105.0W-17.5N_100.0W.jpg
+lat1 = 22.5N
+long1 = 105.0W
+lat2 = 17.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_102.5W-17.5N_97.5W.jpg
+lat1 = 22.5N
+long1 = 102.5W
+lat2 = 17.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_100.0W-17.5N_95.0W.jpg
+lat1 = 22.5N
+long1 = 100.0W
+lat2 = 17.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_97.5W-17.5N_92.5W.jpg
+lat1 = 22.5N
+long1 = 97.5W
+lat2 = 17.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_95.0W-17.5N_90.0W.jpg
+lat1 = 22.5N
+long1 = 95.0W
+lat2 = 17.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_180.0W-15.0N_175.0W.jpg
+lat1 = 20.0N
+long1 = 180.0W
+lat2 = 15.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_177.5W-15.0N_172.5W.jpg
+lat1 = 20.0N
+long1 = 177.5W
+lat2 = 15.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_175.0W-15.0N_170.0W.jpg
+lat1 = 20.0N
+long1 = 175.0W
+lat2 = 15.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_172.5W-15.0N_167.5W.jpg
+lat1 = 20.0N
+long1 = 172.5W
+lat2 = 15.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_170.0W-15.0N_165.0W.jpg
+lat1 = 20.0N
+long1 = 170.0W
+lat2 = 15.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_167.5W-15.0N_162.5W.jpg
+lat1 = 20.0N
+long1 = 167.5W
+lat2 = 15.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_165.0W-15.0N_160.0W.jpg
+lat1 = 20.0N
+long1 = 165.0W
+lat2 = 15.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_162.5W-15.0N_157.5W.jpg
+lat1 = 20.0N
+long1 = 162.5W
+lat2 = 15.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_160.0W-15.0N_155.0W.jpg
+lat1 = 20.0N
+long1 = 160.0W
+lat2 = 15.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_157.5W-15.0N_152.5W.jpg
+lat1 = 20.0N
+long1 = 157.5W
+lat2 = 15.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_155.0W-15.0N_150.0W.jpg
+lat1 = 20.0N
+long1 = 155.0W
+lat2 = 15.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_152.5W-15.0N_147.5W.jpg
+lat1 = 20.0N
+long1 = 152.5W
+lat2 = 15.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_150.0W-15.0N_145.0W.jpg
+lat1 = 20.0N
+long1 = 150.0W
+lat2 = 15.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_147.5W-15.0N_142.5W.jpg
+lat1 = 20.0N
+long1 = 147.5W
+lat2 = 15.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_145.0W-15.0N_140.0W.jpg
+lat1 = 20.0N
+long1 = 145.0W
+lat2 = 15.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_142.5W-15.0N_137.5W.jpg
+lat1 = 20.0N
+long1 = 142.5W
+lat2 = 15.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_140.0W-15.0N_135.0W.jpg
+lat1 = 20.0N
+long1 = 140.0W
+lat2 = 15.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_137.5W-15.0N_132.5W.jpg
+lat1 = 20.0N
+long1 = 137.5W
+lat2 = 15.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_135.0W-15.0N_130.0W.jpg
+lat1 = 20.0N
+long1 = 135.0W
+lat2 = 15.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_132.5W-15.0N_127.5W.jpg
+lat1 = 20.0N
+long1 = 132.5W
+lat2 = 15.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_130.0W-15.0N_125.0W.jpg
+lat1 = 20.0N
+long1 = 130.0W
+lat2 = 15.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_127.5W-15.0N_122.5W.jpg
+lat1 = 20.0N
+long1 = 127.5W
+lat2 = 15.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_125.0W-15.0N_120.0W.jpg
+lat1 = 20.0N
+long1 = 125.0W
+lat2 = 15.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_122.5W-15.0N_117.5W.jpg
+lat1 = 20.0N
+long1 = 122.5W
+lat2 = 15.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_120.0W-15.0N_115.0W.jpg
+lat1 = 20.0N
+long1 = 120.0W
+lat2 = 15.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_117.5W-15.0N_112.5W.jpg
+lat1 = 20.0N
+long1 = 117.5W
+lat2 = 15.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_115.0W-15.0N_110.0W.jpg
+lat1 = 20.0N
+long1 = 115.0W
+lat2 = 15.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_112.5W-15.0N_107.5W.jpg
+lat1 = 20.0N
+long1 = 112.5W
+lat2 = 15.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_110.0W-15.0N_105.0W.jpg
+lat1 = 20.0N
+long1 = 110.0W
+lat2 = 15.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_107.5W-15.0N_102.5W.jpg
+lat1 = 20.0N
+long1 = 107.5W
+lat2 = 15.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_105.0W-15.0N_100.0W.jpg
+lat1 = 20.0N
+long1 = 105.0W
+lat2 = 15.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_102.5W-15.0N_97.5W.jpg
+lat1 = 20.0N
+long1 = 102.5W
+lat2 = 15.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_100.0W-15.0N_95.0W.jpg
+lat1 = 20.0N
+long1 = 100.0W
+lat2 = 15.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_97.5W-15.0N_92.5W.jpg
+lat1 = 20.0N
+long1 = 97.5W
+lat2 = 15.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_95.0W-15.0N_90.0W.jpg
+lat1 = 20.0N
+long1 = 95.0W
+lat2 = 15.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_180.0W-12.5N_175.0W.jpg
+lat1 = 17.5N
+long1 = 180.0W
+lat2 = 12.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_177.5W-12.5N_172.5W.jpg
+lat1 = 17.5N
+long1 = 177.5W
+lat2 = 12.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_175.0W-12.5N_170.0W.jpg
+lat1 = 17.5N
+long1 = 175.0W
+lat2 = 12.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_172.5W-12.5N_167.5W.jpg
+lat1 = 17.5N
+long1 = 172.5W
+lat2 = 12.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_170.0W-12.5N_165.0W.jpg
+lat1 = 17.5N
+long1 = 170.0W
+lat2 = 12.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_167.5W-12.5N_162.5W.jpg
+lat1 = 17.5N
+long1 = 167.5W
+lat2 = 12.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_165.0W-12.5N_160.0W.jpg
+lat1 = 17.5N
+long1 = 165.0W
+lat2 = 12.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_162.5W-12.5N_157.5W.jpg
+lat1 = 17.5N
+long1 = 162.5W
+lat2 = 12.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_160.0W-12.5N_155.0W.jpg
+lat1 = 17.5N
+long1 = 160.0W
+lat2 = 12.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_157.5W-12.5N_152.5W.jpg
+lat1 = 17.5N
+long1 = 157.5W
+lat2 = 12.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_155.0W-12.5N_150.0W.jpg
+lat1 = 17.5N
+long1 = 155.0W
+lat2 = 12.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_152.5W-12.5N_147.5W.jpg
+lat1 = 17.5N
+long1 = 152.5W
+lat2 = 12.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_150.0W-12.5N_145.0W.jpg
+lat1 = 17.5N
+long1 = 150.0W
+lat2 = 12.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_147.5W-12.5N_142.5W.jpg
+lat1 = 17.5N
+long1 = 147.5W
+lat2 = 12.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_145.0W-12.5N_140.0W.jpg
+lat1 = 17.5N
+long1 = 145.0W
+lat2 = 12.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_142.5W-12.5N_137.5W.jpg
+lat1 = 17.5N
+long1 = 142.5W
+lat2 = 12.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_140.0W-12.5N_135.0W.jpg
+lat1 = 17.5N
+long1 = 140.0W
+lat2 = 12.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_137.5W-12.5N_132.5W.jpg
+lat1 = 17.5N
+long1 = 137.5W
+lat2 = 12.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_135.0W-12.5N_130.0W.jpg
+lat1 = 17.5N
+long1 = 135.0W
+lat2 = 12.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_132.5W-12.5N_127.5W.jpg
+lat1 = 17.5N
+long1 = 132.5W
+lat2 = 12.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_130.0W-12.5N_125.0W.jpg
+lat1 = 17.5N
+long1 = 130.0W
+lat2 = 12.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_127.5W-12.5N_122.5W.jpg
+lat1 = 17.5N
+long1 = 127.5W
+lat2 = 12.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_125.0W-12.5N_120.0W.jpg
+lat1 = 17.5N
+long1 = 125.0W
+lat2 = 12.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_122.5W-12.5N_117.5W.jpg
+lat1 = 17.5N
+long1 = 122.5W
+lat2 = 12.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_120.0W-12.5N_115.0W.jpg
+lat1 = 17.5N
+long1 = 120.0W
+lat2 = 12.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_117.5W-12.5N_112.5W.jpg
+lat1 = 17.5N
+long1 = 117.5W
+lat2 = 12.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_115.0W-12.5N_110.0W.jpg
+lat1 = 17.5N
+long1 = 115.0W
+lat2 = 12.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_112.5W-12.5N_107.5W.jpg
+lat1 = 17.5N
+long1 = 112.5W
+lat2 = 12.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_110.0W-12.5N_105.0W.jpg
+lat1 = 17.5N
+long1 = 110.0W
+lat2 = 12.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_107.5W-12.5N_102.5W.jpg
+lat1 = 17.5N
+long1 = 107.5W
+lat2 = 12.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_105.0W-12.5N_100.0W.jpg
+lat1 = 17.5N
+long1 = 105.0W
+lat2 = 12.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_102.5W-12.5N_97.5W.jpg
+lat1 = 17.5N
+long1 = 102.5W
+lat2 = 12.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_100.0W-12.5N_95.0W.jpg
+lat1 = 17.5N
+long1 = 100.0W
+lat2 = 12.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_97.5W-12.5N_92.5W.jpg
+lat1 = 17.5N
+long1 = 97.5W
+lat2 = 12.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_95.0W-12.5N_90.0W.jpg
+lat1 = 17.5N
+long1 = 95.0W
+lat2 = 12.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_180.0W-10.0N_175.0W.jpg
+lat1 = 15.0N
+long1 = 180.0W
+lat2 = 10.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_177.5W-10.0N_172.5W.jpg
+lat1 = 15.0N
+long1 = 177.5W
+lat2 = 10.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_175.0W-10.0N_170.0W.jpg
+lat1 = 15.0N
+long1 = 175.0W
+lat2 = 10.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_172.5W-10.0N_167.5W.jpg
+lat1 = 15.0N
+long1 = 172.5W
+lat2 = 10.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_170.0W-10.0N_165.0W.jpg
+lat1 = 15.0N
+long1 = 170.0W
+lat2 = 10.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_167.5W-10.0N_162.5W.jpg
+lat1 = 15.0N
+long1 = 167.5W
+lat2 = 10.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_165.0W-10.0N_160.0W.jpg
+lat1 = 15.0N
+long1 = 165.0W
+lat2 = 10.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_162.5W-10.0N_157.5W.jpg
+lat1 = 15.0N
+long1 = 162.5W
+lat2 = 10.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_160.0W-10.0N_155.0W.jpg
+lat1 = 15.0N
+long1 = 160.0W
+lat2 = 10.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_157.5W-10.0N_152.5W.jpg
+lat1 = 15.0N
+long1 = 157.5W
+lat2 = 10.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_155.0W-10.0N_150.0W.jpg
+lat1 = 15.0N
+long1 = 155.0W
+lat2 = 10.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_152.5W-10.0N_147.5W.jpg
+lat1 = 15.0N
+long1 = 152.5W
+lat2 = 10.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_150.0W-10.0N_145.0W.jpg
+lat1 = 15.0N
+long1 = 150.0W
+lat2 = 10.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_147.5W-10.0N_142.5W.jpg
+lat1 = 15.0N
+long1 = 147.5W
+lat2 = 10.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_145.0W-10.0N_140.0W.jpg
+lat1 = 15.0N
+long1 = 145.0W
+lat2 = 10.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_142.5W-10.0N_137.5W.jpg
+lat1 = 15.0N
+long1 = 142.5W
+lat2 = 10.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_140.0W-10.0N_135.0W.jpg
+lat1 = 15.0N
+long1 = 140.0W
+lat2 = 10.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_137.5W-10.0N_132.5W.jpg
+lat1 = 15.0N
+long1 = 137.5W
+lat2 = 10.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_135.0W-10.0N_130.0W.jpg
+lat1 = 15.0N
+long1 = 135.0W
+lat2 = 10.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_132.5W-10.0N_127.5W.jpg
+lat1 = 15.0N
+long1 = 132.5W
+lat2 = 10.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_130.0W-10.0N_125.0W.jpg
+lat1 = 15.0N
+long1 = 130.0W
+lat2 = 10.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_127.5W-10.0N_122.5W.jpg
+lat1 = 15.0N
+long1 = 127.5W
+lat2 = 10.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_125.0W-10.0N_120.0W.jpg
+lat1 = 15.0N
+long1 = 125.0W
+lat2 = 10.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_122.5W-10.0N_117.5W.jpg
+lat1 = 15.0N
+long1 = 122.5W
+lat2 = 10.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_120.0W-10.0N_115.0W.jpg
+lat1 = 15.0N
+long1 = 120.0W
+lat2 = 10.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_117.5W-10.0N_112.5W.jpg
+lat1 = 15.0N
+long1 = 117.5W
+lat2 = 10.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_115.0W-10.0N_110.0W.jpg
+lat1 = 15.0N
+long1 = 115.0W
+lat2 = 10.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_112.5W-10.0N_107.5W.jpg
+lat1 = 15.0N
+long1 = 112.5W
+lat2 = 10.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_110.0W-10.0N_105.0W.jpg
+lat1 = 15.0N
+long1 = 110.0W
+lat2 = 10.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_107.5W-10.0N_102.5W.jpg
+lat1 = 15.0N
+long1 = 107.5W
+lat2 = 10.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_105.0W-10.0N_100.0W.jpg
+lat1 = 15.0N
+long1 = 105.0W
+lat2 = 10.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_102.5W-10.0N_97.5W.jpg
+lat1 = 15.0N
+long1 = 102.5W
+lat2 = 10.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_100.0W-10.0N_95.0W.jpg
+lat1 = 15.0N
+long1 = 100.0W
+lat2 = 10.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_97.5W-10.0N_92.5W.jpg
+lat1 = 15.0N
+long1 = 97.5W
+lat2 = 10.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_95.0W-10.0N_90.0W.jpg
+lat1 = 15.0N
+long1 = 95.0W
+lat2 = 10.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_180.0W-7.5N_175.0W.jpg
+lat1 = 12.5N
+long1 = 180.0W
+lat2 = 7.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_177.5W-7.5N_172.5W.jpg
+lat1 = 12.5N
+long1 = 177.5W
+lat2 = 7.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_175.0W-7.5N_170.0W.jpg
+lat1 = 12.5N
+long1 = 175.0W
+lat2 = 7.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_172.5W-7.5N_167.5W.jpg
+lat1 = 12.5N
+long1 = 172.5W
+lat2 = 7.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_170.0W-7.5N_165.0W.jpg
+lat1 = 12.5N
+long1 = 170.0W
+lat2 = 7.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_167.5W-7.5N_162.5W.jpg
+lat1 = 12.5N
+long1 = 167.5W
+lat2 = 7.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_165.0W-7.5N_160.0W.jpg
+lat1 = 12.5N
+long1 = 165.0W
+lat2 = 7.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_162.5W-7.5N_157.5W.jpg
+lat1 = 12.5N
+long1 = 162.5W
+lat2 = 7.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_160.0W-7.5N_155.0W.jpg
+lat1 = 12.5N
+long1 = 160.0W
+lat2 = 7.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_157.5W-7.5N_152.5W.jpg
+lat1 = 12.5N
+long1 = 157.5W
+lat2 = 7.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_155.0W-7.5N_150.0W.jpg
+lat1 = 12.5N
+long1 = 155.0W
+lat2 = 7.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_152.5W-7.5N_147.5W.jpg
+lat1 = 12.5N
+long1 = 152.5W
+lat2 = 7.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_150.0W-7.5N_145.0W.jpg
+lat1 = 12.5N
+long1 = 150.0W
+lat2 = 7.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_147.5W-7.5N_142.5W.jpg
+lat1 = 12.5N
+long1 = 147.5W
+lat2 = 7.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_145.0W-7.5N_140.0W.jpg
+lat1 = 12.5N
+long1 = 145.0W
+lat2 = 7.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_142.5W-7.5N_137.5W.jpg
+lat1 = 12.5N
+long1 = 142.5W
+lat2 = 7.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_140.0W-7.5N_135.0W.jpg
+lat1 = 12.5N
+long1 = 140.0W
+lat2 = 7.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_137.5W-7.5N_132.5W.jpg
+lat1 = 12.5N
+long1 = 137.5W
+lat2 = 7.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_135.0W-7.5N_130.0W.jpg
+lat1 = 12.5N
+long1 = 135.0W
+lat2 = 7.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_132.5W-7.5N_127.5W.jpg
+lat1 = 12.5N
+long1 = 132.5W
+lat2 = 7.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_130.0W-7.5N_125.0W.jpg
+lat1 = 12.5N
+long1 = 130.0W
+lat2 = 7.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_127.5W-7.5N_122.5W.jpg
+lat1 = 12.5N
+long1 = 127.5W
+lat2 = 7.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_125.0W-7.5N_120.0W.jpg
+lat1 = 12.5N
+long1 = 125.0W
+lat2 = 7.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_122.5W-7.5N_117.5W.jpg
+lat1 = 12.5N
+long1 = 122.5W
+lat2 = 7.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_120.0W-7.5N_115.0W.jpg
+lat1 = 12.5N
+long1 = 120.0W
+lat2 = 7.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_117.5W-7.5N_112.5W.jpg
+lat1 = 12.5N
+long1 = 117.5W
+lat2 = 7.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_115.0W-7.5N_110.0W.jpg
+lat1 = 12.5N
+long1 = 115.0W
+lat2 = 7.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_112.5W-7.5N_107.5W.jpg
+lat1 = 12.5N
+long1 = 112.5W
+lat2 = 7.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_110.0W-7.5N_105.0W.jpg
+lat1 = 12.5N
+long1 = 110.0W
+lat2 = 7.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_107.5W-7.5N_102.5W.jpg
+lat1 = 12.5N
+long1 = 107.5W
+lat2 = 7.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_105.0W-7.5N_100.0W.jpg
+lat1 = 12.5N
+long1 = 105.0W
+lat2 = 7.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_102.5W-7.5N_97.5W.jpg
+lat1 = 12.5N
+long1 = 102.5W
+lat2 = 7.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_100.0W-7.5N_95.0W.jpg
+lat1 = 12.5N
+long1 = 100.0W
+lat2 = 7.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_97.5W-7.5N_92.5W.jpg
+lat1 = 12.5N
+long1 = 97.5W
+lat2 = 7.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_95.0W-7.5N_90.0W.jpg
+lat1 = 12.5N
+long1 = 95.0W
+lat2 = 7.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_180.0W-5.0N_175.0W.jpg
+lat1 = 10.0N
+long1 = 180.0W
+lat2 = 5.0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_177.5W-5.0N_172.5W.jpg
+lat1 = 10.0N
+long1 = 177.5W
+lat2 = 5.0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_175.0W-5.0N_170.0W.jpg
+lat1 = 10.0N
+long1 = 175.0W
+lat2 = 5.0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_172.5W-5.0N_167.5W.jpg
+lat1 = 10.0N
+long1 = 172.5W
+lat2 = 5.0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_170.0W-5.0N_165.0W.jpg
+lat1 = 10.0N
+long1 = 170.0W
+lat2 = 5.0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_167.5W-5.0N_162.5W.jpg
+lat1 = 10.0N
+long1 = 167.5W
+lat2 = 5.0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_165.0W-5.0N_160.0W.jpg
+lat1 = 10.0N
+long1 = 165.0W
+lat2 = 5.0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_162.5W-5.0N_157.5W.jpg
+lat1 = 10.0N
+long1 = 162.5W
+lat2 = 5.0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_160.0W-5.0N_155.0W.jpg
+lat1 = 10.0N
+long1 = 160.0W
+lat2 = 5.0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_157.5W-5.0N_152.5W.jpg
+lat1 = 10.0N
+long1 = 157.5W
+lat2 = 5.0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_155.0W-5.0N_150.0W.jpg
+lat1 = 10.0N
+long1 = 155.0W
+lat2 = 5.0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_152.5W-5.0N_147.5W.jpg
+lat1 = 10.0N
+long1 = 152.5W
+lat2 = 5.0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_150.0W-5.0N_145.0W.jpg
+lat1 = 10.0N
+long1 = 150.0W
+lat2 = 5.0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_147.5W-5.0N_142.5W.jpg
+lat1 = 10.0N
+long1 = 147.5W
+lat2 = 5.0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_145.0W-5.0N_140.0W.jpg
+lat1 = 10.0N
+long1 = 145.0W
+lat2 = 5.0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_142.5W-5.0N_137.5W.jpg
+lat1 = 10.0N
+long1 = 142.5W
+lat2 = 5.0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_140.0W-5.0N_135.0W.jpg
+lat1 = 10.0N
+long1 = 140.0W
+lat2 = 5.0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_137.5W-5.0N_132.5W.jpg
+lat1 = 10.0N
+long1 = 137.5W
+lat2 = 5.0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_135.0W-5.0N_130.0W.jpg
+lat1 = 10.0N
+long1 = 135.0W
+lat2 = 5.0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_132.5W-5.0N_127.5W.jpg
+lat1 = 10.0N
+long1 = 132.5W
+lat2 = 5.0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_130.0W-5.0N_125.0W.jpg
+lat1 = 10.0N
+long1 = 130.0W
+lat2 = 5.0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_127.5W-5.0N_122.5W.jpg
+lat1 = 10.0N
+long1 = 127.5W
+lat2 = 5.0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_125.0W-5.0N_120.0W.jpg
+lat1 = 10.0N
+long1 = 125.0W
+lat2 = 5.0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_122.5W-5.0N_117.5W.jpg
+lat1 = 10.0N
+long1 = 122.5W
+lat2 = 5.0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_120.0W-5.0N_115.0W.jpg
+lat1 = 10.0N
+long1 = 120.0W
+lat2 = 5.0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_117.5W-5.0N_112.5W.jpg
+lat1 = 10.0N
+long1 = 117.5W
+lat2 = 5.0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_115.0W-5.0N_110.0W.jpg
+lat1 = 10.0N
+long1 = 115.0W
+lat2 = 5.0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_112.5W-5.0N_107.5W.jpg
+lat1 = 10.0N
+long1 = 112.5W
+lat2 = 5.0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_110.0W-5.0N_105.0W.jpg
+lat1 = 10.0N
+long1 = 110.0W
+lat2 = 5.0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_107.5W-5.0N_102.5W.jpg
+lat1 = 10.0N
+long1 = 107.5W
+lat2 = 5.0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_105.0W-5.0N_100.0W.jpg
+lat1 = 10.0N
+long1 = 105.0W
+lat2 = 5.0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_102.5W-5.0N_97.5W.jpg
+lat1 = 10.0N
+long1 = 102.5W
+lat2 = 5.0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_100.0W-5.0N_95.0W.jpg
+lat1 = 10.0N
+long1 = 100.0W
+lat2 = 5.0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_97.5W-5.0N_92.5W.jpg
+lat1 = 10.0N
+long1 = 97.5W
+lat2 = 5.0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_95.0W-5.0N_90.0W.jpg
+lat1 = 10.0N
+long1 = 95.0W
+lat2 = 5.0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_180.0W-2.5N_175.0W.jpg
+lat1 = 7.5N
+long1 = 180.0W
+lat2 = 2.5N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_177.5W-2.5N_172.5W.jpg
+lat1 = 7.5N
+long1 = 177.5W
+lat2 = 2.5N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_175.0W-2.5N_170.0W.jpg
+lat1 = 7.5N
+long1 = 175.0W
+lat2 = 2.5N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_172.5W-2.5N_167.5W.jpg
+lat1 = 7.5N
+long1 = 172.5W
+lat2 = 2.5N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_170.0W-2.5N_165.0W.jpg
+lat1 = 7.5N
+long1 = 170.0W
+lat2 = 2.5N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_167.5W-2.5N_162.5W.jpg
+lat1 = 7.5N
+long1 = 167.5W
+lat2 = 2.5N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_165.0W-2.5N_160.0W.jpg
+lat1 = 7.5N
+long1 = 165.0W
+lat2 = 2.5N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_162.5W-2.5N_157.5W.jpg
+lat1 = 7.5N
+long1 = 162.5W
+lat2 = 2.5N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_160.0W-2.5N_155.0W.jpg
+lat1 = 7.5N
+long1 = 160.0W
+lat2 = 2.5N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_157.5W-2.5N_152.5W.jpg
+lat1 = 7.5N
+long1 = 157.5W
+lat2 = 2.5N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_155.0W-2.5N_150.0W.jpg
+lat1 = 7.5N
+long1 = 155.0W
+lat2 = 2.5N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_152.5W-2.5N_147.5W.jpg
+lat1 = 7.5N
+long1 = 152.5W
+lat2 = 2.5N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_150.0W-2.5N_145.0W.jpg
+lat1 = 7.5N
+long1 = 150.0W
+lat2 = 2.5N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_147.5W-2.5N_142.5W.jpg
+lat1 = 7.5N
+long1 = 147.5W
+lat2 = 2.5N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_145.0W-2.5N_140.0W.jpg
+lat1 = 7.5N
+long1 = 145.0W
+lat2 = 2.5N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_142.5W-2.5N_137.5W.jpg
+lat1 = 7.5N
+long1 = 142.5W
+lat2 = 2.5N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_140.0W-2.5N_135.0W.jpg
+lat1 = 7.5N
+long1 = 140.0W
+lat2 = 2.5N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_137.5W-2.5N_132.5W.jpg
+lat1 = 7.5N
+long1 = 137.5W
+lat2 = 2.5N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_135.0W-2.5N_130.0W.jpg
+lat1 = 7.5N
+long1 = 135.0W
+lat2 = 2.5N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_132.5W-2.5N_127.5W.jpg
+lat1 = 7.5N
+long1 = 132.5W
+lat2 = 2.5N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_130.0W-2.5N_125.0W.jpg
+lat1 = 7.5N
+long1 = 130.0W
+lat2 = 2.5N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_127.5W-2.5N_122.5W.jpg
+lat1 = 7.5N
+long1 = 127.5W
+lat2 = 2.5N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_125.0W-2.5N_120.0W.jpg
+lat1 = 7.5N
+long1 = 125.0W
+lat2 = 2.5N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_122.5W-2.5N_117.5W.jpg
+lat1 = 7.5N
+long1 = 122.5W
+lat2 = 2.5N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_120.0W-2.5N_115.0W.jpg
+lat1 = 7.5N
+long1 = 120.0W
+lat2 = 2.5N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_117.5W-2.5N_112.5W.jpg
+lat1 = 7.5N
+long1 = 117.5W
+lat2 = 2.5N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_115.0W-2.5N_110.0W.jpg
+lat1 = 7.5N
+long1 = 115.0W
+lat2 = 2.5N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_112.5W-2.5N_107.5W.jpg
+lat1 = 7.5N
+long1 = 112.5W
+lat2 = 2.5N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_110.0W-2.5N_105.0W.jpg
+lat1 = 7.5N
+long1 = 110.0W
+lat2 = 2.5N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_107.5W-2.5N_102.5W.jpg
+lat1 = 7.5N
+long1 = 107.5W
+lat2 = 2.5N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_105.0W-2.5N_100.0W.jpg
+lat1 = 7.5N
+long1 = 105.0W
+lat2 = 2.5N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_102.5W-2.5N_97.5W.jpg
+lat1 = 7.5N
+long1 = 102.5W
+lat2 = 2.5N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_100.0W-2.5N_95.0W.jpg
+lat1 = 7.5N
+long1 = 100.0W
+lat2 = 2.5N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_97.5W-2.5N_92.5W.jpg
+lat1 = 7.5N
+long1 = 97.5W
+lat2 = 2.5N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_95.0W-2.5N_90.0W.jpg
+lat1 = 7.5N
+long1 = 95.0W
+lat2 = 2.5N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_180.0W-0N_175.0W.jpg
+lat1 = 5.0N
+long1 = 180.0W
+lat2 = 0N
+long2 = 175.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_177.5W-0N_172.5W.jpg
+lat1 = 5.0N
+long1 = 177.5W
+lat2 = 0N
+long2 = 172.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_175.0W-0N_170.0W.jpg
+lat1 = 5.0N
+long1 = 175.0W
+lat2 = 0N
+long2 = 170.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_172.5W-0N_167.5W.jpg
+lat1 = 5.0N
+long1 = 172.5W
+lat2 = 0N
+long2 = 167.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_170.0W-0N_165.0W.jpg
+lat1 = 5.0N
+long1 = 170.0W
+lat2 = 0N
+long2 = 165.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_167.5W-0N_162.5W.jpg
+lat1 = 5.0N
+long1 = 167.5W
+lat2 = 0N
+long2 = 162.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_165.0W-0N_160.0W.jpg
+lat1 = 5.0N
+long1 = 165.0W
+lat2 = 0N
+long2 = 160.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_162.5W-0N_157.5W.jpg
+lat1 = 5.0N
+long1 = 162.5W
+lat2 = 0N
+long2 = 157.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_160.0W-0N_155.0W.jpg
+lat1 = 5.0N
+long1 = 160.0W
+lat2 = 0N
+long2 = 155.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_157.5W-0N_152.5W.jpg
+lat1 = 5.0N
+long1 = 157.5W
+lat2 = 0N
+long2 = 152.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_155.0W-0N_150.0W.jpg
+lat1 = 5.0N
+long1 = 155.0W
+lat2 = 0N
+long2 = 150.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_152.5W-0N_147.5W.jpg
+lat1 = 5.0N
+long1 = 152.5W
+lat2 = 0N
+long2 = 147.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_150.0W-0N_145.0W.jpg
+lat1 = 5.0N
+long1 = 150.0W
+lat2 = 0N
+long2 = 145.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_147.5W-0N_142.5W.jpg
+lat1 = 5.0N
+long1 = 147.5W
+lat2 = 0N
+long2 = 142.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_145.0W-0N_140.0W.jpg
+lat1 = 5.0N
+long1 = 145.0W
+lat2 = 0N
+long2 = 140.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_142.5W-0N_137.5W.jpg
+lat1 = 5.0N
+long1 = 142.5W
+lat2 = 0N
+long2 = 137.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_140.0W-0N_135.0W.jpg
+lat1 = 5.0N
+long1 = 140.0W
+lat2 = 0N
+long2 = 135.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_137.5W-0N_132.5W.jpg
+lat1 = 5.0N
+long1 = 137.5W
+lat2 = 0N
+long2 = 132.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_135.0W-0N_130.0W.jpg
+lat1 = 5.0N
+long1 = 135.0W
+lat2 = 0N
+long2 = 130.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_132.5W-0N_127.5W.jpg
+lat1 = 5.0N
+long1 = 132.5W
+lat2 = 0N
+long2 = 127.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_130.0W-0N_125.0W.jpg
+lat1 = 5.0N
+long1 = 130.0W
+lat2 = 0N
+long2 = 125.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_127.5W-0N_122.5W.jpg
+lat1 = 5.0N
+long1 = 127.5W
+lat2 = 0N
+long2 = 122.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_125.0W-0N_120.0W.jpg
+lat1 = 5.0N
+long1 = 125.0W
+lat2 = 0N
+long2 = 120.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_122.5W-0N_117.5W.jpg
+lat1 = 5.0N
+long1 = 122.5W
+lat2 = 0N
+long2 = 117.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_120.0W-0N_115.0W.jpg
+lat1 = 5.0N
+long1 = 120.0W
+lat2 = 0N
+long2 = 115.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_117.5W-0N_112.5W.jpg
+lat1 = 5.0N
+long1 = 117.5W
+lat2 = 0N
+long2 = 112.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_115.0W-0N_110.0W.jpg
+lat1 = 5.0N
+long1 = 115.0W
+lat2 = 0N
+long2 = 110.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_112.5W-0N_107.5W.jpg
+lat1 = 5.0N
+long1 = 112.5W
+lat2 = 0N
+long2 = 107.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_110.0W-0N_105.0W.jpg
+lat1 = 5.0N
+long1 = 110.0W
+lat2 = 0N
+long2 = 105.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_107.5W-0N_102.5W.jpg
+lat1 = 5.0N
+long1 = 107.5W
+lat2 = 0N
+long2 = 102.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_105.0W-0N_100.0W.jpg
+lat1 = 5.0N
+long1 = 105.0W
+lat2 = 0N
+long2 = 100.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_102.5W-0N_97.5W.jpg
+lat1 = 5.0N
+long1 = 102.5W
+lat2 = 0N
+long2 = 97.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_100.0W-0N_95.0W.jpg
+lat1 = 5.0N
+long1 = 100.0W
+lat2 = 0N
+long2 = 95.0W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_97.5W-0N_92.5W.jpg
+lat1 = 5.0N
+long1 = 97.5W
+lat2 = 0N
+long2 = 92.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_95.0W-0N_90.0W.jpg
+lat1 = 5.0N
+long1 = 95.0W
+lat2 = 0N
+long2 = 90.0W
+xsize = 300
+ysize = 300
+ 
+-----
+
+# Added entries below for insets which span between western_n_america and
+# eastern_asia sets.
+
+imagefile = inset_90.0N_177.5E-85.0N_177.5W.jpg
+lat1 = 90.0N
+long1 = 177.5E
+lat2 = 85.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_87.5N_177.5E-82.5N_177.5W.jpg
+lat1 = 87.5N
+long1 = 177.5E
+lat2 = 82.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_85.0N_177.5E-80.0N_177.5W.jpg
+lat1 = 85.0N
+long1 = 177.5E
+lat2 = 80.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_82.5N_177.5E-77.5N_177.5W.jpg
+lat1 = 82.5N
+long1 = 177.5E
+lat2 = 77.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_80.0N_177.5E-75.0N_177.5W.jpg
+lat1 = 80.0N
+long1 = 177.5E
+lat2 = 75.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_77.5N_177.5E-72.5N_177.5W.jpg
+lat1 = 77.5N
+long1 = 177.5E
+lat2 = 72.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_75.0N_177.5E-70.0N_177.5W.jpg
+lat1 = 75.0N
+long1 = 177.5E
+lat2 = 70.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_72.5N_177.5E-67.5N_177.5W.jpg
+lat1 = 72.5N
+long1 = 177.5E
+lat2 = 67.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_70.0N_177.5E-65.0N_177.5W.jpg
+lat1 = 70.0N
+long1 = 177.5E
+lat2 = 65.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_67.5N_177.5E-62.5N_177.5W.jpg
+lat1 = 67.5N
+long1 = 177.5E
+lat2 = 62.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_65.0N_177.5E-60.0N_177.5W.jpg
+lat1 = 65.0N
+long1 = 177.5E
+lat2 = 60.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_62.5N_177.5E-57.5N_177.5W.jpg
+lat1 = 62.5N
+long1 = 177.5E
+lat2 = 57.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_60.0N_177.5E-55.0N_177.5W.jpg
+lat1 = 60.0N
+long1 = 177.5E
+lat2 = 55.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_57.5N_177.5E-52.5N_177.5W.jpg
+lat1 = 57.5N
+long1 = 177.5E
+lat2 = 52.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_55.0N_177.5E-50.0N_177.5W.jpg
+lat1 = 55.0N
+long1 = 177.5E
+lat2 = 50.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_52.5N_177.5E-47.5N_177.5W.jpg
+lat1 = 52.5N
+long1 = 177.5E
+lat2 = 47.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_50.0N_177.5E-45.0N_177.5W.jpg
+lat1 = 50.0N
+long1 = 177.5E
+lat2 = 45.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_47.5N_177.5E-42.5N_177.5W.jpg
+lat1 = 47.5N
+long1 = 177.5E
+lat2 = 42.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_45.0N_177.5E-40.0N_177.5W.jpg
+lat1 = 45.0N
+long1 = 177.5E
+lat2 = 40.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_42.5N_177.5E-37.5N_177.5W.jpg
+lat1 = 42.5N
+long1 = 177.5E
+lat2 = 37.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_40.0N_177.5E-35.0N_177.5W.jpg
+lat1 = 40.0N
+long1 = 177.5E
+lat2 = 35.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_37.5N_177.5E-32.5N_177.5W.jpg
+lat1 = 37.5N
+long1 = 177.5E
+lat2 = 32.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_35.0N_177.5E-30.0N_177.5W.jpg
+lat1 = 35.0N
+long1 = 177.5E
+lat2 = 30.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_32.5N_177.5E-27.5N_177.5W.jpg
+lat1 = 32.5N
+long1 = 177.5E
+lat2 = 27.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_30.0N_177.5E-25.0N_177.5W.jpg
+lat1 = 30.0N
+long1 = 177.5E
+lat2 = 25.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_27.5N_177.5E-22.5N_177.5W.jpg
+lat1 = 27.5N
+long1 = 177.5E
+lat2 = 22.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_25.0N_177.5E-20.0N_177.5W.jpg
+lat1 = 25.0N
+long1 = 177.5E
+lat2 = 20.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_22.5N_177.5E-17.5N_177.5W.jpg
+lat1 = 22.5N
+long1 = 177.5E
+lat2 = 17.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_20.0N_177.5E-15.0N_177.5W.jpg
+lat1 = 20.0N
+long1 = 177.5E
+lat2 = 15.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_17.5N_177.5E-12.5N_177.5W.jpg
+lat1 = 17.5N
+long1 = 177.5E
+lat2 = 12.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_15.0N_177.5E-10.0N_177.5W.jpg
+lat1 = 15.0N
+long1 = 177.5E
+lat2 = 10.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_12.5N_177.5E-7.5N_177.5W.jpg
+lat1 = 12.5N
+long1 = 177.5E
+lat2 = 7.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_10.0N_177.5E-5.0N_177.5W.jpg
+lat1 = 10.0N
+long1 = 177.5E
+lat2 = 5.0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_7.5N_177.5E-2.5N_177.5W.jpg
+lat1 = 7.5N
+long1 = 177.5E
+lat2 = 2.5N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_5.0N_177.5E-0N_177.5W.jpg
+lat1 = 5.0N
+long1 = 177.5E
+lat2 = 0N
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----
+ 
+imagefile = inset_2.5N_177.5E-2.5S_177.5W.jpg
+lat1 = 2.5N
+long1 = 177.5E
+lat2 = 2.5S
+long2 = 177.5W
+xsize = 300
+ysize = 300
+ 
+-----

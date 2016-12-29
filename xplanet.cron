@@ -1,0 +1,4 @@
+# a script to update all the marker- and satellite files
+LOGFILE=/usr/local/share/xplanet/log.xplanet-update
+
+44 0,3,6,9,12,15,18,21 * * * root /usr/local/share/xplanet/xplanet-update.pl

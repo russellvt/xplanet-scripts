@@ -1,0 +1,90 @@
+Version 
+      2.1.4:
+      2.1.3: windows fixes
+      2.1.2:
+      2.1.1: some more warnings about stuff people get confused about
+        2.1: the script now checks for new versions at the webpage
+             improved config file handling
+        2.0: new unified configuration system using the xplanet.conf file
+             changed license to GPL
+        1.2: using the perl modules that all the other scripts use
+      1.1.2: updated caching for TGN mode
+      1.1.1: Local mode understands now "Minneapolis", "St. Paul" and "Minneapolis/St.Paul"
+             caching get_webpage()
+             windows and non-US compatibility fixes, thanks Stefan P. Wolf
+             added US-capitals-plus marker file, thanks Stefan P. Wolf
+        1.1: changed command line so
+               -d     means loging switched on
+	       -e     is the previous "-d", i.e. the "detail" switch
+	     this is necessary so all xplanet perl scripts understand the "-d" switch  
+             added some markers to weather_markers for Chris Harper
+      1.0.6: better module loading code in Geo::Locator::Misc (try_to_load())           
+             improve non-US formated numbers more
+      1.0.5: fixes for non-US number formats (i.e. 14,1 instead of 14.1)
+                  Thanks Matz Johansson for the error report!
+             updated package loader
+             misc perl fixes
+             change igeo.pl's marker file defaults and added a "uniq" pass in Geo::Locator::Local's
+                 init code. The result of this is that geo_locator.pl and igeo.pl give the same result
+                 more often. Thanks Uli Fuchs for the error report!
+      1.0.4: a bit more debug output
+      1.0.3: minor fixes      
+      1.0.2: fixes for xplanet-0.93 and weather.pl       
+             better parsing of marker files
+      1.0.1: add BSD licence file to distribution
+             easier install
+             comes now with its own zone.tab file, if none can be found
+             some Windows compatibility
+             minor fixes
+        1.0: better directory autodetection
+             http proxy support
+             split off README and ChangeLog
+             infrastructure for multiple net sources (right now only TGN)
+             search strings from STDIN if none on command line
+             made geo_locator.pl just one possible front-end to the generic Locator.pm
+             introduced igeo.pl, an interactive frontend to Locator.pm
+             added filter for substring in 'detail' because thats more flexible than loctype
+             angle differences can be given in "nnnmiles" or "nnnkm" in which case the miles/
+                km are converted to degrees
+             changed the "Local" database from hash 'name' => { coords } to array of information
+                hashes. In the "exact search" case this slows lookup from O(1) to O(N),
+                but allows for locations with the same name, which happens quite often. 
+        0.9: added Felix Andrews as maintainer
+             fixes in the marker files
+             lookup in the "Getty Thesaurus of Geographic Names" 
+                http://www.getty.edu/research/tools/vocabulary/tgn/
+             reverse lookup
+             improved angle_difference() according to 
+                http://www.auslig.gov.au/geodesy/datums/distance.htm
+             load modules only on demand. add search for module file
+                in @INC and nice error message if not found
+             rename from xplanet-location.pl to geo_locator.pl because
+                scope has increased so much
+             added census2000_* marker files
+             change %cities to hash:
+                location name =>  { 'lat'     => latitude,
+                                    'long'    => longitude,
+                                    'detail'  => details,
+                                  }
+             split script up into different objects: Local and TGN
+                 each datasource has information about its own capabilities
+                 so we don't have to hardcode that.
+             caching local information in a pre-parsed file
+                so we don't have to parse the zone.tab and marker files
+                everytime. Renew cache file if marker files/zone.tab/script
+                changed
+             output mode tzcoord.pl (default), markerfile
+             resolve_dups() chooses alternative with shortest name
+             clean up command line handling to use Getopt::Long
+             multiple locations on the commandline. makes zone.tab option a
+                switch like -z zone.tab
+             reverse lookup returns several matches inside min_angle_difference
+        0.3: better zone.tab parsing
+             dump mode
+        0.2: incorporated tzcoord.pl's code. Thanks Hari Nair.
+             multi matches restricted to /\b$string/ instead of /$string/
+             Thanks Felix for suggestions! 
+        0.1: initial release, February 2002
+
+
+
