@@ -73,7 +73,7 @@ Last updated _02 May 2003_, Version 2.1.5: Updated wunderground.com parsing
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
- |  ![\[partial screenshot\]][24]
+ |  ![partial screenshot][24]
 
 Europe at dusk: it's sunny and slightly hazy with 14-26 degrees celsius (centigrade) in Berlin and mostly clear with 11-19 degree celsius in Moscow.
 
@@ -94,7 +94,7 @@ Last updated _17 July 2003_, Version 1.2.5: 'title not found' bug fixed
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
- |  ![\[partial screenshot\]][28]
+ |  ![partial screenshot][28]
 
 Till Friday it will be cold and snowy, but will get drier and slightly warmer after Saturday.
 
@@ -110,7 +110,7 @@ Last updated _15 July 2003_, Version 2.1.7: filter out more errors in source dat
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-If anybody out there has an artistic streak, I'd be really happy about nicer icons. I know I'm a crappy artist...  |  ![\[partial screenshot\]][32]
+If anybody out there has an artistic streak, I'd be really happy about nicer icons. I know I'm a crappy artist...  |  ![partial screenshot][32]
 
 In south- and east Europe, we see 4 recent earthquakes: one of magnitude 4.4 near the Black Sea, on of magnitude 4.6 off the coast of Greece and two near Sicily of magnitude 4.5 and 5.9. The 5.9 earthquake happened on September 5th.
 
@@ -130,7 +130,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 * [volcano.exe][35] Precompiled Windows executable
 * [volcano_images.tar.gz][36] Some icons to denote volcanoes. By default we use volcano.png. If you don't like it, copy one of the others over it. Unpack in your xplanet directory (the icons should go into xplanet/images/)
 * [volcano_images.zip][37] The same archive in ZIP format for Windows
- |  ![\[partial screenshot\]][38]
+ |  ![partial screenshot][38]
 
 Popocatepetl near Mexico City is active...
 
@@ -152,11 +152,11 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 * [hurricane_data.zip][43] The same archive in ZIP format for Windows
 * [hurricane_images.tar.gz][44] 3 different iconsets. Each set comes with versions for the major hurricane types. By default we use the third set. If you don't like it, copy one of the others over it. Unpack in your xplanet directory (the icons should go into xplanet/images/)
 * [hurricane_images.zip][45] The same archive in ZIP format for Windows
- |  ![\[partial screenshot\]][46]
+ |  ![partial screenshot][46]
 
 Off the eastern coast of the US, we see tropical storm Gustav speeding ahead with 46mph and tropical depression 07 going with 29mph. Green tracks show the actual, past, path of the hurricane, while blue tracks show its forecast positions.
 
-![\[partial screenshot\]][47]
+![partial screenshot][47]
 
 An inset example: hurricane Lili shortly before crossing the western tip of Cuba. It is progressing to the North-West with 92 miles per hour.
 
@@ -172,7 +172,7 @@ Last updated _05 May 2003_, Version 0.8.2: more robust; code cleanup
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
- |  ![\[partial screenshot\]][49]
+ |  ![partial screenshot][49]
 
 Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed eastwards. At 5:47pm and 7:22pm we will be able to see TRMM from our home. At 5:33pm and 7:6pm, STS-107 will be visible to us.
 
@@ -219,7 +219,7 @@ Last updated _02 May 2003_, Version 0.8.1: new moonicons
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
- |  ![\[partial screenshot\]][50]
+ |  ![partial screenshot][50]
 
 Today, on the 13th of February, the phase is between half- and full moon, increasing towards the full moon which will appear on the 17th. The next (decreasing) half moon will be on the 23rd.
 
@@ -283,21 +283,21 @@ Please write with any suggestions to [Hans][56]
 [21]: http://weather.yahoo.com
 [22]: http://www.wunderground.com
 [23]: mailto:joaop%40co.sapo.pt
-[24]: http://hans.ecke.ws/ex_weather.jpg
+[24]: /web/ex_weather.jpg
 [25]: http://www.weather.com
 [26]: http://www.weather.com/weather/print/80403
 [27]: http://www.weather.com/outlook/travel/print/GMXX0007
-[28]: http://hans.ecke.ws/ex_forecast.jpg
+[28]: /web/ex_forecast.jpg
 [29]: http://neic.usgs.gov/neis/bulletin/bulletin.html
 [30]: http://neic.usgs.gov/neis/qed/qed.html
 [31]: http://www.wizabit.eclipse.co.uk/xplanet/
-[32]: http://hans.ecke.ws/ex_earthq.jpg
+[32]: /web/ex_earthq.jpg
 [33]: http://www.volcano.si.edu/gvp/usgs/
 [34]: http://hans.ecke.ws/volcano.pl
 [35]: http://hans.ecke.ws/volcano.exe
 [36]: http://hans.ecke.ws/volcano_images.tar.gz
 [37]: http://hans.ecke.ws/volcano_images.zip
-[38]: http://hans.ecke.ws/ex_volcano.jpg
+[38]: /web/ex_volcano.jpg
 [39]: http://www.solar.ifa.hawaii.edu/Tropical
 [40]: http://hans.ecke.ws/hurricane.pl
 [41]: http://hans.ecke.ws/hurricane.exe
@@ -305,11 +305,11 @@ Please write with any suggestions to [Hans][56]
 [43]: http://hans.ecke.ws/hurricane_data.zip
 [44]: http://hans.ecke.ws/hurricane_images.tar.gz
 [45]: http://hans.ecke.ws/hurricane_images.zip
-[46]: http://hans.ecke.ws/ex_hurricane.jpg
-[47]: http://hans.ecke.ws/ex_hurricane_inset.jpg
+[46]: /web/ex_hurricane.jpg
+[47]: /web/ex_hurricane_inset.jpg
 [48]: http://www.heavens-above.com
-[49]: http://hans.ecke.ws/ex_visible-satellites.jpg
-[50]: http://hans.ecke.ws/ex_moonphase.jpg
+[49]: /web/ex_visible-satellites.jpg
+[50]: /web/ex_moonphase.jpg
 [51]: http://hans.ecke.ws/xplanet-0.94-3.i386.rpm
 [52]: http://hans.ecke.ws/xplanet-0.94-3.src.rpm
 [53]: http://hans.ecke.ws/xplanet-0.94-3_8.0.i386.rpm
