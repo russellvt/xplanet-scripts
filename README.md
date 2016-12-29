@@ -1,7 +1,7 @@
 
 [Source](http://hans.ecke.ws/xplanet/ "Permalink to ")
 
-[ ![\[An xplanet image, using peters projection\]][1]][2]
+![An xplanet image, using peters projection][1]
 
 **THIS PROJECT HAS ENDED. IF YOU ARE INTERESTED IN CONTINUING IT, FEEL FREE TO TALK TO ME.**
 
@@ -260,7 +260,7 @@ or
 
 Please write with any suggestions to [Hans][56]
 
-[1]: http://hans.ecke.ws/peters_moon.jpg
+[1]: /web/peters_moon.jpg
 [2]: http://acoustics.mines.edu/~hans/xplanet_images/current_1600x1200_peters_moon.jpg
 [3]: http://xplanet.sourceforge.net
 [4]: http://juad.ath.cx/flatplanet/
