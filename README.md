@@ -255,10 +255,10 @@ Please write with any suggestions to [Hans][56]
 [2]: http://acoustics.mines.edu/~hans/xplanet_images/current_1600x1200_peters_moon.jpg
 [3]: http://xplanet.sourceforge.net
 [4]: http://juad.ath.cx/flatplanet/
-[5]: #Windows-information-and-fixed-binary-xplanet-distribution
+[5]: #windows-information-and-fixed-binary-xplanet-distribution
 [6]: http://acoustics.mines.edu/pipermail/xplanet-scripts-news/
 [7]: http://acoustics.mines.edu/mailman/listinfo/xplanet-scripts-news
-[8]: #geolocator-and-igeo
+[8]: #geo_locator-and-igeo
 [9]: #weather
 [10]: #forecast
 [11]: #earthq
@@ -268,7 +268,7 @@ Please write with any suggestions to [Hans][56]
 [15]: #xplanet-update
 [16]: #image-stream
 [17]: #moonphase
-[18]: #xplanet-Linux-RPM
+[18]: #xplanet-linux-rpm
 [19]: /GPL-license.txt
 [20]: http://www.neurofractal.org
 [21]: http://weather.yahoo.com
