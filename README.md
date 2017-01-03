@@ -51,11 +51,31 @@ _geo_locator.pl_ is a perl script that determines the coordinates of locations a
 
 _igeo.pl_ is an interactive version. It runs as a shell (using readline) and you can type your requests interactively, load different data sources or change the configuration.
 
-_geo_locator.pl_ is mostly a drop-in replacement for the tzcoord.pl that comes with xplanet, but is much more powerful. The differences are:<ul><li>it knows a _lot_ more locations, especially from the Getty Thesaurus</li><li>can perform inexact searches</li><li>can perform reverse lookup</li> |  It gets its information from <ul><li>your system's zone.tab file</li><li>xplanet marker files</li><li>[Getty Thesaurus of Geographic Names](http://www.getty.edu/research/tools/vocabulary/tgn/)</li></ul>
+_geo_locator.pl_ is mostly a drop-in replacement for the tzcoord.pl that comes with xplanet, but is much more powerful. The differences are:
+  * it knows a _lot_ more locations, especially from the Getty Thesaurus
+  * can perform inexact searches
+  * can perform reverse lookup
+
+It gets its information from:
+  * your system's zone.tab file
+  * xplanet marker files
+  * [Getty Thesaurus of Geographic Names](http://www.getty.edu/research/tools/vocabulary/tgn/)
 
 Last updated _02 May 2003_, Version 2.1.5: more robust; more code cleanup
-Downloadable files:<ul><li>README.geo_locator</li><li>README.igeo</li><li>ChangeLog</li><li>geo_locator_pl.tar.gz an archive containing all script- and marker files. Unpack into the xplanet directory, if you have xplanet installed. About 3 MB.</li><li>geo_locator_pl.zip the same archive, in ZIP format for Windows users</li></ul>
-There are associated marker files:<ul><li>ed_u.com (from the webpage of the same name)</li><li>bcca.org (from the webpage of the same name)</li><li>weather_markers</li><li>census2000_* (from the Census 2000 in the USA)</li></ul>which contain more than 100000 locations.
+
+Downloadable files:
+  * README.geo_locator
+  * README.igeo
+  * ChangeLog
+  * geo_locator_pl.tar.gz an archive containing all script- and marker files. Unpack into the xplanet directory, if you have xplanet installed. About 3 MB.
+  * geo_locator_pl.zip the same archive, in ZIP format for Windows users
+
+There are associated marker files:
+  * ed_u.com (from the webpage of the same name)
+  * bcca.org (from the webpage of the same name)
+  * weather_markers
+  * census2000_* (from the Census 2000 in the USA)
+which contain more than 100000 locations.
 
 
 ***
