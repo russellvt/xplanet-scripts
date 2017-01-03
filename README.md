@@ -192,8 +192,8 @@ Last updated _05 May 2003_, Version 0.8.2: more robust; code cleanup
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-  Screenshots  |
- ------------- |
+  Screenshot  |
+ ------------ |
   ![partial screenshot][49]  |
  Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed eastwards. At 5:47pm and 7:22pm we will be able to see TRMM from our home. At 5:33pm and 7:6pm, STS-107 will be visible to us. |
 
