@@ -111,8 +111,11 @@ Last updated _17 July 2003_, Version 1.2.5: 'title not found' bug fixed
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-|  ![partial screenshot][28] |
-| Till Friday it will be cold and snowy, but will get drier and slightly warmer after Saturday. |
+
+ Screenshot |
+ ---------- |
+ ![partial screenshot][28] |
+ Till Friday it will be cold and snowy, but will get drier and slightly warmer after Saturday. |
 
 
 ***
@@ -127,8 +130,10 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 
 If anybody out there has an artistic streak, I'd be really happy about nicer icons. I know I'm a crappy artist...
 
-|  ![partial screenshot][32] |
-| In south- and east Europe, we see 4 recent earthquakes: one of magnitude 4.4 near the Black Sea, on of magnitude 4.6 off the coast of Greece and two near Sicily of magnitude 4.5 and 5.9. The 5.9 earthquake happened on September 5th. |
+ Screenshot |
+ ---------- |
+ ![partial screenshot][32] |
+ In south- and east Europe, we see 4 recent earthquakes: one of magnitude 4.4 near the Black Sea, on of magnitude 4.6 off the coast of Greece and two near Sicily of magnitude 4.5 and 5.9. The 5.9 earthquake happened on September 5th. |
 
 
 ***
@@ -146,8 +151,10 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 * [volcano_images.tar.gz][36] Some icons to denote volcanoes. By default we use volcano.png. If you don't like it, copy one of the others over it. Unpack in your xplanet directory (the icons should go into xplanet/images/)
 * [volcano_images.zip][37] The same archive in ZIP format for Windows
 
-|  ![partial screenshot][38] |
-| Popocatepetl near Mexico City is active... |
+ Screenshot |
+ ---------- |
+ ![partial screenshot][38] |
+ Popocatepetl near Mexico City is active... |
 
 
 ***
@@ -167,11 +174,12 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 * [hurricane_images.tar.gz][44] 3 different iconsets. Each set comes with versions for the major hurricane types. By default we use the third set. If you don't like it, copy one of the others over it. Unpack in your xplanet directory (the icons should go into xplanet/images/)
 * [hurricane_images.zip][45] The same archive in ZIP format for Windows
 
-|  ![partial screenshot][46] |
-| Off the eastern coast of the US, we see tropical storm Gustav speeding ahead with 46mph and tropical depression 07 going with 29mph. Green tracks show the actual, past, path of the hurricane, while blue tracks show its forecast positions.|
-
-| ![partial screenshot][47] |
-| An inset example: hurricane Lili shortly before crossing the western tip of Cuba. It is progressing to the North-West with 92 miles per hour. |
+ Screenshots |
+ ----------- |
+ ![partial screenshot][46] |
+ Off the eastern coast of the US, we see tropical storm Gustav speeding ahead with 46mph and tropical depression 07 going with 29mph. Green tracks show the actual, past, path of the hurricane, while blue tracks show its forecast positions. |
+ ![partial screenshot][47] |
+ An inset example: hurricane Lili shortly before crossing the western tip of Cuba. It is progressing to the North-West with 92 miles per hour. |
 
 
 ***
@@ -184,8 +192,10 @@ Last updated _05 May 2003_, Version 0.8.2: more robust; code cleanup
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-|  ![partial screenshot][49]
-| Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed eastwards. At 5:47pm and 7:22pm we will be able to see TRMM from our home. At 5:33pm and 7:6pm, STS-107 will be visible to us. |
+ Screenshots |
+ ----------- |
+ ![partial screenshot][49]
+ Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed eastwards. At 5:47pm and 7:22pm we will be able to see TRMM from our home. At 5:33pm and 7:6pm, STS-107 will be visible to us. |
 
 
 ***
@@ -231,8 +241,10 @@ Last updated _02 May 2003_, Version 0.8.1: new moonicons
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-| ![partial screenshot][50] |
-| Today, on the 13th of February, the phase is between half- and full moon, increasing towards the full moon which will appear on the 17th. The next (decreasing) half moon will be on the 23rd. |
+ Screenshot |
+ ---------- |
+ ![partial screenshot][50] |
+ Today, on the 13th of February, the phase is between half- and full moon, increasing towards the full moon which will appear on the 17th. The next (decreasing) half moon will be on the 23rd. |
 
 
 ***
