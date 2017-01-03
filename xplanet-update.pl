@@ -5045,22 +5045,22 @@ sub check_xplanet_version() {
    my $xplanet_v=my_backquote("$xplanet_executable -version",'suppress_stderr' => 1);
    if(!$xplanet_v) {
       die "could not find the xplanet executable and execute \"xplanet -version\"\n";
-      }
+   }
    elsif($xplanet_v =~ /(\d+(?:\.\d+)+)/) {
       my $v=$1;
       if($v =~ /^0/) {
          writedebug("xplanet $v detected.");
          }
       else {
-         die "xplanet version $v not supported. Sorry\n";
-         }
+         warn "WARNING: xplanet version $v may not be supported. Sorry\n";
       }
+   }
    else {
       die "could not understand the\"xplanet -version\" output. ".
           "Maybe you are running a non-supported version? ".
           "Please write the author $author_name at $author_email and ".
           "include the output of \"xplanet -version\". Thanks.\n";
-      }
+   }
 }
 
 
@@ -5464,7 +5464,7 @@ my $day_image             = $cfg{'DAY_IMAGE'};
 
 my $night_image           = $cfg{'NIGHT_IMAGE'};
 -f File::Spec->catfile($xplanet_images_dir,"$night_image")
-                          || die "could not find day image file $xplanet_images_dir/$night_image\n";
+                          || die "could not find night image file $xplanet_images_dir/$night_image\n";
 
 my $geometry              = geometry();
 
