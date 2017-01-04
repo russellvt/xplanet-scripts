@@ -6895,7 +6895,7 @@ my %cfg=check_param(
             'Example: From my.yahoo.com (sometimes this works if weather.yahoo doesn\'t)',
             '         http://my.yahoo.com',
             ],
-         'default'  => 'http://my.yahoo.com',
+         'default'  => 'http://weather.yahoo.com',
          'nr'       => $conf_offset,
          },
       'WEATHER_WUNDERGROUND_URL' => {
