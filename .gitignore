@@ -1,3 +1,4 @@
 cache/
+local_location.cache.generic
 test.xplanet-update.[0-9]*
 xplanet.conf
