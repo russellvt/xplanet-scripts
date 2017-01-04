@@ -5503,12 +5503,18 @@ sub make_image_with_clouds($$$$) {
 sub make_main_clouds($) {
    my ($mirror)=@_;
    return 0 if !get_webpage($mirror,'file'=> File::Spec->catfile($xplanet_images_dir,$main_cloud_file));
+
+   # Note:                                              *** INCOMPATIBILITY ***
+   #  - Changes for 1.x for -cloud_image ... now -cloud_map in xplanet.conf
+   #  - This breaks installations with xplanet 1.x and beyond
+   # Ref: http://xplanet.sourceforge.net/NEWS
    return 0 if !make_image_with_clouds(
               $main_cloud_file,
               $day_image,
               "-cloud_image ".quote_fn($main_cloud_file),
               $day_with_clouds_image
               );
+
    return 0 if !make_image_with_clouds(
               $main_cloud_file,
               $night_image,
@@ -5523,18 +5529,25 @@ sub make_ssec_cloud() {
       warn "could not download a new cloud map from either one of the mirrors or the SSEC\n";
       return 0;
       }
+
+   # Note:                                              *** INCOMPATIBILITY ***
+   #  - Changes for 1.x for -cloud_ssec - now should be in the xplanet.conf
+   #  - This breaks installations with xplanet 1.x and beyond
+   # Ref: http://xplanet.sourceforge.net/NEWS
    return 0 if !make_image_with_clouds(
               $ssec_cloud_file,
               $day_image,
               "-cloud_ssec ".quote_fn($ssec_cloud_file),
               $day_with_clouds_image
               );
+
    return 0 if !make_image_with_clouds(
               $ssec_cloud_file,
               $night_image,
               "-cloud_ssec ".quote_fn($ssec_cloud_file),
               $night_with_clouds_image
               );
+
    return 1;
 }
 
