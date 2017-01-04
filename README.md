@@ -35,9 +35,10 @@ Windows users please read [this][5].
 
 All scripts have been converted to a unified configuration scheme. You don't have to edit scripts (those .pl files) anymore. Instead you only adjust the xplanet.conf configuration file:
 
-* You may need or want to initialize your xplanet directory with the default system files
-** On Linux, this is generally something like /usr/share/xplanet
-** Simply "cp -pr /usr/share/xplanet ~/.xplanet"
+* You may need or want to initialize your xplanet directory with the
+default system files
+  * On Linux, this is generally something like /usr/share/xplanet
+  * Simply "cp -pr /usr/share/xplanet ~/.xplanet"
 * Download the scripts and archives into your xplanet directory (the directory with the markers/ and images/ subdirectory)
 * Execute them once
 * They will write or update (if its already existing) the configuration file **xplanet.conf**
