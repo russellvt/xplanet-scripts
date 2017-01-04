@@ -52,13 +52,13 @@
 #
 #    * Copy the script into your xplanet directory
 #
-#    * Set the environment variables 
+#    * Set the environment variables
 #        XPLANET_DIR       - Your xplanet installation directory
 #                            You don't need to set this if you put the weather.pl script
 #                            into your xplanet directory
 #        WEATHERPL_COOKIES - The cookie file for your browser. It should contain
 #                            cookies from yahoo.com and/or wunderground.com
-#                            For Mozilla under Windows it will often be something like 
+#                            For Mozilla under Windows it will often be something like
 #                            C:\WINDOWS\Application Data\Mozilla\Profiles\default\***.slt\cookies.txt
 #                            C:\Documents and Settings\<name>\Application Data\Mozilla\Profiles\default\***.slt\cookies.txt
 #                            C:\WINNT\Profiles\<name>\Application Data\Mozilla\Profiles\default\***.slt\cookies.txt
@@ -105,7 +105,7 @@
 #
 #   First, its very good that weather.pl recognizes _some_ of those places.
 #   This means it can communicae both with the internet and geo_locator.pl
-#   (which provides coordinates to location names). 
+#   (which provides coordinates to location names).
 #
 #   Lets assume weather.pl does not recognize your home town "Vuuma" because
 #   geo_locator.pl can not find its coordinates.
@@ -113,7 +113,7 @@
 #   Start a command line prompt and ask geo_locator.pl for those places: You'd
 #   call something like
 #   C:\> perl .\geo_locator.pl Vuuma
-#   to ask for the location of the city Vuuma. 
+#   to ask for the location of the city Vuuma.
 #   * If geo_locator.pl gives you coordinates for Vuuma we have a problem in
 #     communication either with the internet or between geo_locator.pl and
 #     weather.pl. Please contact the author.
@@ -127,7 +127,7 @@
 #     it will give you the coordinates. Add them to the file markers/weather_markers
 #     (you should be able to figure out the format by yourself).
 #   * If geo_locator.pl does not find Vuuma in the TGN you are on your own. Look
-#     in the internet for Vuuma's coordiantes. Usually a query like 
+#     in the internet for Vuuma's coordiantes. Usually a query like
 #     "longitude latitude Vuuma" in Google should work. Find those coordinates and
 #     add them to the markers/weather_markers marker file.
 #
@@ -192,7 +192,7 @@
 #   Changelog
 # ############################################################################
 #
-#  Version 
+#  Version
 #      4.1.8: Updated wunderground.com parsing
 #      4.1.6: 'Freezing Fog' added. Thanks Jim Schreiber.
 #      4.1.5: some icon location fixes
@@ -216,11 +216,11 @@
 #             UPGRADE!
 #     3.2.12: improved webpage caching
 #     3.2.11: updated wunderground.com parsing, thanks Rojas Donovan
-#             changed weather icon file names from xxx.gif to weather_xxx.gif 
+#             changed weather icon file names from xxx.gif to weather_xxx.gif
 #     3.2.10: caching get_webpage()
 #             updated, extended weather vocabulary for wunderground.com mode
 #             windows and non-US compatibility fixes, thanks Stefan P. Wolf
-#             updated wunderground.com parsing 
+#             updated wunderground.com parsing
 #             fixed month and year in writedebug() thanks Stefan P. Wolf
 #             detect invalid cookie file and die with message
 #      3.2.9: minor windows compatibility fix
@@ -228,14 +228,14 @@
 #             thanks Chris Harper for the bugreports
 #             small debuging changes
 #             fixed default noicon template
-#      3.2.8: fixed bug in communication with geo_locator.pl: lookup for cities with 
+#      3.2.8: fixed bug in communication with geo_locator.pl: lookup for cities with
 #               words that start with lower case letters like "Rio de Janeiro"
 #             thanks Gerhard A. Blab for excellent bugreport!
 #      3.2.7: documentation updated
 #      3.2.6: added 2 more (weather condition) -> (icon) mappings for weather underground
 #             thanks again Matz for error reports!
 #             one more debug output line
-#      3.2.5: more documentation added 
+#      3.2.5: more documentation added
 #             -d command line switch
 #             improved weather underground support: $template_noicon and friends.
 #             thanks Fr. Kipling Cooper for suggestions/ bugreports
@@ -250,7 +250,7 @@
 #      3.1.1: $cookie_file looks for a environment variable WEATHERPL_COOKIES now
 #             this makes editing this script unnecessary in most cases
 #        3.1: much faster coordinate lookup. We only call out to geo_locator
-#             once instead for each location. this should speed weather.pl up 
+#             once instead for each location. this should speed weather.pl up
 #             considerably.
 #      3.0.3: http proxy support
 #             check that cookie file is not empty
@@ -261,7 +261,7 @@
 #             nicer weather marker file written
 #             more flexible template syntax - thanks Felix for the suggestion
 #             bcca.org marker file
-#             use new geo_locator.pl script for coordinates 
+#             use new geo_locator.pl script for coordinates
 #             require perl 5.6
 #             reacts to command line with some help text
 #             much more error detection
@@ -299,7 +299,7 @@ my $conffile=$ENV{'XPLANET_SCRIPTS_CONF'} || 'xplanet.conf';
 
 our $VERSION="4.1.8";
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::FindBin.
 $INC{'Hans2/FindBin.pm'} = './Hans2/FindBin.pm';
 {
@@ -334,8 +334,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -361,7 +361,7 @@ sub abs2rel($$) {
    my ($volume,$directories,$file) = File::Spec->splitpath($path);
    return $file if !$directories;
    return File::Spec->catfile($directories,$file);
-}   
+}
 
 END {}
 
@@ -371,7 +371,7 @@ END {}
 ### End of inlined library Hans2::FindBin.
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Util.
 $INC{'Hans2/Util.pm'} = './Hans2/Util.pm';
 {
@@ -406,8 +406,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -422,10 +422,10 @@ use File::Spec;
 use Config;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Cwd.
 $INC{'Hans2/Cwd.pm'} = './Hans2/Cwd.pm';
 {
@@ -455,8 +455,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -472,7 +472,7 @@ use File::Spec;
 
 sub getcwd() {
    return File::Spec->canonpath(Cwd::getcwd());
-}   
+}
 
 END {}
 
@@ -482,7 +482,7 @@ END {}
 ### End of inlined library Hans2::Cwd.
 Hans2::Cwd->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Debug.
 $INC{'Hans2/Debug.pm'} = './Hans2/Debug.pm';
 {
@@ -517,8 +517,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -532,7 +532,7 @@ use File::Basename;
 use File::Spec;
 use Config;
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
 
@@ -551,26 +551,26 @@ if(@ARGV) {
          $ENV{'DEBUG'}=1;
          $DEBUG=1;
          }
-      else {   
+      else {
          push @argv_new,$_;
          }
       }
    @ARGV=@argv_new;
-   }   
+   }
 
 my $prefix_tty=" " x (length($Scriptbase) + 2);
 my $prefix_log;
 {
-   my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) 
+   my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst)
        = localtime(time());
    $mon++;
-   $year+=1900;    
-   foreach($mon,$mday,$hour,$min,$sec) {   
-      $_ ="0$_"  if $_<10;   
+   $year+=1900;
+   foreach($mon,$mday,$hour,$min,$sec) {
+      $_ ="0$_"  if $_<10;
       }
    my $txt="$Scriptbase($$) $mday/$mon $hour:$min:$sec ";
    $prefix_log=" " x length($txt);
-}   
+}
 
 
 my $indent_num=0;
@@ -588,12 +588,12 @@ sub writelogline($) {
    my ($msg)=@_;
    return if !$ENV{'LOGFILE'};
    $msg =~ s/\n/\n$prefix_log/g;
-   my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) 
+   my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst)
        = localtime(time());
    $mon++;
-   $year+=1900;    
-   foreach($mon,$mday,$hour,$min,$sec) {   
-      $_ ="0$_"  if $_<10;   
+   $year+=1900;
+   foreach($mon,$mday,$hour,$min,$sec) {
+      $_ ="0$_"  if $_<10;
       }
    local *LOG;
    if(!open(LOG, ">>".$ENV{'LOGFILE'})) {
@@ -603,7 +603,7 @@ sub writelogline($) {
       };
    print LOG "$Scriptbase($$) $mday/$mon $hour:$min:$sec $msg\n";
    close LOG;
-}   
+}
 
 sub writettyline($) {
    my ($msg)=@_;
@@ -624,7 +624,7 @@ sub writedebug($) {
    $msg =~ s/\n/\n$pref/g;
    writelogline($msg);
    writettyline("$Scriptbase: $msg") if $ENV{'DEBUG'};
-}  
+}
 
 
 sub writewarn($) {
@@ -636,7 +636,7 @@ sub writewarn($) {
 }
 
 sub writedie($) {
-   my ($msg)=@_;    
+   my ($msg)=@_;
    return if $off;
    $msg =~ s/[\s\n\r]+$//;
    writelogline("!fatal: ".$msg);
@@ -645,7 +645,7 @@ sub writedie($) {
 
 
 sub writestdout($) {
-   my ($msg)=@_;    
+   my ($msg)=@_;
    return if $off;
    $msg =~ s/[\s\n\r]+$//;
    writelogline($msg);
@@ -654,7 +654,7 @@ sub writestdout($) {
 
 
 sub writestderr($) {
-   my ($msg)=@_;    
+   my ($msg)=@_;
    return if $off;
    $msg =~ s/[\s\n\r]+$//;
    writelogline($msg);
@@ -669,16 +669,16 @@ writedebug("initialized logging");
 writedebug("$^X is version ".sprintf("%vd",$^V));
 writedebug("OS: $^O");
 { my $h=$ENV{'HOME'} || "<undefined>";
-  writedebug("users home: $h");   
-}  
-writedebug("users id: effective: $>; real: $<");   
+  writedebug("users home: $h");
+}
+writedebug("users id: effective: $>; real: $<");
 if(@ARGV) {
    writedebug("command line args: \'".join("\', \'",@ARGV)."\'");
    }
-else {   
+else {
    writedebug("command line args: <none>");
    }
-   
+
 END {}
 
 1;
@@ -728,7 +728,7 @@ END {}
 ### End of inlined library Hans2::Util.
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::WebGet.
 $INC{'Hans2/WebGet.pm'} = './Hans2/WebGet.pm';
 {
@@ -763,8 +763,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -781,10 +781,10 @@ BEGIN {
    }
 
 use File::Spec;
-use LWP::UserAgent;       
+use LWP::UserAgent;
 use LWP::Simple;
 use File::Basename;
-BEGIN { 
+BEGIN {
 ### Start of inlined library HTTP::Cookies.
 $INC{'HTTP/Cookies.pm'} = './HTTP/Cookies.pm';
 {
@@ -1401,13 +1401,13 @@ HTTP::Cookies->import();
 use URI;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::OneParamFile.
 $INC{'Hans2/OneParamFile.pm'} = './Hans2/OneParamFile.pm';
 {
@@ -1444,8 +1444,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -1457,16 +1457,16 @@ use vars      @NON_EXPORT;
 use File::Spec;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::Cwd->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::File.
 $INC{'Hans2/File.pm'} = './Hans2/File.pm';
 {
@@ -1507,8 +1507,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -1517,7 +1517,7 @@ use vars      @EXPORT_OK;
 #non exported package globals
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
 
@@ -1528,16 +1528,16 @@ use File::Copy;
 use Fcntl;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::Cwd->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::DataConversion.
 $INC{'Hans2/DataConversion.pm'} = './Hans2/DataConversion.pm';
 {
@@ -1582,8 +1582,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -1622,8 +1622,8 @@ sub anglebracketoptions_decode($) {
       $data{$key}=$val;
       }
    return %data;
-}      
-   
+}
+
 sub anglebracketoptions_encode(%) {
    my (%data)=@_;
    my @data;
@@ -1634,7 +1634,7 @@ sub anglebracketoptions_encode(%) {
       push @data,$abo_quote->($str);
       }
    return "<".join("> <",@data).">";
-}      
+}
 
 }
 
@@ -1646,14 +1646,14 @@ sub XmlUtf8Encode($) {
     my ($n) = @_;
     if ($n < 0x80) {
         return chr ($n);
-        } 
+        }
     elsif ($n < 0x800) {
         return pack ("CC", (($n >> 6) | 0xc0), (($n & 0x3f) | 0x80));
-        } 
+        }
     elsif ($n < 0x10000) {
         return pack ("CCC", (($n >> 12) | 0xe0), ((($n >> 6) & 0x3f) | 0x80),
                      (($n & 0x3f) | 0x80));
-        } 
+        }
     elsif ($n < 0x110000) {
         return pack ("CCCC", (($n >> 18) | 0xf0), ((($n >> 12) & 0x3f) | 0x80),
                      ((($n >> 6) & 0x3f) | 0x80), (($n & 0x3f) | 0x80));
@@ -1661,7 +1661,7 @@ sub XmlUtf8Encode($) {
     return $n;
 }
 
-# quotes a scalar to be used as XML - text. 
+# quotes a scalar to be used as XML - text.
 sub xml_quote($) {
    my ($string)=@_;
    for ($string) {
@@ -1672,7 +1672,7 @@ sub xml_quote($) {
       s/([\x80-\xFF])/&XmlUtf8Encode(ord($1))/ge;
    }
    return $string;
-}   
+}
 
 # un-escape XML base entities
 sub xml_unquote($) {
@@ -1715,13 +1715,13 @@ sub versionstring_2_vstring($) {
    my ($str)=@_;
    return undef if $str !~ /^[\d\.]+$/;
    return eval "v$str";
-}   
+}
 
 sub vstring_2_versionstring($) {
    my ($v)=@_;
    return sprintf("%vd",$v);
-}  
- 
+}
+
 
 sub soundex($) {
    my ($string)=@_;
@@ -1739,7 +1739,7 @@ sub soundex($) {
       $_ = $f . $_ . '000';
       s/^(.{4}).*/$1/;
       }
-   return $string;   
+   return $string;
 }
 
 sub soundex_number($) {
@@ -1756,7 +1756,7 @@ sub soundex_number($) {
 sub anytext_2_filename($) {
    my ($txt)=@_;
    for($txt) {
-      s/([^\w\-\_\.])/sprintf("=%02X", ord($1))/eg; 
+      s/([^\w\-\_\.])/sprintf("=%02X", ord($1))/eg;
       }
    return $txt;
 }
@@ -1799,9 +1799,9 @@ sub parse_eq_cl($) {
    ($cl =~ /\G(.*)/g) && ($val=$1);
    $args{lc($arg)}=$val;
 
-   return %args;   
-   
-}   
+   return %args;
+
+}
 
 
 sub fileglob_2_perlre($) {
@@ -1825,7 +1825,7 @@ sub interpret_as_perl_string($) {
    my $out;
    eval '$out="'.$in.'"';
    return $out;
-}   
+}
 
 
 END {}
@@ -1854,13 +1854,13 @@ sub test_file_really_accessible($) {
    open(F2,'>> '.$fn) || return 0;
    close(F2) || return 0;
    return 1;
-}   
+}
 
 
 sub file_extension($) {
    my ($fn)=@_;
    return (fileparse($fn,qr/\.\w{2,4}/))[2];
-}   
+}
 
 
 sub copy_file($$) {
@@ -1872,7 +1872,7 @@ sub copy_file($$) {
    warn "could not copy $src to $dest: $!\n" if !$ret;
    $ret &&= chmod($perm,$dest);
    return $ret;
-}      
+}
 
 
 
@@ -1895,12 +1895,12 @@ sub make_link($$) {
          $ret &&= copy_file($src,$dest);
          }
       }
-   else {      
+   else {
       $ret &&= copy_file($src,$dest);
       }
    $ret &&= chdir($dir);
-   return $ret;   
-}   
+   return $ret;
+}
 
 
 sub mtime($) {
@@ -1910,7 +1910,7 @@ sub mtime($) {
    my $time=(stat($fn))[9];
    return undef if !-e $fn;
    return $time;
-}       
+}
 
 
 sub file_perms($) {
@@ -1922,13 +1922,13 @@ sub file_perms($) {
       writedebug("could not get the perms of $fn because its not existing");
       return undef;
       }
-   if(!defined $mode) {   
+   if(!defined $mode) {
       writedebug("could not stat $fn");
       return undef;
-      }   
-   $mode=Fcntl::S_IMODE($mode);   
+      }
+   $mode=Fcntl::S_IMODE($mode);
    return $mode;
-}       
+}
 
 
 sub make_directory($) {
@@ -1936,7 +1936,7 @@ sub make_directory($) {
 
    -f $target && return undef;
    -d $target && return 1;
-   
+
    my ($volume,$directories,$file) = File::Spec->splitpath($target,1);
    my @dirs = File::Spec->splitdir( $directories );
 
@@ -1946,12 +1946,12 @@ sub make_directory($) {
       my $dir = File::Spec->catpath( $volume, File::Spec->catdir( @these_dirs), "");
       if(!-d $dir) {
          writedebug("mkdir $dir");
-         mkdir($dir) || return undef; 
+         mkdir($dir) || return undef;
          }
       }
 
    return 1;
-}   
+}
 
 
 sub readfile($) {
@@ -1970,14 +1970,14 @@ sub readfile($) {
          push @txt,$_;
          }
       }
-   else {      
+   else {
       while(<F>) {
          $txt.=$_;
          }
       }
-   close F;   
+   close F;
    return wantarray() ? @txt : $txt;
-}      
+}
 
 
 sub writefile($$) {
@@ -1989,50 +1989,50 @@ sub writefile($$) {
          writedebug("could not create $dir");
          return undef;
          }
-      }   
+      }
    if(!open(F,'>',$fn)) {
       writedebug("could not write to $fn: $!");
       return undef;
       }
-   writedebug("writing $fn");   
+   writedebug("writing $fn");
    print F $txt;
    close F;
    return 1;
-}         
+}
 
 
 sub perlre_glob($$;$) {
    my ($dir,$pattern,$validator)=@_;
-   
+
    return if !defined $pattern;
    return if $pattern eq '';
-   
+
    my @files;
-   
+
    local *DIR;
    opendir(DIR,$dir) || die "can not opendir $dir: $!\n";
    @files = readdir(DIR);
    closedir DIR;
-   
+
    $pattern=qr/$pattern/;
-   
+
    @files=grep {($_ ne ".") and ($_ ne "..")} @files;
    @files=grep {/$pattern/} @files;
    @files=map  {File::Spec->catfile($dir,$_)} @files;
-   
-   @files=grep {$validator->($_)} @files if (defined $validator) and 
-                                            (ref($validator)) and 
+
+   @files=grep {$validator->($_)} @files if (defined $validator) and
+                                            (ref($validator)) and
                                             (ref($validator) eq 'CODE');
-   
+
    return @files;
-}   
-   
+}
+
 
 sub my_glob($$;$) {
    my ($dir,$pattern,$validator)=@_;
-   
+
    return perlre_glob($dir,fileglob_2_perlre($pattern),$validator);
-   
+
 }
 
 END {}
@@ -2043,10 +2043,10 @@ END {}
 ### End of inlined library Hans2::File.
 Hans2::File->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Debug::Indent.
 $INC{'Hans2/Debug/Indent.pm'} = './Hans2/Debug/Indent.pm';
 {
@@ -2058,7 +2058,7 @@ package Hans2::Debug::Indent;
 BEGIN {
         use Exporter   ();
         use vars       qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS @EXP_VAR @NON_EXPORT);
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::AutoQuit.
 $INC{'Hans2/AutoQuit.pm'} = './Hans2/AutoQuit.pm';
 {
@@ -2088,8 +2088,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -2100,11 +2100,11 @@ use vars      @NON_EXPORT;
 
 sub new($&) {
    my ($proto,$func) = @_;
-   
+
    if(!ref($func)) {
       die "Scalar given to AFAutoQuit\n";
       }
-   if(ref($func) ne "CODE") {   
+   if(ref($func) ne "CODE") {
       die "Not a code-ref given to AFAutoQuit\n";
       }
 
@@ -2117,7 +2117,7 @@ sub new($&) {
 
    bless ($self, $class);
    return $self;
-}   
+}
 
 sub delete($) {
    my ($self)=@_;
@@ -2126,13 +2126,13 @@ sub delete($) {
    return if !$self->{'active'};
    $self->{'active'}=0;
    $self->{'func'}->() if $self->{'func'};
-}   
+}
 
 sub DESTROY($) {
    my ($self)=@_;
    $self->delete();
-}   
-   
+}
+
 END {}
 
 1;
@@ -2159,8 +2159,8 @@ Hans2::AutoQuit->import();
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -2169,7 +2169,7 @@ use vars      @EXPORT_OK;
 #non exported package globals
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
 
@@ -2177,16 +2177,16 @@ sub new($$) {
    my ($proto,$msg) = @_;
 
    my $class = ref($proto) || $proto;
-   
+
    Hans2::Debug::push_indent($msg);
-   
+
    my $self=$class->SUPER::new( sub {Hans2::Debug::pop_indent();});
-   
+
    bless ($self,$class);
 
    return $self;
-}   
-      
+}
+
 END {}
 
 1;
@@ -2195,7 +2195,7 @@ END {}
 ### End of inlined library Hans2::Debug::Indent.
 Hans2::Debug::Indent->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Constants.
 $INC{'Hans2/Constants.pm'} = './Hans2/Constants.pm';
 {
@@ -2227,8 +2227,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -2245,7 +2245,7 @@ END {}
 ### End of inlined library Hans2::Constants.
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
 
@@ -2284,12 +2284,12 @@ sub make_initial_comment() {
 sub register_param($%) {
    my ($key,%opts)=@_;
    $registered_params{$key}=\%opts;
-}   
+}
 
 sub register_remove_param($) {
    my ($key)=@_;
    $registered_remove_params{$key}=1;
-}   
+}
 
 # in: filename
 # out: original file contents
@@ -2307,7 +2307,7 @@ sub read_cfg($) {
          last if !$_;
          last if /^[^#]/;
          }
-      }   
+      }
    foreach (@txt) {
       s/^\s+//;
       s/\s+$//;
@@ -2330,34 +2330,34 @@ sub read_cfg($) {
          my %first_params=anglebracketoptions_decode($first_line);
          if(!defined $first_params{'nr'}) {
             my $msg=<<EOT;
-Config file $file, key $key: did not understand first line. 
+Config file $file, key $key: did not understand first line.
 Possible reasons:
 
 Reason:   You edited that config file inappropriately
 Solution: You might _not_ edit the comments section of the config file.
           Only adjust the value of each config key, nothing else.
-          Delete the file and let the scripts re-create the default 
+          Delete the file and let the scripts re-create the default
           config file for you.
-          
+
 Reason:   A programming error in the perl scripts
 Solution: Contact the author via e-mail at $author_email and send him
           $file
-             
+
 EOT
             die $msg;
-            }   
+            }
          $cfg{$key}={'read'      => $val,
                      'comment'   => \@c,
                      %first_params,
                      };
-         @comment=();            
+         @comment=();
          $nr++;
          }
       else {
          die "did not understand line <$_> in configuration file $file\n";
          }
       }
-   return ($txt,%cfg);      
+   return ($txt,%cfg);
 }
 
 # sort 2 parameter hashes by key name
@@ -2368,7 +2368,7 @@ sub sort_param($$%) {
       return $r if $r;
       }
    return $a cmp $b;
-}   
+}
 
 # in: filename and config hash
 # out: write config file
@@ -2386,7 +2386,7 @@ sub write_cfg($$%) {
          $txt.="# $_\n";
          }
       }
-   $txt.="\n";   
+   $txt.="\n";
    foreach my $key (sort { sort_param($a,$b,%cfg)} keys %cfg) {
       my $param=$cfg{$key};
       my @comment=@{$param->{'comment'}};
@@ -2408,18 +2408,18 @@ sub write_cfg($$%) {
    if($txt eq $ori_txt) {
       writedebug("not updating config file $file since it would be unchanged");
       return;
-      }   
+      }
    writefile($file,$txt) || die "could not write to configuration file $file\n";
-}      
+}
 
 
 sub check_param(%) {
    my (%opts)=@_;
-   
+
    my $file_base=$opts{'file'};
-   
+
    my $ind=Hans2::Debug::Indent->new("Processing $file_base config file");
-   
+
    my $cwd=getcwd();
 
 
@@ -2433,8 +2433,8 @@ sub check_param(%) {
          $rem{$_}=1;
          }
       @remove=keys %rem;
-      }   
-      
+      }
+
 
    #
    # add default parameters from register_param() and validate
@@ -2446,19 +2446,19 @@ sub check_param(%) {
    foreach my $key (keys %check_p) {
       $check{$key}=$check_p{$key};
       }
-   }   
-   
+   }
+
    #
    foreach my $key (keys %check) {
       foreach my $what ("nr","default","comment") {
          exists $check{$key}->{$what} || die "invalid parameter $key does not include $what\n";
          }
       }
-   
+
    #
    # determine whether we already have a config file; reading of the file
    #
-   
+
    my @file_tries=($file_base,
                    File::Spec->catfile($cwd,$file_base),
                    File::Spec->catfile($Bin,$file_base)
@@ -2469,7 +2469,7 @@ sub check_param(%) {
          $file=$_;
          last;
          }
-      }   
+      }
    my ($ori_cfg,%cfg);
    if(!$file) {
       $file=File::Spec->catfile($Bin,$file_base);
@@ -2477,7 +2477,7 @@ sub check_param(%) {
       %cfg=();
       $ori_cfg="";
       }
-   else {   
+   else {
       ($ori_cfg,%cfg)=read_cfg($file);
       }
 
@@ -2487,13 +2487,13 @@ sub check_param(%) {
          delete $cfg{$rem_key};
          }
       }
-      
+
    # %check : parameter to this func, has keys
    #          comment               - comment block
-   #          default               - default value 
+   #          default               - default value
    #          env        (optional) - env vars to find it in
    #          nr                    - pos in conf file
-   #          
+   #
    # %cfg   : from config file, has keys
    #          comment               - old comment block, discard
    #          read                  - current val from config file
@@ -2505,10 +2505,10 @@ sub check_param(%) {
    #          write                 - value to write back into file
 
    foreach my $chk_key (sort {sort_param($a,$b,%check)} keys %check) {
-   
+
       my $from_prog=$check{$chk_key};
       my $from_file=$cfg{$chk_key};
-      
+
       $from_prog->{'write'}=$from_prog->{'default'};
       $from_prog->{'lastdefval'}=$from_prog->{'default'};
       if($from_file) {
@@ -2517,13 +2517,13 @@ sub check_param(%) {
             $from_prog->{'write'}=$from_file->{'read'};
             }
          }
-      # otherwise, take what was given to this func, but make sure there is a 'nr' parameter   
+      # otherwise, take what was given to this func, but make sure there is a 'nr' parameter
       else {
          warn "Adding variable ".sprintf("%-30s",$chk_key)."=".$from_prog->{'default'}." to config file $file\n";
          }
       %{$cfg{$chk_key}}=%{$from_prog};
       $from_file=$cfg{$chk_key};
-      # now everything is in %cfg and we evaluate the record   
+      # now everything is in %cfg and we evaluate the record
 
       my $env=$from_file->{'env'};
       my @env;
@@ -2536,8 +2536,8 @@ sub check_param(%) {
          else {
             @env=($env);
             }
-         }   
-      # check all the environment variables 
+         }
+      # check all the environment variables
       foreach $env (@env) {
          next if !defined $ENV{$env};
          $env_val=$ENV{$env};
@@ -2546,7 +2546,7 @@ sub check_param(%) {
          }
 
       # the correct value is the environment value, if found, otherwise the value from the config file
-      $env_val=$from_file->{'write'} if !defined $env_val;   
+      $env_val=$from_file->{'write'} if !defined $env_val;
       # now $env_val contains the value we are looking for, set 'cur' to it
       $from_file->{'cur'}=$env_val;
       # set the environment variables to the value, if we are calling other programs that depend on it
@@ -2554,18 +2554,18 @@ sub check_param(%) {
          $ENV{$env}=$env_val;
          }
       writedebug(sprintf("%-30s",$chk_key)."= $env_val (".$from_file->{'nr'}.")");
-      }         
-   
+      }
+
    write_cfg($file,$ori_cfg,%cfg);
-   
+
    %PARAMS=();
    foreach my $key (keys %cfg) {
       $PARAMS{$key}=$cfg{$key}->{'cur'};
       }
-   
+
   return %PARAMS;
-}   
-         
+}
+
 END {}
 
 1;
@@ -2574,16 +2574,16 @@ END {}
 ### End of inlined library Hans2::OneParamFile.
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::File->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug::Indent->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::OneParamFile::StdConf.
 $INC{'Hans2/OneParamFile/StdConf.pm'} = './Hans2/OneParamFile/StdConf.pm';
 {
@@ -2614,8 +2614,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -2626,10 +2626,10 @@ use vars      @NON_EXPORT;
 
 use File::Spec;
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
 
@@ -2652,10 +2652,10 @@ END {}
 ### End of inlined library Hans2::OneParamFile::StdConf.
 Hans2::OneParamFile::StdConf->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
 
@@ -2664,7 +2664,7 @@ sub URL_2_filename($) {
    my ($url)=@_;
    my @a=URI->new($url)->path_segments();
    return $a[$#a];
-}   
+}
 
 # default: always renew cache (never trust it)
 $cache_expiration=0;
@@ -2725,43 +2725,43 @@ register_param($ONEPARAMFILE_COOKIE_OPTS,%ONEPARAMFILE_COOKIE_OPTS);
 # initialization code. called the first time get_webpage() is executed
 #
 # * cookies
-#   if $PARAMS{$ONEPARAMFILE_COOKIE_OPTS} || $ENV{'XPLANET_COOKIES'} || $ENV{'WEATHERPL_COOKIES'} 
+#   if $PARAMS{$ONEPARAMFILE_COOKIE_OPTS} || $ENV{'XPLANET_COOKIES'} || $ENV{'WEATHERPL_COOKIES'}
 #   then initialize LWP with that netscape style cookie file
 # * agent
-#   set agent string to a in-style browser, with special code to denote we are 
+#   set agent string to a in-style browser, with special code to denote we are
 #   coming from WebGet.pm, including script name and -version
 # * set $cache_expiration to $main::cache_expiration, if defined
 {
 sub set_cookie_jar($) {
    my ($cookie_file)=@_;
    $cookie_file                || ($in_windows ?
-                                  die("Please set the COOKIE_FILE environment variable to your cookies.txt file from Netscape or Mozilla (NOT Internet Explorer!)\n") 
+                                  die("Please set the COOKIE_FILE environment variable to your cookies.txt file from Netscape or Mozilla (NOT Internet Explorer!)\n")
                                 : die("Please set the COOKIE_FILE environment variable to your Netscape-style cookie file\n"));
    -d $cookie_file             && ($cookie_file=File::Spec->catfile($cookie_file,"cookies.txt"));
    -f $cookie_file             || die("Could not find cookie file $cookie_file\n");
    -r $cookie_file             || die("Could not read cookie file $cookie_file\n");
    (-s $cookie_file > 50)      || die("Cookie file $cookie_file does not seem to contain any information. Please use a valid Netscape-style cookie file.\n");
-   
+
    my $cookie_jar = HTTP::Cookies::Netscape->new('File' => $cookie_file);
-   if(!($cookie_jar                 && 
+   if(!($cookie_jar                 &&
         $cookie_jar->{'COOKIES'}    &&
         %{$cookie_jar->{'COOKIES'}})) {
       warn("Could not understand cookie file $cookie_file. If this is a mozilla cookie file, ".
            "please contact the author at $author_email\n");
       return;
       }
-   
+
    $ua->cookie_jar($cookie_jar);
    $HAVE_COOKIES=1;
-   
-   writedebug("cookie file: $cookie_file");   
+
+   writedebug("cookie file: $cookie_file");
 }
-   
+
 sub try_set_cookie_jar() {
    writedebug("first time in try_set_cookie_jar()");
-   my $jar=$PARAMS{$ONEPARAMFILE_COOKIE_OPTS} || 
-           $ENV{'COOKIE_FILE'} || 
-           $ENV{'XPLANET_COOKIES'} || 
+   my $jar=$PARAMS{$ONEPARAMFILE_COOKIE_OPTS} ||
+           $ENV{'COOKIE_FILE'} ||
+           $ENV{'XPLANET_COOKIES'} ||
            $ENV{'WEATHERPL_COOKIES'};
    if(!$jar) {
       writedebug("no cookie file given in parameter file or COOKIE_FILE");
@@ -2769,7 +2769,7 @@ sub try_set_cookie_jar() {
       }
    writedebug("trying file $jar");
    set_cookie_jar($jar);
-}   
+}
 
 my $have_webget_init=0;
 sub webget_init() {
@@ -2847,16 +2847,16 @@ sub get_webpage_direct($;%) {
    if($opts{'file'}) {
       return get_webpage_direct_file($req,$URL,%opts);
       }
-   else {   
+   else {
       $ret=get_webpage_direct_content($req,$URL,%opts);
-      return $ret if !$ret;   
+      return $ret if !$ret;
       return $ret if !$opts{'check_redirect'};
       my $new_url=check_redirect($ret);
       writedebug("checking whether we need to redirect...");
       return $ret if !$new_url;
       writedebug("It seems we need to redirect to $new_url");
       return get_webpage_direct($new_url,%opts);
-      }   
+      }
 }
 
 # get cache file corresponding to an internet address
@@ -2865,7 +2865,7 @@ sub URL_2_file($%) {
    my $tmpdir=$PARAMS{$ONEPARAMFILE_TMPDIR_OPTS} || $Bin;
    my $dir=$opts{'cache_dir'} || File::Spec->catdir($tmpdir,"cache");
    return File::Spec->catfile($dir,anytext_2_filename($URL));
-}   
+}
 
 sub hour_str($) {
    my ($sec)=@_;
@@ -2888,7 +2888,7 @@ sub check_cache($%) {
       writedebug(basename($cache).": age=".hour_str($time-$file_time)." hours. expiration time=".hour_str($expiration)." hours");
       return 1 if ($time-$file_time) < $expiration;
       }
-   return undef;   
+   return undef;
 }
 
 
@@ -2900,13 +2900,13 @@ sub get_webpage($;%) {
    if(defined $URL and $URL ne '') {
       $msg="$URL$msg";
       }
-   else {   
+   else {
       $msg = "Hans2::WebGet initialization";
       }
    my $ind=Hans2::Debug::Indent->new("requested $msg");
-   
+
    webget_init();
-   
+
    return if !defined $URL;
    return if $URL eq '';
 
@@ -2915,7 +2915,7 @@ sub get_webpage($;%) {
 
    my $cfile=$opts{'file'}||$opts{'cache'};        # where on disc we are caching
    $cfile=URL_2_file($URL,%opts) if !defined $cfile;
-   
+
    if(($cache) && (check_cache($cfile,%opts))) {
       if($opts{'file'}) {
          writedebug("is fresh in file");
@@ -2929,7 +2929,7 @@ sub get_webpage($;%) {
       writedebug("did not get anything from $cfile, removing it");
       unlink($cfile);
       }
-   
+
    my $txt=get_webpage_direct($URL,%opts);
    return if !$txt;
    if($cache and !$opts{'file'}) {
@@ -2938,10 +2938,10 @@ sub get_webpage($;%) {
       writefile($cfile,$txt);
       if($> == 0) {
          # make sure the cache is read-writable by anybody.
-         # This looks like a _tiny_ security risk, but it helps when running the 
+         # This looks like a _tiny_ security risk, but it helps when running the
          # scripts by different users.
          chmod(0666,$cfile);
-         chmod(0777,dirname($cfile)) if !$had_dir; 
+         chmod(0777,dirname($cfile)) if !$had_dir;
          }
       }
    return $txt;
@@ -2956,10 +2956,10 @@ END {}
 ### End of inlined library Hans2::WebGet.
 Hans2::WebGet->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::System.
 $INC{'Hans2/System.pm'} = './Hans2/System.pm';
 {
@@ -2998,8 +2998,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -3014,13 +3014,13 @@ use File::Basename;
 use File::Spec;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Cwd->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Units.
 $INC{'Hans2/Units.pm'} = './Hans2/Units.pm';
 {
@@ -3044,7 +3044,7 @@ BEGIN {
 
         @ISA         = qw(Exporter);
         @EXP_VAR     = qw(
-                       ); 
+                       );
         @EXPORT      = (qw(
                         &convert_units
                         &convert_units_factor
@@ -3053,18 +3053,18 @@ BEGIN {
 
         # your exported package globals go here,
         # as well as any optionally exported functions
-#        @EXPORT_OK     = qw($MY_STDOUT $MY_STDERR $MY_STDIN $PROGRAM $PROGRAM_UC); 
+#        @EXPORT_OK     = qw($MY_STDOUT $MY_STDERR $MY_STDIN $PROGRAM $PROGRAM_UC);
         @EXPORT_OK   = qw();
         @NON_EXPORT  = qw(
-                         ); 
-        
-}        
+                         );
+
+}
 
 use vars      @EXP_VAR;
 use vars      @EXPORT_OK;
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Package.
 $INC{'Hans2/Package.pm'} = './Hans2/Package.pm';
 {
@@ -3097,8 +3097,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -3120,20 +3120,20 @@ sub found_in_INC($) {
 
    # maybe we already know?
    return 1 if $INC{$fn};
-   
-   # look in @INC   
+
+   # look in @INC
    foreach(@INC) {
       return 1 if (-f File::Spec->catfile($_,$fn)) && (-r File::Spec->catfile($_,$fn));
       }
 
    # failure
    return undef;
-}   
+}
 
 
 sub try_to_load($;$) {
    my ($modname,$list)=@_;
-   
+
    # success if its already loaded
    return 1 if $INC{$modname};
    my $fn;
@@ -3146,13 +3146,13 @@ sub try_to_load($;$) {
    $fn .= ".pm" if $fn !~ /\.pm$/;
    $fn = File::Spec->catdir(split(/::/,$fn));
    return 1 if $INC{$fn};
-   
+
    # fail if file can't be found
    return 0 if ! found_in_INC($fn);
-   
+
    # fail if it can't be loaded
    eval { require $fn || return 0; 1 } || return 0;
-   
+
    # import
    my $callpkg=caller;
    my $import_stmt="package $callpkg; ";
@@ -3161,12 +3161,12 @@ sub try_to_load($;$) {
       }
    else {
       $import_stmt.="import $modname;";
-      }   
-   eval $import_stmt;   
+      }
+   eval $import_stmt;
 
    # success
    return 1;
-   
+
 }
 
 
@@ -3179,13 +3179,13 @@ sub import_if_not_already($;$) {
          }
       die "could not load $mod $msg\n";
       }
-   return 1;   
+   return 1;
 }
 
 
 sub possible_packages(;$) {
    my ($prefix)=@_;
-   
+
    $prefix = File::Spec->catdir(split(/::/,$prefix)) if $prefix;
 
    my %f;
@@ -3196,7 +3196,7 @@ sub possible_packages(;$) {
 
       my $dir2=$dir;
       $dir2=File::Spec->catdir($dir2,$prefix) if $prefix;
-   
+
       foreach my $file (my_glob($dir2,'*.pm',sub {-f $_ and -r $_})) {
          $file =~ s/\.pm$//;
          $f{$file}=1;
@@ -3236,9 +3236,9 @@ my %predef_conv=(
    'g/cc'  => { 'kg/m3' => 1000,
               },
    'F'     => { 'C'     => sub { ($_ - 32)*5/9;},
-              },            
+              },
    'C'     => { 'F'     => sub { $_*9/5 + 32;},
-              },         
+              },
    'rad'   => { 'deg'   => 180/(atan2(1,1)*4),
               },
    'GPa'   => { 'Pa'    => $GIGA,
@@ -3247,10 +3247,10 @@ my %predef_conv=(
               },
    'µsec'  => { 'sec'   => $MICRO,
               },
-         );   
+         );
 
 my %normalize_unit=(
-   '"'          => 'inch', 
+   '"'          => 'inch',
    'inches'     => 'inch',
    'in'         => 'inch',
    'gcc'        => 'g/cc',
@@ -3258,7 +3258,7 @@ my %normalize_unit=(
    'kmh'        => 'km/h',
    'mph'        => 'mp/h',
    'usec'       => 'µsec',
-   ); 
+   );
 
 
 sub convert_units($$$) {
@@ -3279,28 +3279,28 @@ sub convert_units($$$) {
          }
       else {
          return $num * $conv;
-         }      
+         }
       }
-   # if reverse conversion exists as a constant, apply that one     
+   # if reverse conversion exists as a constant, apply that one
    if(exists $predef_conv{$new_unit} and exists $predef_conv{$new_unit}->{$old_unit}) {
       my $conv=$predef_conv{$new_unit}->{$old_unit};
       if(!ref($conv)) {
          return $num / $conv;
-         }      
+         }
       }
-   # still not found? Try Math::Units if available   
+   # still not found? Try Math::Units if available
    if($have_many_units) {
       return Math::Units::convert($num,$old_unit,$new_unit);
       }
-   # give up   
+   # give up
    die "could not convert $num from $old_unit to $new_unit\n";
-}   
+}
 
 
 sub convert_units_factor($$) {
    my ($old_unit,$new_unit)=@_;
    return convert_units(1,$old_unit,$new_unit)-convert_units(0,$old_unit,$new_unit);
-}   
+}
 
 
 sub add_rule($$$) {
@@ -3320,7 +3320,7 @@ END {
 ### End of inlined library Hans2::Units.
 Hans2::Units->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Math.
 $INC{'Hans2/Math.pm'} = './Hans2/Math.pm';
 {
@@ -3374,8 +3374,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -3384,7 +3384,7 @@ use vars      @EXPORT_OK;
 #non exported package globals
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::Algo.
 $INC{'Hans2/Algo.pm'} = './Hans2/Algo.pm';
 {
@@ -3418,8 +3418,8 @@ BEGIN {
                        &sum2
                        &max
                        &max_simple
-                       &min  
-                       &min_simple  
+                       &min
+                       &min_simple
                        &firstgood
                        &allgood
                        &random_array_elem
@@ -3436,10 +3436,10 @@ BEGIN {
 # optional export variables
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
 
-        
-}        
+
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -3456,7 +3456,7 @@ sub split_half(@) {
    my @x=@args[0      .. $num/2-1];
    my @y=@args[$num/2 .. $num-1];
    return (\@x,\@y);
-}   
+}
 
 
 sub sum($@) {
@@ -3469,7 +3469,7 @@ sub sum($@) {
       $sum+=$fun->($_);
       }
 
-   return $sum;   
+   return $sum;
 }
 
 
@@ -3481,7 +3481,7 @@ sub sum_simple(@) {
       $sum+=$_;
       }
 
-   return $sum;   
+   return $sum;
 }
 
 
@@ -3493,8 +3493,8 @@ sub sum2($@) {
       $sum+=$fun->($x->[$i],$y->[$i]);
       }
    return $sum;
-}         
-   
+}
+
 
 sub max($@) {
    my ($func,@args)=@_;
@@ -3513,7 +3513,7 @@ sub max($@) {
          $extrfunc=$this;
          }
       }
-   return $extr;   
+   return $extr;
 }
 
 
@@ -3524,7 +3524,7 @@ sub max_simple(@) {
    foreach(@args){
       $extr=$_ if $_>$extr;
       }
-   return $extr;   
+   return $extr;
 }
 
 
@@ -3546,7 +3546,7 @@ sub min($@) {
          $extrfunc=$this;
          }
       }
-   return $extr;   
+   return $extr;
 }
 
 
@@ -3557,7 +3557,7 @@ sub min_simple(@) {
    foreach(@args){
       $extr=$_ if $_<$extr;
       }
-   return $extr;   
+   return $extr;
 }
 
 
@@ -3569,12 +3569,12 @@ sub firstgood(&@) {
       return $_ if $validator->($_);
       }
    return undef;
-}      
+}
 
 
 sub random_array_elem(@) {
    $_[int(rand(scalar(@_)))];
-}   
+}
 
 
 sub samearray($$) {
@@ -3589,7 +3589,7 @@ sub samearray($$) {
       return 0 if $a1->[$i] ne $a2->[$i];
       }
    return 1;
-}      
+}
 
 
 sub uniq($@) {
@@ -3597,7 +3597,7 @@ sub uniq($@) {
    return () if !@ar;
    die "uniq(): first arg is no fun-ref" if !ref($is_eq);
    die "uniq(): first arg is no fun-ref" if ref($is_eq) ne 'CODE';
-   
+
    my $last=shift @ar;
    my @ret=($last);
    foreach(@_) {
@@ -3607,13 +3607,13 @@ sub uniq($@) {
          }
       }
   return @ret;
-}         
-      
+}
+
 
 sub uniq_simple(@) {
    my (@ar)=@_;
    return () if !@ar;
-   
+
    my $last=shift @ar;
    my @ret=($last);
    foreach(@_) {
@@ -3623,16 +3623,16 @@ sub uniq_simple(@) {
          }
       }
   return @ret;
-}         
+}
 
 
 sub uniq_global(@) {
    return () if !@_;
    my %seen;
    return grep { ! $seen{$_}++ } @_;
-}         
+}
 
-      
+
 sub fisher_yates_shuffle(\@) {
    my ($array)=@_;
    my $i;
@@ -3651,10 +3651,10 @@ sub fisher_yates_shuffled(@) {
       next if $i == $j;
       @array[$i,$j] = @array[$j,$i];
       }
-   return @array;   
+   return @array;
 }
 
-  
+
 
 END { }
 
@@ -3685,31 +3685,31 @@ sub sgn0($) {
 sub sqr($) {
    my ($x)=@_;
    return $x * $x;
-}   
+}
 
 
-sub tan($) { 
+sub tan($) {
    my ($arc)=@_;
    return sin($arc)/cos($arc);
 }
 
 
-sub acos($) { 
+sub acos($) {
    my ($arc)=@_;
    return 0 if ($arc eq 1); # fix for rounding imperfection
-   atan2( sqrt(1 - $arc * $arc), $arc ) 
+   atan2( sqrt(1 - $arc * $arc), $arc )
 }
 
 
-sub asin { 
+sub asin {
    my ($arc)=@_;
-   return atan2($arc, sqrt(1 - $arc * $arc)) 
+   return atan2($arc, sqrt(1 - $arc * $arc))
 }
 
 
 sub atan {
    my ($arc)=@_;
-   
+
    return 0 if !$arc;
    return atan2(sqrt(1+sqr($arc)),sqrt(1+1/sqr($arc))) if $arc>0;
    return -atan2(sqrt(1+$_[0]*$_[0]),sqrt(1+1/($_[0]*$_[0])));
@@ -3752,7 +3752,7 @@ sub average(@) {
       $sum+=$_;
       }
    return $sum/scalar(@data);
-}      
+}
 
 
 sub linear_regression(@) {
@@ -3767,9 +3767,9 @@ sub linear_regression(@) {
    my $rel=$SS_xy/$SS_xx;
    my $abs=$y_avg-$rel*$x_avg;
    my $r=$SS_xy/sqrt($SS_xx * $SS_yy);
-   
-   return ($abs,$rel,$r);   
-} 
+
+   return ($abs,$rel,$r);
+}
 
 
 
@@ -3792,11 +3792,11 @@ sub correlation($$) {
 #         print ("($xxi,$yyi) ");
          $z[$i]+=$x->[$xxi]*$y->[$yyi];
          }
-#      print "\n";   
+#      print "\n";
       }
-   return \@z;   
-}      
-   
+   return \@z;
+}
+
 
 sub autocorrelation($) {
    my ($x)=@_;
@@ -3808,16 +3808,16 @@ sub autocorrelation($) {
          $z[$i]+=$x->[$j]*$x->[$i+$j];
          }
       }
-   return \@z;   
-}      
-   
+   return \@z;
+}
+
 
 sub convolution($$) {
    my ($x,$y)=@_;
    my @y=reverse @$y;
    return correlation($x,\@y);
-}      
-   
+}
+
 #
 #           ifx+lx-1
 #    z[i] =   sum    x[j]*y[i-j]  ;  i = ifz,...,ifz+lz-1
@@ -3840,7 +3840,7 @@ sub convolution($$) {
 #	   int lz, int ifz, float *z)
 #	int ilx=ifx+lx-1,ily=ify+ly-1,ilz=ifz+lz-1,i,j,jlow,jhigh;
 #	float sum;
-#	
+#
 #	x -= ifx;  y -= ify;  z -= ifz;
 #	for (i=ifz; i<=ilz; ++i) {
 #		jlow = i-ily;  if (jlow<ifx) jlow = ifx;
@@ -3849,24 +3849,24 @@ sub convolution($$) {
 #			sum += x[j]*y[i-j];
 #		z[i] = sum;
 #	}
-   
+
 
 
 sub is_even($) {
    my ($num)=@_;
    return 1 if int($num/2)*2 == $num;
    return 0;
-}   
+}
 
 
 sub norm_2_difference(@) {
    return sqrt(sum2(sub {sqr($_[0]-$_[1])}, @_));
-}      
+}
 
 
 sub norm_2(@) {
    return sqrt(sum( sub {sqr($_)},@_));
-}   
+}
 
 
 sub mean($) {
@@ -3877,7 +3877,7 @@ sub mean($) {
    foreach(@$ar) {
       $sum+=$_;
       }
-   return $sum/scalar(@$ar);   
+   return $sum/scalar(@$ar);
 }
 
 
@@ -3890,7 +3890,7 @@ sub stddev($$) {
      $sum+=sqr($_-$mean);
      }
   $sum/=scalar(@$ar)-1;
-  return sqrt($sum);   
+  return sqrt($sum);
 }
 
 
@@ -3908,8 +3908,8 @@ sub statistics($) {
       $sum+=$_;
       }
    my $mean=$sum/scalar(@$ar);
-   my $stddev=stddev($mean,$ar);   
-   
+   my $stddev=stddev($mean,$ar);
+
    return (
       'max'    => $max,
       'min'    => $min,
@@ -3933,28 +3933,28 @@ END {}
 ### End of inlined library Hans2::Math.
 Hans2::Math->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile::StdConf->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::File->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug::Indent->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::ManipulateStdOutErr.
 $INC{'Hans2/ManipulateStdOutErr.pm'} = './Hans2/ManipulateStdOutErr.pm';
 {
@@ -3986,8 +3986,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -3999,22 +3999,22 @@ use vars      @NON_EXPORT;
 use File::Spec;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile::StdConf->import();
 }
 
 
 sub wrap_filedescs($$$) {
    my ($func,$fh,$fhn)=@_;
-   
+
    local $_;
-   
+
    my $tmpdir=$PARAMS{$ONEPARAMFILE_TMPDIR_OPTS} || $Bin;
    my $fileno=fileno($fh) || int(rand(100));
    my $logf=File::Spec->catfile($tmpdir,"log.$Scriptbase.$fileno.$$");
@@ -4023,12 +4023,12 @@ sub wrap_filedescs($$$) {
    open(OLDERR,">&$fhn") or die "Can't dup $fhn: $!";
    close($fh);
    open($fh,">> $logf") || die "could not open $logf for writing\n";
-   
+
    my @ret=$func->();
-   
+
    close($fh);
    open($fh,">&OLDERR") or die "Can't dup OLDERR: $!";
-   
+
    my $txt;
    local *LOG;
    open(LOG,$logf) || die "could not open $logf for reading\n";
@@ -4037,7 +4037,7 @@ sub wrap_filedescs($$$) {
       }
    close(LOG);
    unlink($logf);
-   
+
    my $log_short=$txt || "";
    $log_short =~ s/[\s\r\n]+//g;
    $txt="" if !$log_short;
@@ -4045,9 +4045,9 @@ sub wrap_filedescs($$$) {
       chomp $txt;
       $txt.="\n";
       }
-   
+
    return ($txt,@ret);
-}    
+}
 
 
 sub add_output_filter($) {
@@ -4064,7 +4064,7 @@ sub add_output_filter($) {
    exit;   # if $func does not do it by itself....
 }
 
-   
+
 END {}
 
 1;
@@ -4073,7 +4073,7 @@ END {}
 ### End of inlined library Hans2::ManipulateStdOutErr.
 Hans2::ManipulateStdOutErr->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
 
@@ -4098,7 +4098,7 @@ my $has_meaningfull_hyphen_x;
               },
          \*STDOUT,
          "STDOUT"
-         );          
+         );
       my $exit=$ret >> 8;
       $stdout =~ s/\s+/ /g;
       $stderr =~ s/\s+/ /g;
@@ -4112,22 +4112,22 @@ my $has_meaningfull_hyphen_x;
       my $ind=Hans2::Debug::Indent->new("testing -x and interpreter support");
       my $tmpdir=$PARAMS{$ONEPARAMFILE_TMPDIR_OPTS} || $Bin;
       my $fn=File::Spec->catfile($tmpdir,"test.$Scriptbase.$$");
-      
+
       # a random exit value we test against
       # unfortunately, Windows does not return '-1' if it can't execute a file.
       my $test_exit=27;
-      
+
       local *F;
       open(F,"> $fn") || die "could not create $fn\n";
       print F "#!$^X -w\n";
       print F "exit $test_exit;\n";
       close F;
       chmod(0755,$fn);
-      
+
       $has_meaningfull_hyphen_x  = 0;
-      
+
       $has_meaningfull_hyphen_x  = 1 if -x $fn;
-      
+
       die "could not execute $^X $fn\n" if simple_system_quiet(quote_fn($^X)." ".quote_fn($fn))!=$test_exit;
       if(!$DEBUG) {
          unlink($fn) || die "could not delete $fn\n";
@@ -4144,7 +4144,7 @@ sub find_exe_in_path_core($) {
    return undef if !defined $file;
    return undef if $file eq "";
    # deal with absolute path
-   if(File::Spec->file_name_is_absolute($file)) {    
+   if(File::Spec->file_name_is_absolute($file)) {
       if((-f $file) && (hyphen_x($file))) {
          writedebug("absolute executable $file exists");
          return $file;
@@ -4152,7 +4152,7 @@ sub find_exe_in_path_core($) {
       else {
          writedebug("absolute filename $file is not an executable");
          return undef;
-         }   
+         }
       }
    # deal with relative path
    foreach my $dir (split($PATH_CONCAT,$ENV{'PATH'})) {   # try all elements of PATH
@@ -4162,16 +4162,16 @@ sub find_exe_in_path_core($) {
       if($file !~ /\.exe$/) {
          push @pfiles,File::Spec->catfile($dir,$file.".exe");
          }
-      foreach(@pfiles) {   
+      foreach(@pfiles) {
          if((-f $_) && (hyphen_x($_))) {
             writedebug("found executable $file in $_");
             return $_;
             }
          }
-      }   
+      }
    writedebug("did not find executable $file in $ENV{'PATH'}");
    return undef;
-}   
+}
 my %_find_exe_in_path_cache;
 my $_last_path="";
 
@@ -4187,7 +4187,7 @@ sub find_exe_in_path($) {
    my $path=find_exe_in_path_core($file);
    $_find_exe_in_path_cache{$file}=$path;
    return $path;
-}   
+}
 }
 
 
@@ -4204,13 +4204,13 @@ sub normalize_path($;$) {
          }
       my @p=sort { $p{$a} <=> $p{$b} } keys %p;
       if($valid) {
-         ref($valid) 
+         ref($valid)
             || die "normalize_path(\"$path\",\"$valid\") called: second argument should be code-ref\n";
-         ref($valid) eq 'CODE' 
+         ref($valid) eq 'CODE'
             || die "normalize_path(\"$path\",\\".ref($valid).") called: second argument should be code-ref\n";
          @p=grep {$valid->()} @p;
          }
-      return join($PATH_CONCAT,@p);   
+      return join($PATH_CONCAT,@p);
       }
 }
 
@@ -4237,7 +4237,7 @@ sub hyphen_x($) {
       }
    else {
       return ($file =~ /\.(?:exe|com|pif|sys|bat|pl|dpl)$/);
-      }   
+      }
 }
 
 
@@ -4249,7 +4249,7 @@ sub find_file($@) {
          }
       }
    return undef;
-}     
+}
 
 my %known_interpreters=(
    '.exe'  => "",
@@ -4269,7 +4269,7 @@ sub interpreter($) {
    my $ext=file_extension($executable);
    return $known_interpreters{$ext} if exists $known_interpreters{$ext};
    return;
-}   
+}
 
 
 # $doit: actual executing function which returns list of
@@ -4279,21 +4279,21 @@ sub interpreter($) {
 #         * optional STDOUT of process
 sub my_execute($$;%) {
    my ($cmd,$doit,%opts)=@_;
-   
+
    my $cwd;
-   
+
    my $working_dir     = $opts{'working_dir'};
    my $suppress_stdout = $opts{'suppress_stdout'};
    my $suppress_stderr = $opts{'suppress_stderr'};
    my $quiet           = $opts{'quiet'};
    my $executable      = $opts{'executable'};
-   
+
    my $msg="";
-   
+
    foreach (sort keys %opts) {
       $msg.="$_=$opts{$_}; ";
       }
-   $msg=" with opts $msg" if $msg;   
+   $msg=" with opts $msg" if $msg;
    my $ind=Hans2::Debug::Indent->new("trying to execute $cmd$msg from ".getcwd());
 
    if($working_dir) {
@@ -4301,20 +4301,20 @@ sub my_execute($$;%) {
      $cwd=getcwd();
      chdir($working_dir);
      }
-     
+
    if(!$executable) {
-      # try heuristics to find executable, but don't force it  
+      # try heuristics to find executable, but don't force it
       if($cmd =~ /^(\S+)/) {
          $executable=$1;
          $executable =~ s/"//g;
          $executable=undef if !find_exe_in_path($executable);
          }
       }
-   else {   
+   else {
       # make sure we really can find $executable
       $executable &&= find_exe_in_path($executable) || die "could not find $executable in PATH\n";
       }
-   
+
    initialize_interpreter_hyphen_x();
    if($executable) {
       $opts{'interpreter'} = interpreter($executable) if !exists $opts{'interpreter'};
@@ -4325,15 +4325,15 @@ sub my_execute($$;%) {
          $cmd=quote_fn($int)." $cmd";
          }
       }
-      
+
    my ($stderr,$ret,$success,$error_message,$stdout)=
        wrap_filedescs(sub {$doit->($cmd)},
                       \*STDERR,
                       "STDERR"
                       );
-   
+
    chdir($cwd) if $working_dir;
-   
+
    if(!$success) {
       my $msg="$cmd returned error";
       $msg.=": $error_message" if $error_message;
@@ -4342,31 +4342,31 @@ sub my_execute($$;%) {
          }
       else {
          warn "$msg\n";
-         }   
+         }
       }
    else {
       writedebug($error_message) if $error_message;
       writedebug("...returned success");
-      }   
+      }
 
    if($stdout) {
       if($suppress_stdout) {
          writedebug("STDOUT:\n".$stdout);
          }
-      else {   
+      else {
          writestdout($stdout);
          }
-      }   
+      }
    if($stderr) {
       if($suppress_stderr) {
          writedebug("STDERR:\n".$stderr);
          }
-      else {   
+      else {
          writestderr($stderr);
          }
-      }   
+      }
 
-   return $ret;   
+   return $ret;
 }
 
 sub exit_2_msg($) {
@@ -4385,13 +4385,13 @@ sub exit_2_msg($) {
       return $msg;
       }
    return undef;
-}   
+}
 
 # in: command
 # out: (return value, success-flag, message,stdout)
 sub my_system_core($) {
    my ($cmd)=@_;
-   
+
    my ($stdout,$ret,$msg)=
        wrap_filedescs(sub {
                          my $ret=system($cmd);
@@ -4401,7 +4401,7 @@ sub my_system_core($) {
                             }
                          else {
                             $msg="could not execute";
-                            }   
+                            }
                          $msg.=": $!" if $msg and $! and "$!";
                          return ($ret,$msg);
                          },
@@ -4412,9 +4412,9 @@ sub my_system_core($) {
    my $suc=1;
    $suc=0 if $ret!=0;
    $suc=0 if $msg;
-      
+
    return ($suc,$suc,$msg,$stdout);
-}   
+}
 
 # in: command
 # out: (return value, success-flag, message,stdout)
@@ -4425,10 +4425,10 @@ sub my_backquote_core($) {
    if($msg) {
       return (undef,0,$msg,$stdout);
       }
-   else {   
+   else {
       return ($stdout,1,"",$stdout);
       }
-}   
+}
 
 # see my_execute for meaning of options
 sub my_system($;%) {
@@ -4454,23 +4454,23 @@ sub run_nice_if($;%) {
    else {
       return my_system("nice -20 $cmd",%opts,'executable'=>'nice');
       }
-   }   
+   }
 
 
 sub exec_myself(;%) {
    my (%opts)=@_;
-   
+
    my $self=File::Spec->catfile($Bin,$Script);
    if((!-f $self) or (!hyphen_x($self))) {
       warn "Trying to re-execute myself, but this executable ($self) is not available right now.\n";
       return 0;
       }
-   
+
    my $envv="EXECMYSELF_".$Scriptbase;
    if(!$opts{'no_check_env'}) {
       die "looping exec(".File::Spec->catfile($Bin,$Script).") detected. Bailing. ".
           "Please contact the author at $author_email\n" if $ENV{$envv};
-      }    
+      }
    $ENV{$envv}=time();
    my @args=($self,@ARGV);
    initialize_interpreter_hyphen_x();
@@ -4480,7 +4480,7 @@ sub exec_myself(;%) {
    my $ret=exec { $args[0] } @args;
    $ret || die "could not execute $msg\n";
    die "exec($msg) returned true????\n";
-}   
+}
 
 
 sub find_x11_geometry() {
@@ -4495,7 +4495,7 @@ sub find_x11_geometry() {
       writedebug("DISPLAY set to $ENV{'DISPLAY'} but could not connect to it.");
       return;
       }
-    my $xdpy=my_backquote("xdpyinfo", 
+    my $xdpy=my_backquote("xdpyinfo",
                  'suppress_stdout'=> 1,
                  'suppress_stderr'=> 1,
                  'executable'     => 'xdpyinfo'
@@ -4511,12 +4511,12 @@ sub find_x11_geometry() {
        writedebug("the \"dimensions:...\" line in xdpyinfos output was not understandable ($xdpy)");
        return;
        }
-    my $geometry=$1;   
+    my $geometry=$1;
     writedebug("got geometry $geometry from xdpyinfo");
     return $geometry;
 }
-   
-   
+
+
 END {}
 
 1;
@@ -4525,7 +4525,7 @@ END {}
 ### End of inlined library Hans2::System.
 Hans2::System->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::UpdateMyself.
 $INC{'Hans2/UpdateMyself.pm'} = './Hans2/UpdateMyself.pm';
 {
@@ -4558,8 +4558,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -4573,34 +4573,34 @@ my $versions_file_cache_expiration=60*60*24;
 use File::Spec;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::WebGet->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::File->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::System->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::ParseVersionList.
 $INC{'Hans2/ParseVersionList.pm'} = './Hans2/ParseVersionList.pm';
 {
@@ -4631,8 +4631,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -4641,13 +4641,13 @@ use vars      @EXPORT_OK;
 #non exported package globals
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::MonthNames.
 $INC{'Hans2/MonthNames.pm'} = './Hans2/MonthNames.pm';
 {
@@ -4679,8 +4679,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -4704,7 +4704,7 @@ use vars      @NON_EXPORT;
    'Nov',
    'Dec',
    );
-   
+
 @LONG=(
    '',
    'January',
@@ -4720,19 +4720,19 @@ use vars      @NON_EXPORT;
    'November',
    'December',
    );
-   
+
 my $i=0;
 foreach my $mn (@SHORT) {
    $STR_2_NUM{$mn}=$i;
    $i++;
-   }   
-   
-$i=0;   
+   }
+
+$i=0;
 foreach my $mn (@LONG) {
    $STR_2_NUM{$mn}=$i;
    $i++;
-   }   
-   
+   }
+
 
 END {}
 
@@ -4742,7 +4742,7 @@ END {}
 ### End of inlined library Hans2::MonthNames.
 Hans2::MonthNames->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
 
@@ -4752,40 +4752,40 @@ sub parse_version_list($) {
    my ($txt)=@_;
 
    return if !$txt;
-   
+
    my @ret=grep {$_} map {s/#.*//;s/^\s+//;s/\s+$//;$_} split("\n",$txt);
    my %ret;
    foreach(@ret) {
-      /^([\w\-]+)\s+(\S+)\s*(.*)/ || 
+      /^([\w\-]+)\s+(\S+)\s*(.*)/ ||
          die "did not understand line $_ in versions file. Please notify ".
              "the author at $author_email\n";
       $ret{$1}=[$2,$3];
       }
    # now %ret contains
-   #  component -> [ version, other info ]   
-   
+   #  component -> [ version, other info ]
+
    my %data;
-   
+
    foreach my $comp_name (keys %ret) {
-   
+
       my $comp=$ret{$comp_name};
-      
+
       my $version=$comp->[0];
 
       $comp=$comp->[1];
       my %comp=anglebracketoptions_decode($comp);
-      
+
       # process last_change_short and last_change_long
       if($comp{'last_change_short'}) {
-         $comp{'last_change_short'} =~ /^(\d\d) (\w+) (\d\d\d\d)$/ 
+         $comp{'last_change_short'} =~ /^(\d\d) (\w+) (\d\d\d\d)$/
             or die "could not understand last_change_short for $comp_name\n";
          my ($day,$mon_short,$year)=($1,$2,$3);
          my $mn=$Hans2::MonthNames::STR_2_NUM{$mon_short};
          my $mon_long=$Hans2::MonthNames::LONG[$mn];
          $comp{'last_change_long'}="$day $mon_long $year";
-         }   
-      
-      #process version   
+         }
+
+      #process version
       $comp{'version'}=$version;
       $comp{'v_version'}=versionstring_2_vstring($version);
       if($comp{'effective_version'}) {
@@ -4794,13 +4794,13 @@ sub parse_version_list($) {
       else {
          $comp{'effective_version'}  =$comp{'version'};
          $comp{'v_effective_version'}=$comp{'v_version'};
-         }   
-      
+         }
+
       $data{$comp_name}=\%comp;
       }
-      
+
    return %data;
-}      
+}
 
 
 END {}
@@ -4845,14 +4845,14 @@ sub my_getwebpage($$) {
       }
    return 0 if ! rename($tmp_file,$file);
    return 1;
-}   
+}
 
 
 sub updatemyself() {
    my $autoupdate=$PARAMS{$ONEPARAMFILE_UPDATE_OPTS};
    $autoupdate=1 if !defined $autoupdate;
    return 1 if !$autoupdate;
-   
+
    die "updatemyself: don\'t know where to download version info\n" if !$dl_base or !$current_versions_file;
 
    my $ret=get_webpage($current_versions_file,
@@ -4862,14 +4862,14 @@ sub updatemyself() {
       writedebug("$current_versions_file is empty or non-existant");
       return undef;
       }
-      
-   my %data=parse_version_list($ret);   
-      
+
+   my %data=parse_version_list($ret);
+
    if(!$data{$Scriptbase}) {
       writedebug("could not find a record corresponding to $Scriptbase in $current_versions_file");
-      return undef;           
+      return undef;
       }
-   %data=%{$data{$Scriptbase}};   
+   %data=%{$data{$Scriptbase}};
    my $updatenotice=$data{'update_notice'};
 
    my $my_version=$main::VERSION || die "$Script: no \$VERSION defined\n";
@@ -4887,20 +4887,20 @@ sub updatemyself() {
     $msg.="$my_version < $current_version";
     writedebug($msg);
     }
-   
+
    if(exists $data{'silent'}) {
       return 0;
       }
-      
+
    if(exists $data{'only_warn'}) {
       my $msg="At $dl_base, version $current_version of $Script is available. ";
       $msg.="Changes to your version: ".$updatenotice.". " if $updatenotice;
       $msg.="You are running $my_version. Updating is recommanded. ".
            "Unfortunately, I can\'t update your installation automatically. Sorry.";
-      warn $msg."\n";     
+      warn $msg."\n";
       return 0;
       }
-      
+
    my @to_download=$Script;
    if($data{'others'}) {
       my @others=map {s/^\s+//;s/\s+$//;$_} split(",",$data{'others'});
@@ -4909,8 +4909,8 @@ sub updatemyself() {
    {  my $msg="At $dl_base, version $current_version of $Script is available. ";
       $msg.="Changes to your version: ".$updatenotice.". " if $updatenotice;
       $msg.="You are running $my_version. Will try updating automatically.";
-      warn $msg."\n";       
-      }     
+      warn $msg."\n";
+      }
    foreach(@to_download) {
       my $file=File::Spec->catfile($Bin,$_);
       my $url=$dl_base.$_;
@@ -4918,11 +4918,11 @@ sub updatemyself() {
          warn "could not download ${dl_base}$_, can\'t update myself\n";
          return undef;
          }
-      else {   
+      else {
          warn "    $url -> $file\n";
          }
       }
-   warn "Hold on tight...\n";   
+   warn "Hold on tight...\n";
    exec_myself();
 }
 
@@ -4934,16 +4934,16 @@ END {}
 ### End of inlined library Hans2::UpdateMyself.
 Hans2::UpdateMyself->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Hans2::StringNum.
 $INC{'Hans2/StringNum.pm'} = './Hans2/StringNum.pm';
 {
@@ -4967,25 +4967,25 @@ BEGIN {
 
         @ISA         = qw(Exporter);
         @EXP_VAR     = qw(
-                       ); 
+                       );
         @EXPORT      = (qw(
                        &sprintf_num_locale
-                       &getnum 
+                       &getnum
                        &makenum
-                       &is_numeric 
+                       &is_numeric
                        &not_numeric
                        ),@EXP_VAR);
         %EXPORT_TAGS = ();     # eg: TAG => [ qw!name1 name2! ],
 
         # your exported package globals go here,
         # as well as any optionally exported functions
-#        @EXPORT_OK     = qw($MY_STDOUT $MY_STDERR $MY_STDIN $PROGRAM $PROGRAM_UC); 
+#        @EXPORT_OK     = qw($MY_STDOUT $MY_STDERR $MY_STDIN $PROGRAM $PROGRAM_UC);
         @EXPORT_OK   = qw();
         @NON_EXPORT  = qw(
-                         ); 
-        
-        
-}        
+                         );
+
+
+}
 
 use vars      @EXP_VAR;
 use vars      @EXPORT_OK;
@@ -5003,13 +5003,13 @@ sub sprintf_num_locale($$;$) {
       # only bother changing locales if it would really change anything
       setlocale(LC_NUMERIC, $locale);
       my $ret=sprintf($format,$num);
-      setlocale(LC_NUMERIC, $old_locale); 
+      setlocale(LC_NUMERIC, $old_locale);
       return $ret;
       }
    else {
       return sprintf($format,$num);
-      }   
-}      
+      }
+}
 
 # try to interpret the string as a number. return undef if no success
 sub getnum_simple($) {
@@ -5029,26 +5029,26 @@ sub getnum_simple($) {
       }
    else {
       return $num;
-      } 
-} 
+      }
+}
 
 
 sub getnum($) {
    my ($str)=@_;
-   
+
    my $ret;
-   
+
    $ret=getnum_simple($str);
    return $ret if defined $ret;
-   
+
    my $old_locale=setlocale(LC_NUMERIC);
    if($old_locale ne 'C') {
       # only bother changing locales if it would really change anything
       setlocale(LC_NUMERIC, 'C');
       $ret=getnum_simple($str);
-      setlocale(LC_NUMERIC, $old_locale); 
+      setlocale(LC_NUMERIC, $old_locale);
       }
-   
+
    return $ret;
 }
 
@@ -5061,8 +5061,8 @@ sub makenum($$) {
 }
 
 
-sub is_numeric($) { defined getnum($_[0]) }   
-sub not_numeric($) { ! defined getnum($_[0]) }   
+sub is_numeric($) { defined getnum($_[0]) }
+sub not_numeric($) { ! defined getnum($_[0]) }
 
 
 END {
@@ -5076,7 +5076,7 @@ END {
 Hans2::StringNum->import();
 }
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Xplanet::Xplanet.
 $INC{'Xplanet/Xplanet.pm'} = './Xplanet/Xplanet.pm';
 {
@@ -5111,8 +5111,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5127,41 +5127,41 @@ use File::Basename;
 use File::Spec;
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::Cwd->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Units->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Math->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::System->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::File->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::DataConversion->import();
 }
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Xplanet::StdConf.
 $INC{'Xplanet/StdConf.pm'} = './Xplanet/StdConf.pm';
 {
@@ -5194,8 +5194,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5206,10 +5206,10 @@ use vars      @NON_EXPORT;
 
 use File::Spec;
 
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
 
@@ -5282,15 +5282,15 @@ sub add_xplanet_path() {
          $ENV{'PATH'}=normalize_path($ENV{'PATH'});
          }
       }
-}      
+}
 
 my $_have_checked_xplanet_version=0;
 sub check_xplanet_version() {
    return if $_have_checked_xplanet_version;
    $_have_checked_xplanet_version=1;
    %PARAMS || die "check_xplanet_version() called before config file is parsed\n";
-   my $xplanet_executable=  find_exe_in_path($PARAMS{$ONEPARAMFILE_XPLANET_OPTS}) 
-                         || find_exe_in_path("xplanet") 
+   my $xplanet_executable=  find_exe_in_path($PARAMS{$ONEPARAMFILE_XPLANET_OPTS})
+                         || find_exe_in_path("xplanet")
                          || die "Could not find xplanet executable in path $ENV{'PATH'}. Try setting XPLANET_EXECUTABLE in the xplanet.conf configuration file to the absolute path.\n";
    my $xplanet_v=my_backquote("$xplanet_executable -version",'suppress_stderr' => 1);
    if(!$xplanet_v) {
@@ -5303,15 +5303,15 @@ sub check_xplanet_version() {
          }
       else {
          die "xplanet version $v not supported. Sorry\n";
-         }   
+         }
       }
    else {
       die "could not understand the\"xplanet -version\" output. ".
           "Maybe you are running a non-supported version? ".
           "Please write the author $author_name at $author_email and ".
           "include the output of \"xplanet -version\". Thanks.\n";
-      }   
-}      
+      }
+}
 
 
 
@@ -5340,7 +5340,7 @@ sub xplanet_script_2_file($) {
          return $s;
          }
       }
-   writedebug("no script $script found");   
+   writedebug("no script $script found");
    $_xs2f{$script}=undef;
    return undef;
 }
@@ -5349,9 +5349,9 @@ sub xplanet_script_2_file($) {
 
 sub execute_xplanet_script($$;%) {
    my ($script,$command,%opts)=@_;
-   
+
    check_xplanet_version();
-   
+
    my $xplanet_dir=$PARAMS{$ONEPARAMFILE_DIR_OPTS} || $Bin;
    add_xplanet_path();
 
@@ -5360,7 +5360,7 @@ sub execute_xplanet_script($$;%) {
       warn "could not find script $script\n";
       return undef;
       }
-            
+
    $opts{'executable'} = $script_abs;
    my $cmd=quote_fn($script_abs);
    $cmd.=" $command" if $command;
@@ -5388,7 +5388,7 @@ sub xplanetcmd_2_opts($) {
    $cmd =~ s/-output (\S+)//      and $opts{'output'}=$1;
    $cmd =~ s/-mapdir (\S+)//      and $opts{'mapdir'}=$1;
    $cmd =~ s/-fontdir (\S+)//     and $opts{'fontdir'}=$1;
-   
+
    # get rid of " at start/end of options
    foreach my $key (keys %opts) {
       my $val=$opts{$key};
@@ -5397,10 +5397,10 @@ sub xplanetcmd_2_opts($) {
          $val =~ s/"$//;
          $opts{$key}=$val;
          }
-      }   
-   
+      }
+
    return ($cmd,%opts);
-}   
+}
 
 # in: command line; options hash
 # out: complete command line, ready for execution
@@ -5421,10 +5421,10 @@ sub opts_2_xplanetcmd($%) {
          }
       else {
          $cmd.=" -$key ".quote_fn($val);
-         }   
+         }
       }
    return $cmd;
-}   
+}
 
 
 sub execute_xplanet($%) {
@@ -5435,16 +5435,16 @@ sub execute_xplanet($%) {
    my $xplanet_dir=$PARAMS{$ONEPARAMFILE_DIR_OPTS} || $Bin;
    add_xplanet_path();
 
-   my $xplanet_executable=  find_exe_in_path($PARAMS{$ONEPARAMFILE_XPLANET_OPTS}) 
-                         || find_exe_in_path("xplanet") 
+   my $xplanet_executable=  find_exe_in_path($PARAMS{$ONEPARAMFILE_XPLANET_OPTS})
+                         || find_exe_in_path("xplanet")
                          || die "Could not find xplanet executable in path $ENV{'PATH'}. Try setting XPLANET_EXECUTABLE in the xplanet.conf configuration file to the absolute path.\n";
 
-   # check validity of $cmd 
+   # check validity of $cmd
    {
    my ($cmd,%opts2)=xplanetcmd_2_opts($cmd);
    %opts2 && die "options ".join(", ",sort keys %opts2)." given directly to execute_xplanet()\n";
    }
-   
+
    # unpack mandatory and optional parameters
    my $out        = $opts{'output'}      || die "no output specified for xplanet command\n";
    my $day_image  = $opts{'image'}       || die "no day image specified for xplanet command\n";
@@ -5452,11 +5452,11 @@ sub execute_xplanet($%) {
    my $font       = $opts{'font'};
 
    # -mapdir, -fontdir
-   my $xpl_im=File::Spec->catdir($xplanet_dir,"images");  
-   my $xpl_fn=File::Spec->catdir($xplanet_dir,"fonts");  
+   my $xpl_im=File::Spec->catdir($xplanet_dir,"images");
+   my $xpl_fn=File::Spec->catdir($xplanet_dir,"fonts");
    $opts{'mapdir'}=$xpl_im;
    $opts{'fontdir'}=$xpl_fn;
-   
+
    # -output
    my $test_out=$out;
    my $ext=file_extension($test_out);
@@ -5465,38 +5465,38 @@ sub execute_xplanet($%) {
    if(-f $test_out) {
       unlink($test_out) || die "could not delete $test_out\n";
       }
-   die "could not delete $test_out\n" if -e $test_out;   
+   die "could not delete $test_out\n" if -e $test_out;
    if(-f $out) {
       unlink($out) || die "could not delete $out\n";
       }
-   die "could not delete $out\n" if -e $out;   
+   die "could not delete $out\n" if -e $out;
    $opts{'output'}=$test_out;
-   
+
    # -image
    my $day_image_full=$day_image;
-   $day_image_full=File::Spec->catfile($xpl_im,$day_image) 
+   $day_image_full=File::Spec->catfile($xpl_im,$day_image)
       if !File::Spec->file_name_is_absolute($day_image);
    if(!test_file_really_accessible($day_image_full)) {
-      warn "day image $day_image given, but not accessible\n"; 
+      warn "day image $day_image given, but not accessible\n";
       return 0;
       }
 
    # -night_image
    if($night_image) {
       my $night_image_full=$night_image;
-      $night_image_full=File::Spec->catfile($xpl_im,$night_image) 
+      $night_image_full=File::Spec->catfile($xpl_im,$night_image)
          if !File::Spec->file_name_is_absolute($night_image);
       if(!test_file_really_accessible($night_image_full)) {
          warn "night image $night_image given, but not accessible\n";
          return 0;
          }
       }
-      
-   # -font   
+
+   # -font
    if($font) {
-      die "-font $font given, but that font file is not accessible to me\n" 
+      die "-font $font given, but that font file is not accessible to me\n"
          if !test_file_really_accessible(File::Spec->catfile($xpl_fn,$font));
-      }          
+      }
 
    $cmd=opts_2_xplanetcmd($cmd,%opts);
 
@@ -5506,14 +5506,14 @@ sub execute_xplanet($%) {
                       );
 
    return $ret if !$ret;
-   
-   return undef if !test_file_really_accessible($test_out);
-   rename($test_out,$out) || die "could not rename $test_out to $out\n";   
-   chmod(0644,$out)       || die "could not chmod(644,$out)\n";  
 
-   return $ret;          
+   return undef if !test_file_really_accessible($test_out);
+   rename($test_out,$out) || die "could not rename $test_out to $out\n";
+   chmod(0644,$out)       || die "could not chmod(644,$out)\n";
+
+   return $ret;
 }
-   
+
 END {}
 
 1;
@@ -5522,10 +5522,10 @@ END {}
 ### End of inlined library Xplanet::Xplanet.
 Xplanet::Xplanet->import();
 }
-BEGIN { 
+BEGIN {
 Xplanet::StdConf->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Xplanet::HomeLocation.
 $INC{'Xplanet/HomeLocation.pm'} = './Xplanet/HomeLocation.pm';
 {
@@ -5558,8 +5558,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5570,26 +5570,26 @@ use vars      @NON_EXPORT;
 
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::Math->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::StringNum->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Geo::SingleLocator.
 $INC{'Geo/SingleLocator.pm'} = './Geo/SingleLocator.pm';
 {
@@ -5619,8 +5619,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5629,20 +5629,20 @@ use vars      @EXPORT_OK;
 #non exported package globals
 use vars      @NON_EXPORT;
 
-BEGIN { 
+BEGIN {
 Hans2::Algo->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::OneParamFile::StdConf->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::FindBin->import();
 }
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Geo::Locator.
 $INC{'Geo/Locator.pm'} = './Geo/Locator.pm';
 {
@@ -5683,8 +5683,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5695,26 +5695,26 @@ use vars      @NON_EXPORT;
 
 use filetest 'access';
 
-BEGIN { 
+BEGIN {
 Hans2::Util->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Package->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Math->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Debug::Indent->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::File->import();
 }
 
-BEGIN { 
+BEGIN {
 ### Start of inlined library Xplanet::StringNum.
 $INC{'Xplanet/StringNum.pm'} = './Xplanet/StringNum.pm';
 {
@@ -5748,8 +5748,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -5760,13 +5760,13 @@ use vars      @NON_EXPORT;
 
 use File::Spec;
 
-BEGIN { 
+BEGIN {
 Hans2::StringNum->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Math->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Units->import();
 }
 
@@ -5794,7 +5794,7 @@ sub print_name($) {
 
 sub distspec2deg($) {
    my ($dist)=@_;
-   
+
    return undef if !defined $dist;
    return undef if $dist eq '';
 
@@ -5810,10 +5810,10 @@ sub distspec2deg($) {
       }
    elsif(is_numeric($dist)) {
       return getnum($dist);
-      }   
+      }
    else {
       return undef;
-      }   
+      }
 }
 
 END {}
@@ -5829,7 +5829,7 @@ sub markerlist_2_array($$) {
    my ($xplanet_markers_dir,$str)=@_;
    my $ind=Hans2::Debug::Indent->new("configured marker files: $str");
    my @earth_m_fn            = split(/\s+/,$str);
-   @earth_m_fn               = map {my_glob($xplanet_markers_dir,$_)} @earth_m_fn; 
+   @earth_m_fn               = map {my_glob($xplanet_markers_dir,$_)} @earth_m_fn;
    writedebug("configured marker filenames: ".join(", ",@earth_m_fn));
    {  my @emf;
       foreach(@earth_m_fn) {
@@ -5838,10 +5838,10 @@ sub markerlist_2_array($$) {
          writedebug("found marker file $_");
          push @emf,$_;
          }
-      @earth_m_fn=@emf;   
+      @earth_m_fn=@emf;
    }
-}         
-   
+}
+
 
 # object fields:
 #
@@ -5870,7 +5870,7 @@ sub markerlist_2_array($$) {
 #     'cache'                => local cache file to use
 #     'zone.tab'             => zone.tab timezone file to use
 #     'markers'              => array of xplanet-style marker files to use
-#     'cache_is_absolute'    => usually the cache file specified above has 
+#     'cache_is_absolute'    => usually the cache file specified above has
 #                               the name of the executing script attached.
 #                               If this is set, don't do that.
 #
@@ -5909,7 +5909,7 @@ sub markerlist_2_array($$) {
 #
 #         * get_trusted(city) returns an array of information hashes
 #           city is optional. If not specified, the value stored inside the object is taken
-#           Has only the exact match as its element, if it is found. 
+#           Has only the exact match as its element, if it is found.
 #           If not, returns all substring matches
 #
 # add a required data source with $self->add_module(module, module, ...) : returns number added
@@ -5934,7 +5934,7 @@ sub markerlist_2_array($$) {
 # get/set detail filter with $self->detail()
 
 #
-# Programming Information: 
+# Programming Information:
 #
 # the "information hash" datatype we use has the following keys:
 #     * lat          latitude
@@ -5964,11 +5964,11 @@ sub markerlist_2_array($$) {
 #
 #   * multi search: $self->match_multi($city) returns array of ref to hash of matches
 #
-#   * reverse lookup: 
+#   * reverse lookup:
 #
-#           $self->nearest($qlat,$qlong) returns nearest location from ($qlat,$qlong) 
+#           $self->nearest($qlat,$qlong) returns nearest location from ($qlat,$qlong)
 #
-#           $self->near($qlat,$qlong,$angle) returns array of locations in circle of 
+#           $self->near($qlat,$qlong,$angle) returns array of locations in circle of
 #               $angle distance around ($qlat, $qlong)
 #
 #   * dump: $self->dump() returns array of information hashes
@@ -5993,23 +5993,23 @@ my %permitted=( 'city'          => 1,
 # support it
 my %hand_thru=( 'loctype'       => 1,
                 'detail'        => 1,
-                );                
+                );
 # fields that are read-only to the public
 my %ro_fields=( 'package_prefix'       => 1,
-                );          
+                );
 # fields we hand-thru to module initialization
 my %init_fields=( 'cache'             => 1,
                   'zone.tab'          => 1,
                   'markers'           => 1,
                   'cache_is_absolute' => 1,
-    );                      
+    );
 sub AUTOLOAD {
    my ($self,$arg) = @_;
    my $type = ref($self) || die("$self is not an object\n");
 
    my $name = $AUTOLOAD;
    $name =~ s/.*://;   # strip fully-qualified portion
-   
+
    # deal with hand-thru public fields
    if($hand_thru{$name}) {
       if(defined $arg) {
@@ -6019,15 +6019,15 @@ sub AUTOLOAD {
             $src->{$name}=$arg;
             }
          }
-      return $self->{$name}      
+      return $self->{$name}
       }
    # deal with simple public fields
-   if($permitted{$name}) {    
+   if($permitted{$name}) {
       $self->{$name} = $arg if defined $arg;
       return $self->{$name};
       }
    # deal with read-only fields
-   if($ro_fields{$name}) {    
+   if($ro_fields{$name}) {
       die "You are not permitted to change the $name field in objects of type $type\n" if defined $arg;
       return $self->{$name};
       }
@@ -6057,17 +6057,17 @@ sub resolve_dups($@) {
    my @uniq = ();
    push @uniq, shift @hits;   # shift, not pop!
    # these are both arrays of information hashes
-   HIT: 
+   HIT:
    foreach my $hit (@hits) { # do not use reverse to keep trust priority!
       foreach my $uniq_hit (@uniq) {
          my $dist=angle_difference($hit->{'lat'},$uniq_hit->{'lat'},$hit->{'long'},$uniq_hit->{'long'});
          if ( $dist < $self->{'angle_diff'} ) {
-             # which of $hit and $uniq_hit should we choose?     
+             # which of $hit and $uniq_hit should we choose?
              my $new_c=$hit->{'match'};
              my $old_c=$uniq_hit->{'match'};
              # if the new string is shorter, use that record
              if(length($new_c) < length($old_c)) {
-                ($uniq_hit,$hit)=($hit,$uniq_hit);   
+                ($uniq_hit,$hit)=($hit,$uniq_hit);
                 }
              writedebug("omitting $hit->{'match'} [ $hit->{'lat'} $hit->{'long'} ]");
              writedebug("        :conflict with $uniq_hit->{'match'} [ $uniq_hit->{'lat'} $uniq_hit->{'long'} ] which is ".sprintf("%3.4f",$dist)." degrees away");
@@ -6088,26 +6088,26 @@ sub resolve_dups($@) {
 # out: created object or undef if error
 sub create_source($$;%) {
    my($self,$src,%args)=@_;
-   
+
    my $module=$self->{'package_prefix'}."::".$src;
-   
+
    if(!try_to_load($module)) {
       writedebug("trying to load $module module failed");
       return undef;
       }
-   
+
    my $obj;
-   
-   eval {$obj=$module->new(%args);};   # if no new() method exists its likely not a 
+
+   eval {$obj=$module->new(%args);};   # if no new() method exists its likely not a
                                        # module. Silently return undef in that case
-                                       
+
    if($@) {
       writedebug("trying to create $src plugin: $@");
       return undef;
       }
-   
+
    writedebug("Created a $module object");
-   
+
    return $obj;
 }
 
@@ -6117,30 +6117,30 @@ sub create_source($$;%) {
 # return number of sources added
 sub check_modules($) {
    my ($self)=@_;
-   
+
    my $ret=0;
-   
+
    my %modules=%{$self->{'modules'}};
-   
+
    # default constructor arguments
    my %arg;
    foreach(keys %init_fields) {
       $arg{$_}=$self->{$_};
       }
-   # make sure all hand-through fields get propagated         
+   # make sure all hand-through fields get propagated
    foreach my $field (keys %hand_thru) {
       next if !exists $self->{$field};
       $arg{$field}=$self->{$field};
-      }            
-   
+      }
+
    foreach my $mod (keys %modules) {
       my $src1=$modules{$mod};
       if((!$src1)||(!ref($src1))){  # all sources that are not there yet
          my $ind=Hans2::Debug::Indent->new("Trying to create a $mod plugin");
          my $src=$self->create_source($mod,%arg);
-         
+
          next if !$src;  # if we did not succeed, i.e. not found or is not an object
-         
+
          # now we should do some sanity checking on the newly created module
          # right now we just test that capabilities() and capabilities(){'description'} are there
          my $cap;
@@ -6152,19 +6152,19 @@ sub check_modules($) {
          if(!$cap) {
             writedebug($mod."->capabilities() returned nothing");
             next;
-            }   
+            }
          if(!%$cap) {
             writedebug($mod."->capabilities() returned empty hash");
             next;
-            }   
+            }
          if(!$cap->{'description'}) {
             writedebug($mod."->capabilities() returned a hash that does not contain a \"description\" field");
             next;
-            }   
-         
+            }
+
          writedebug("Succeeded in creating a $mod plugin");
          $ret++;
-         
+
          # and register it in our data structures
          $self->{'modules'}->{$mod}=$src;
          push @{$self->{'sources'}},$src;
@@ -6179,17 +6179,17 @@ sub check_modules($) {
          writedebug("Give up on creating a $mod plugin");
          }
       }
-      
-   return $ret;   
-}         
+
+   return $ret;
+}
 
 # initializing
 sub init($) {
    my ($self)=@_;
-   
+
    $self->check_modules();
-   
-}   
+
+}
 
 ############################################################################
 #
@@ -6204,9 +6204,9 @@ sub init($) {
 # action: looks the coordinates of the city up : exact search
 sub get_exact($;$) {
    my ($self,$city)=@_;
-   
+
    $city ||= $self->{'city'};
-   
+
    foreach my $src (@{$self->{'sources'}}){
       next if ! $src->capabilities()->{'exact'};
       my %match = $src->match_exact($city);
@@ -6231,7 +6231,7 @@ sub get_exact($;$) {
 # return () if no results at all
 sub get_multi($;$) {
    my ($self,$city)=@_;
-   
+
    $city ||= $self->{'city'};
 
    # only [uppercase letter][lowercase letter][upper and lowercase letters or spaces]
@@ -6242,7 +6242,7 @@ sub get_multi($;$) {
       }
 
    my @hits;
-   
+
    foreach my $src (@{$self->{'sources'}}) {
       next if ! $src->capabilities()->{'multi'};
       push @hits,$src->match_multi($city);
@@ -6274,14 +6274,14 @@ sub get_trusted($;$) {
       }
 
    # There are no exact hits.
-   
+
    my @hits=$self->get_multi($city);
    if(!@hits) {
       writedebug("Looking trusted for \"$city\": no matches");
       return ();
       }
-   
-   # At this stage we could try to see if a majority of matches 
+
+   # At this stage we could try to see if a majority of matches
    # point to a specific area (i.e. aliasing of names) and assume that
    # particular area is the best to choose.
    #
@@ -6303,39 +6303,39 @@ sub get_trusted($;$) {
 # out: information hash
 sub nearest($;$$) {
    my ($self,$qlat,$qlong) = @_;
-   
+
    $qlat  = $self->{'qlat'}  if !defined $qlat;
    $qlong = $self->{'qlong'} if !defined $qlong;
-   
+
    writedebug("Looking for nearest to [$qlat, $qlong]");
 
    my @hits;
-   
+
    # get the nearest for each source
    foreach my $src (@{$self->{'sources'}}){
       next if ! $src->capabilities()->{'nearest'};
       my %match = $src->nearest($qlat,$qlong);
       die "Source ".ref($src)." failed to return a nearest neighbor to ($qlat,$qlong)\n" if !%match;
-      push @hits,\%match; 
+      push @hits,\%match;
       }
-      
-   return () if !@hits;   
-      
-   # and look for the nearest among them   
-   my $nearest=shift @hits;   
+
+   return () if !@hits;
+
+   # and look for the nearest among them
+   my $nearest=shift @hits;
    foreach my $hit (@hits) {
       $nearest=$hit if $hit->{'dist'} < $nearest->{'dist'};
       }
 
    return %$nearest;
-}   
+}
 
 # in: (latitude, longitude, angle) asked
 #
 # out: array of information hashes
 sub near($;$$$) {
    my ($self,$qlat,$qlong,$angle) = @_;
-   
+
    $qlat  = $self->{'qlat'}          if !defined $qlat;
    $qlong = $self->{'qlong'}         if !defined $qlong;
    $angle = $self->{'reverse_angle'} if !defined $angle;
@@ -6343,7 +6343,7 @@ sub near($;$$$) {
    writedebug("Looking for near ($angle) to [$qlat, $qlong]");
 
    my @hits;
-   
+
    foreach my $src (@{$self->{'sources'}}){
       next if ! $src->capabilities()->{'near'};
       my @match = $src->near($qlat,$qlong,$angle);
@@ -6351,7 +6351,7 @@ sub near($;$$$) {
       }
 
    return @hits;
-}   
+}
 
 ############################################################################
 #
@@ -6364,12 +6364,12 @@ sub near($;$$$) {
 # out: array of hashes
 sub lookup_forward($;$$) {
    my ($self,$city,$smode)=@_;
-   
+
    $city  ||= $self->{'city'};
    $smode ||= $self->{'smode'};
-   
+
    my @hits;
-   
+
    if($smode eq '1') {
       my %match=$self->get_exact($city);
       @hits=(\%match) if %match;
@@ -6382,10 +6382,10 @@ sub lookup_forward($;$$) {
       }
    else {
       die "Unknown search mode $smode\n";
-      }   
-   
+      }
+
    return @hits;
-   
+
 }
 
 # in: qlat, qlong, reverse angle
@@ -6393,23 +6393,23 @@ sub lookup_forward($;$$) {
 # out: array of info hashes
 sub lookup_reverse($;$$$) {
    my ($self,$qlat,$qlong,$revang)=@_;
-   
+
    $qlat  = $self->{'qlat'}          if !defined $qlat;
    $qlong = $self->{'qlong'}         if !defined $qlong;
    $revang= $self->{'reverse_angle'} if !defined $revang;
-   
+
    my @hits;
-   
+
    if($revang) {
       @hits=$self->near($qlat,$qlong,$revang);
       }
    else {
       my %match=$self->nearest($qlat,$qlong);
       @hits=(\%match) if %match;
-      }   
-      
+      }
+
    return @hits;
-   
+
 }
 
 ############################################################################
@@ -6423,7 +6423,7 @@ sub lookup_reverse($;$$$) {
 # out: array of hashes
 sub lookup($) {
    my ($self)=@_;
-   
+
    if($self->{'mode'} eq 'r') {
       return $self->lookup_reverse();
       }
@@ -6432,7 +6432,7 @@ sub lookup($) {
       }
    else {
       die "Unknown lookup mode $self->{'mode'}\n";
-      }   
+      }
 
 }
 
@@ -6450,25 +6450,25 @@ sub dump_locations($) {
    my ($self)=@_;
 
    my @cities;
-   
+
    foreach my $src (@{$self->{'sources'}}) {
       next if ! $src->capabilities()->{'dump'};
       push @cities, $src->dump();
       }
 
-   return @cities;   # success   
+   return @cities;   # success
 }
 
 # constructor
 sub new($%) {
    my ($proto,%arg) = @_;
-   
+
    my $class = ref($proto) || $proto;
 
    my $self  = \%arg;
 
    bless ($self, $class);
-   
+
    my $ind=Hans2::Debug::Indent->new("Constructing a Geo::Locator object");
 
    # default values
@@ -6476,12 +6476,12 @@ sub new($%) {
    $self->{'smode'}        ||= '1';
    $self->{'angle_diff'}     = 2  if !defined $self->{'angle_diff'};
    $self->{'reverse_angle'}  = 0  if !defined $self->{'reverse_angle'};
-   $self->{'qlat'}           = 90 if !defined $self->{'qlat'};  
-   $self->{'qlong'}          = 0  if !defined $self->{'qlong'};  
+   $self->{'qlat'}           = 90 if !defined $self->{'qlat'};
+   $self->{'qlong'}          = 0  if !defined $self->{'qlong'};
    $self->{'city'}         ||= 'london';
-   
+
    $self->{'package_prefix'}=$package_prefix;
-   
+
    # get the list of modules to preload
    my %modules;
    my $mods=$self->{'modules'};
@@ -6492,59 +6492,59 @@ sub new($%) {
             }
          else {
             die "argument \"modules\" to constructor Geo::Locator::new() must be array reference, not of type ".ref($mods)."\n";
-            }   
+            }
          }
       else {
          die "argument \"modules\" to constructor Geo::Locator::new() must be array reference, not scalar $mods\n";
-         }      
+         }
       }
-   $self->{'modules'}=\%modules;   
-   $self->{'sources'}=[];   
-   
+   $self->{'modules'}=\%modules;
+   $self->{'sources'}=[];
+
    $self->init();
-   
+
    writedebug("Done constructing a Geo::Locator object");
-   
+
    return $self;
-}   
+}
 
 # add some data sources
 #
 # return number added
 sub add_module($@) {
    my ($self,@modules)=@_;
-   
+
    writedebug("Requested to add ".join(", ",@modules)." plugins");
 
    foreach my $mod (@modules) {
       $self->{'modules'}->{$mod} ||= 1; # make sure not to overwrite already existing modules
       }
-      
-   return $self->check_modules();   
-   
+
+   return $self->check_modules();
+
 }
 
 # delete module $mod
 sub delete_module($$) {
    my ($self,$mod)=@_;
-   
+
    writedebug("Requested to delete a $mod plugin");
 
    return if !$self->{'modules'}->{$mod};
    return if !ref($self->{'modules'}->{$mod});
-   
+
    my $src=$self->{'modules'}->{$mod};
    delete $self->{'modules'}->{$mod};
-   
+
    my @new_sources;
-   
+
    foreach my $this_src (@{$self->{'sources'}}) {
       if(!($this_src eq $src)) {
          push @new_sources,$this_src;
          }
       }
-   $self->{'sources'}=\@new_sources;   
-   
+   $self->{'sources'}=\@new_sources;
+
 }
 
 # list of all loaded data sources
@@ -6554,9 +6554,9 @@ sub list_modules($) {
    my ($self)=@_;
    my %modules=%{$self->{'modules'}};
    my @sources=@{$self->{'sources'}};
-   
+
    my @list;
-   
+
    foreach my $src (@sources) {
       # search for its name in %modules
       foreach my $mod (keys %modules) {
@@ -6567,24 +6567,24 @@ sub list_modules($) {
          }
       }
    return @list;
-   
+
 }
 
 # hash of all loaded data sources -> their descriptions
 sub list_modules_descriptions($) {
    my ($self)=@_;
-   
+
    my %modules;
-   
+
    foreach my $mod (keys %{$self->{'modules'}}) {
       my $src=$self->{'modules'}->{$mod};
       next if !$src;
       next if !ref($src);
       $modules{$mod}=$src->capabilities()->{'description'};
       }
-      
-   return %modules;   
-   
+
+   return %modules;
+
 }
 
 END {}
@@ -6596,7 +6596,7 @@ END {}
 Geo::Locator->import();
 }
 
-BEGIN { 
+BEGIN {
 Xplanet::StdConf->import();
 }
 
@@ -6608,44 +6608,44 @@ my $init_nr=0;
 sub init(;%) {
    my (%opts)=@_;
    $init_nr++;
-   
+
    my $xplanet_dir           = $PARAMS{$ONEPARAMFILE_DIR_OPTS};
    my $xplanet_markers_dir   = File::Spec->catdir($xplanet_dir,"markers");
 
    # the default zone.tab file
-   my $zone_tab = firstgood(sub {$_ and (-f $_) and (-r $_)}, 
+   my $zone_tab = firstgood(sub {$_ and (-f $_) and (-r $_)},
                             $opts{'zone.tab'},
                             '/usr/share/zoneinfo/zone.tab',
                             File::Spec->catfile($Bin,"zone.tab")
                             );
    die "Could not find timezone information file\n" if ! $zone_tab;
-   
+
    my @earth_m_fn;
    if($opts{'markers'}) {
       if(ref($opts{'markers'})) {
          @earth_m_fn=@{$opts{'markers'}};
          }
-      else {   
+      else {
          @earth_m_fn=markerlist_2_array($xplanet_markers_dir,$opts{'markers'});
          }
       }
-   else {   
+   else {
       @earth_m_fn=markerlist_2_array($xplanet_markers_dir,'weather_markers earth capitals nations ed_u.com bcca.org')
       }
-   
+
    my $local_cache=$opts{'cache'};
    if(!$local_cache) {
       my $tmpdir = $PARAMS{$ONEPARAMFILE_TMPDIR_OPTS} || $Bin;
       $local_cache = File::Spec->catfile($tmpdir,"local_location.cache.generic");
       }
-      
+
    my @net_modules=@{$opts{'net_modules'}} if $opts{'net_modules'};
-   
+
    my $min_angle_difference=$opts{'min_angle_difference'};
    $min_angle_difference=2 if !defined $min_angle_difference;
-   
+
    my $cache_is_absolute=(%opts ? 0 : 1);
-   
+
    $LOCATOR=Geo::Locator->new(
                             'zone.tab'          => $zone_tab,
                             'markers'           => \@earth_m_fn,
@@ -6661,7 +6661,7 @@ sub single_init(;%) {
    my (%opts)=@_;
    return if $init_nr;
    Geo::SingleLocator::init(%opts);
-}   
+}
 
 
 
@@ -6674,10 +6674,10 @@ END {}
 Geo::SingleLocator->import();
 }
 
-BEGIN { 
+BEGIN {
 Xplanet::Xplanet->import();
 }
-BEGIN { 
+BEGIN {
 ### Start of inlined library Xplanet::Constants.
 $INC{'Xplanet/Constants.pm'} = './Xplanet/Constants.pm';
 {
@@ -6707,8 +6707,8 @@ BEGIN {
                            );
         @EXPORT_OK   = qw();
         %EXPORT_TAGS = ( );     # eg: TAG => [ qw!name1 name2! ],
-        
-}        
+
+}
 
 # exported variables
 use vars      @EXP_VAR;
@@ -6719,10 +6719,10 @@ use vars      @NON_EXPORT;
 
 use File::Spec;
 
-BEGIN { 
+BEGIN {
 Hans2::UpdateMyself->import();
 }
-BEGIN { 
+BEGIN {
 Hans2::Constants->import();
 }
 
@@ -6746,7 +6746,7 @@ END {}
 ### End of inlined library Xplanet::Constants.
 Xplanet::Constants->import();
 }
-BEGIN { 
+BEGIN {
 Xplanet::StringNum->import();
 }
 
@@ -6801,7 +6801,7 @@ sub latlong_2_tzcoordpl($$) {
    my ($lat,$long)=@_;
    return "-lat ".print_coord($lat).
           " -lon ".print_coord($long);
-}      
+}
 
 
 sub tzcoordpl_2_latlong($) {
@@ -6811,7 +6811,7 @@ sub tzcoordpl_2_latlong($) {
       s/^\s+//;
       s/\s+$//;
       return if !$_;
-      
+
       return if !/-lat\s+(-?\d+\.\d+)/;
       $lat=$1;
 
@@ -6822,7 +6822,7 @@ sub tzcoordpl_2_latlong($) {
       return if !is_numeric($long);
       }
    return ($lat,$long);
-}      
+}
 
 sub determine_location_locator() {
    Geo::SingleLocator::single_init();
@@ -6835,27 +6835,27 @@ sub determine_location_locator() {
    writedebug("coords of $location is ($lat,$long)");
    return ($lat,$long);
 }
-   
+
 sub determine_location_latlong() {
    my $lat =$PARAMS{$ONEPARAMFILE_LAT_OPTS}  || return;
    my $long=$PARAMS{$ONEPARAMFILE_LONG_OPTS} || return;
    return if !is_numeric($lat);
    return if !is_numeric($long);
    return ($lat,$long);
-}   
+}
 
 
 sub determine_location() {
    my ($lat,$long);
-   
+
    ($lat,$long)=determine_location_locator();
    return ($lat,$long) if (defined $lat) and (defined $long) and (is_numeric($lat)) and (is_numeric($long));
 
    ($lat,$long)=determine_location_latlong();
    return ($lat,$long) if (defined $lat) and (defined $long) and (is_numeric($lat)) and (is_numeric($long));
-   
+
    return;
-}   
+}
 
 END {}
 
@@ -6865,11 +6865,11 @@ END {}
 ### End of inlined library Xplanet::HomeLocation.
 Xplanet::HomeLocation->import();
 }
-BEGIN { 
+BEGIN {
 Xplanet::Constants->import();
 }
 
-BEGIN { 
+BEGIN {
 Geo::SingleLocator->import();
 }
 
@@ -6946,14 +6946,14 @@ my %cfg=check_param(
          'nr'       => $conf_offset + 3,
          },
       },
-);            
+);
 
 updatemyself();
 
 my $xplanet_dir           = $cfg{$ONEPARAMFILE_DIR_OPTS}  ;
 -d $xplanet_dir           || die("Could not find xplanet installation directory $xplanet_dir\n");
 -r $xplanet_dir           || die("Could not read xplanet installation directory $xplanet_dir\n");
--f File::Spec->catfile($xplanet_dir,"rgb.txt") 
+-f File::Spec->catfile($xplanet_dir,"rgb.txt")
                           || die("Could not find color definition file $xplanet_dir/rgb.txt\n");
 -r File::Spec->catfile($xplanet_dir,"rgb.txt")
                           || die("Could not read color definition file $xplanet_dir/rgb.txt\n");
@@ -6989,29 +6989,29 @@ die "$Scriptbase needs cookies enabled. Please set COOKIES_FILE in $conffile\n" 
 sub help() {
    print <<EOM;
 
-  $Script: download weather information from weather.yahoo.com or weather 
+  $Script: download weather information from weather.yahoo.com or weather
   underground (wunderground.com) for usage with xplanet.
-  
-  The only command line option this script understands is "-d". This 
+
+  The only command line option this script understands is "-d". This
   option turns on debuging mode, in which it will output additional
   information. This is usefull for tracking down errors.
-  
-  To set $Script up, set the XPLANET_DIR variable to your xplanet 
-  directory and run it. Afterwards you should be able to find a 
+
+  To set $Script up, set the XPLANET_DIR variable to your xplanet
+  directory and run it. Afterwards you should be able to find a
   \"weather\" marker file inside xplanet's marker directory.
 
   For more information, please read the top of the script and customize
   the configuration file xplanet.conf (its easy!)
-  
+
   Version: $VERSION
   Home: $homepage
-   
-  Installation: 
+
+  Installation:
      1.) Install geo_locator.pl which can be found on the above page
      2.) Put this script into your xplanet directory
      3.) Read the Configuration section on top of the script and follow
          the instructions.
-  
+
 EOM
    exit 1;
    }
@@ -7028,7 +7028,7 @@ help() if @ARGV;
 
 # hash  uc(city name) => [ latitude longitude] if information is available
 #       uc(city name) => [] if no info available
-my %coords;  
+my %coords;
 
 # in: list of city names
 #
@@ -7037,10 +7037,10 @@ my %coords;
 # fills %coords with info about each city, if it can find it
 sub get_all_coords(@) {
    my (@cities)=@_;
-   
+
    @cities=grep {!exists $coords{uc($_)}} @cities;
    return if !@cities;
-   
+
    Geo::SingleLocator::single_init();
    foreach my $city (@cities) {
       my %info=$LOCATOR->get_exact($city);
@@ -7061,7 +7061,7 @@ sub get_all_coords(@) {
 
 
 # in: URL, filename of weather icon
-# action: if not existing, grap it from the URL and put into 
+# action: if not existing, grap it from the URL and put into
 # $xplanet_images_dir
 sub cache_weather_icon($$) {
    my ($url,$file)=@_;
@@ -7069,8 +7069,8 @@ sub cache_weather_icon($$) {
       warn "Could not download $url\n";
       return 0;
       }
-   return 1;   
-} 
+   return 1;
+}
 
 # in: latitude, longitud, temperature, icon filename, city
 # out: the template, expanded
@@ -7083,10 +7083,10 @@ sub expand_template(%) {
       }
    else {
       $text=$template_noicon;
-      }   
-   
+      }
+
    my ($lat,$long,$temp,$city,$icon,$condition)=@info{'lat','long','temp','city','file','condition'};
-   
+
    # try to format the marker file nicely by keeping columns the same width
    my $lat_str  = sprintf_num_locale("% 7.2f",$lat);
    my $long_str = sprintf_num_locale("% 7.2f",$long);
@@ -7096,9 +7096,9 @@ sub expand_template(%) {
    my $temp2 = sprintf("%-12s",'"'.$temp.'"');
    my $city1 = sprintf("%-15s",$city);
    my $city2 = sprintf("%-17s",'"'.$city.'"');
-   
+
    $icon="weather_".$icon if defined $icon and $icon ne '';
-   
+
    $text =~ s/\$lat/$lat_str/g;
    $text =~ s/\$long/$long_str/g;
    $text =~ s/"\$temp"/$temp2/g;
@@ -7107,9 +7107,9 @@ sub expand_template(%) {
    $text =~ s/\$condition/$condition/g;
    $text =~ s/"\$city"/$city2/g;
    $text =~ s/\$city/$city1/g;
-   
+
    $text =~ s/\s+$//;
-   
+
    return $text;
 }
 
@@ -7130,58 +7130,58 @@ sub get_weather_yahoo($) {
       warn "could not download $url\n";
       return;
       }
-      
+
    #
    # process the webpage
    #
-   
+
    for(split(/<tr>/,$page)) {
-   
+
       next if !/weather\.yahoo\.com/;
-   
+
       s/&nbsp;/ /g;
       s/\s+/ /g;
       s/<small>//g;
       s/<\/small>//g;
       s/<a href=.*?>//g;
       s/<\/a>//g;
-      
+
       my @a=split(/<td.*?>/);
       @a=grep {$_} map {s/<\/td>//g;s/<\/tr>//g;s/^\s+//;s/\s+$//;$_} @a;
 
       next if scalar(@a)!=3;
-      
+
       my ($city,$temp,$gif)=@a;
-      
+
       $city =~ s/<img.*?>//;
       $city =~ s/<.*//;
       $city =~ s/,\s*[[:upper:]]+\s*$//;
-      
+
       my $condition=$gif;
       $condition =~ s/.*alt="(.*?)".*/$1/;
-      
+
       $gif =~ s/.*src=(\S*).*/$1/;
-      
+
       $temp =~ s/\.\.\./\.\./g;
 
       foreach ($city,$temp,$gif,$condition) {
          s/^\s+//;
          s/\s+$//;
          }
-      
+
       my $file;
-      
+
       local *LOG;
       open(LOG,">> $locationslog") || die "could not open $locationslog\n";
       print LOG "$gif\n";
       close(LOG);
-      $file = URL_2_filename($gif);   
+      $file = URL_2_filename($gif);
       if(!cache_weather_icon($gif,File::Spec->catfile($xplanet_images_dir,"weather_$file"))) {
          warn "Bailing from location $city\n";
          $city="";
          next;
          }
-   
+
       push @coords_to_get,{ 'temp'       => $temp,
                             'file'       => $file,
                             'city'       => $city,
@@ -7189,8 +7189,8 @@ sub get_weather_yahoo($) {
                             };
 
       }
-      
-   return @coords_to_get;   
+
+   return @coords_to_get;
 }
 
 
@@ -7243,7 +7243,7 @@ sub get_weather_wunderground($) {
       'Unknown'                      => '999.gif',
       'Widespread Dust'              => '21.gif',
       );
-      
+
    my @coords_to_get;   # return value
 
    #
@@ -7263,12 +7263,12 @@ sub get_weather_wunderground($) {
       $_.="\n" if $_;
       $p2.=$_;
       }
-   $page=$p2;   
-   
+   $page=$p2;
+
    #
    # process the webpage
    #
-   
+
 RECORD:   for(split(/<tr/,$page)) {
       s/<b>//g;
       s/<\/b>//g;
@@ -7284,9 +7284,9 @@ RECORD:   for(split(/<tr/,$page)) {
 #         bgcolor=#EEEEEE>           <td>   <a href="/US/CO/Denver.html">         Denver, Colorado          </a></td>   <td>      26&#176; C              </td>   <td>25%          </td>   <td> 1022&nbsp;hPa </td>   <td>Scattered Clouds</td>   <td>9:53 AM MDT </td>   <td> &nbsp; </td> <td> <a href=/php/editfavs.php?delfav=80002.3><img src="http://icons.wunderground.com/graphics/DEL.gif" WIDTH=30 HEIGHT=16 BORDER=0></a> <a href=/php/editfavs.php?up=80002.3><img src="http://icons.wunderground.com/graphics/UP.gif" WIDTH=16 HEIGHT=16 BORDER=0></a><a href=/php/editfavs.php?down=80002.3><img src="http://icons.wunderground.com/graphics/DOWN.gif" WIDTH=16 HEIGHT=16 BORDER=0></a> </td></tr> </table> </center> <br> <!-- blue credits bar --> <! -- serial # 041801-1 --> <table width=100%>
 
       do_nothing();
-      
+
       next RECORD if scalar(@a) != 9;
-      
+
       my ($city,$temp,$hum,$press,$cond,$updated,$wind);
       (undef,$city,$temp,$hum,$press,$cond,$wind,$updated,undef)=@a;
 
@@ -7298,22 +7298,22 @@ RECORD:   for(split(/<tr/,$page)) {
       ($temp=~/([-\d]+)\s*&#176;\s*([CF])/) && ($temp="$1\' $2");
 
        my $file=$cond2gif{$cond};
-       
+
        if((!defined $file) or ($file eq '')) {
           warn "Could not find icon for weather condition $cond at location $city. You might want to contact the author at $author_email and send him the file $locationslog\n";
           }
-       elsif($file eq 'none') {   
+       elsif($file eq 'none') {
           writedebug("We don't have an icon for condition $cond for location $city. Using textual representation.");
           $file=undef;
           }
-       else {   
-          writedebug("Translating condition \"$cond\" to icon $file");   
+       else {
+          writedebug("Translating condition \"$cond\" to icon $file");
           if(!cache_weather_icon("$default_weather_icon_location/$file",
                              File::Spec->catfile($xplanet_images_dir,"weather_$file"))) {
              warn "Bailing from location $city\n";
              $city="";
              next;
-             }   
+             }
           }
        push @coords_to_get,{ 'temp'      => $temp,
                              'file'      => $file,
@@ -7323,13 +7323,13 @@ RECORD:   for(split(/<tr/,$page)) {
                              };
        }
 
-   return @coords_to_get;   
-      
+   return @coords_to_get;
+
 }
 
 # the processors for each url
 # this is overkill for only 2 sources, but allows for further extension
-my %url_processor;    
+my %url_processor;
 $url_processor{$YAHOO_URL}       =\&get_weather_yahoo        if $YAHOO_URL;
 $url_processor{$WUNDERGROUND_URL}=\&get_weather_wunderground if $WUNDERGROUND_URL;
 
@@ -7350,13 +7350,13 @@ foreach my $url (keys %url_processor) {
       else {
          $coord_to_get{$_->{'city'}}=1;
          }
-      push @cities_found,$city; 
+      push @cities_found,$city;
       }
-   writedebug("Found locations ".join(", ",@cities_found));   
+   writedebug("Found locations ".join(", ",@cities_found));
    }
-   
+
 # call out to geo_locator for locations
-get_all_coords(keys %coord_to_get);   
+get_all_coords(keys %coord_to_get);
 
 # add the coords to the information hashes
 # delete any elements where we can't find any coords
@@ -7375,17 +7375,17 @@ foreach my $url (keys %results) {
       $_->{'long'}=$long;
       push @new_result,$_;
       }
-   if(@new_result) {   
+   if(@new_result) {
       $results{$url}=\@new_result;
       }
    else {
       delete $results{$url};
-      }   
-   }   
-      
-# create the output lines      
-      
-my @lines;    
+      }
+   }
+
+# create the output lines
+
+my @lines;
 foreach my $url (keys %results) {
    my @this_result=@{$results{$url}};
    my @this_lines;
@@ -7394,14 +7394,14 @@ foreach my $url (keys %results) {
       writedebug($text);
       push @this_lines, $text;
       }
-   if(@this_lines) {     
+   if(@this_lines) {
       push @lines, "# $url";
       push @lines, "";
       push @lines, @this_lines;
       push @lines, "";
       }
-   }   
-pop @lines;   
+   }
+pop @lines;
 
 # print the output lines
 
@@ -7419,5 +7419,5 @@ if (@lines) {
    }
 else {
    die "Could not gather any weather information\n"
-   }   
+   }
 
