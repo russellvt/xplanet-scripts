@@ -12,8 +12,7 @@ This page is the home of some scripts that deal with _geographic
 information (GIS)_, especially related to the [xplanet][3] program
 **(Version 0.9x only, for now)**. They allow you to display
 **up-to-the-minute** information on **weather**, **earthquakes**,
-**hurricanes** and more on your computer. You can see how the results
-look like on [FlatPlanet][4] which uses all the below scripts.
+**hurricanes** and more on your computer.
 
 
 ***
@@ -306,7 +305,6 @@ Please write with any suggestions to [Hans][56]
 [1]: /web/peters_moon.jpg
 [2]: http://acoustics.mines.edu/~hans/xplanet_images/current_1600x1200_peters_moon.jpg
 [3]: http://xplanet.sourceforge.net
-[4]: http://juad.ath.cx/flatplanet/
 [5]: #windows-information-and-fixed-binary-xplanet-distribution
 [6]: http://acoustics.mines.edu/pipermail/xplanet-scripts-news/
 [7]: http://acoustics.mines.edu/mailman/listinfo/xplanet-scripts-news
