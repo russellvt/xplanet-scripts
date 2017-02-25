@@ -5,8 +5,8 @@ bring this up-to-date in my "copious" spare time. - RVT
 
 ![An xplanet image, using peters projection][1]
 
-** THIS IS A NEW FORK OF HANS ECKE'S ORIGINAL PROJECT. IF YOU ARE
-INTERESTED IN ASSISTING WITH IT, PLEASE FEEL FREE TO CONTACT ME **
+**THIS IS A NEW FORK OF HANS ECKE'S ORIGINAL PROJECT. IF YOU ARE
+INTERESTED IN ASSISTING WITH IT, PLEASE FEEL FREE TO CONTACT ME**
 
 This page is the home of some scripts that deal with _geographic
 information (GIS)_, especially related to the [xplanet][3] program
