@@ -22,8 +22,6 @@ All-in-one packages that should be unpacked into your xplanet directory
 
 Windows users please read [this][5].
 
-[Announcements archive][6] | [Mailing list][7].
-
 | Program | Version | Updated | Usage |
 | ------- | ------- | ------- | ----- |
 | [geo_locator][8] |  2.1.5 |  02 May 2003 |  determine geographic locations |
@@ -306,8 +304,6 @@ Please write with any suggestions to [Hans][56]
 [2]: http://acoustics.mines.edu/~hans/xplanet_images/current_1600x1200_peters_moon.jpg
 [3]: http://xplanet.sourceforge.net
 [5]: #windows-information-and-fixed-binary-xplanet-distribution
-[6]: http://acoustics.mines.edu/pipermail/xplanet-scripts-news/
-[7]: http://acoustics.mines.edu/mailman/listinfo/xplanet-scripts-news
 [8]: #geo_locator-and-igeo
 [9]: #weather
 [10]: #forecast
