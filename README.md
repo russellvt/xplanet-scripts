@@ -1,20 +1,26 @@
 
-[Source](http://hans.ecke.ws/xplanet/ "Permalink to ")
+After trying to reach the author, I can cloned this from the [Original
+Source](http://hans.ecke.ws/xplanet/ "Permalink to ") an started to
+bring this up-to-date in my "copious" spare time. - RVT
 
 ![An xplanet image, using peters projection][1]
 
-**THIS PROJECT HAS ENDED. IF YOU ARE INTERESTED IN CONTINUING IT, FEEL FREE TO TALK TO ME.**
+**THIS IS A NEW FORK OF HANS ECKE'S ORIGINAL PROJECT. IF YOU ARE
+INTERESTED IN ASSISTING WITH IT, PLEASE FEEL FREE TO CONTACT ME**
 
-This page is the home of some scripts that deal with _geographic information (GIS)_, especially related to the [xplanet][3] program **(Version 0.9x only, for now)**. They allow you to display **up-to-the-minute** information on **weather**, **earthquakes**, **hurricanes** and more on your computer. You can see how the results look like on [FlatPlanet][4] which uses all the below scripts.
+This page is the home of some scripts that deal with _geographic
+information (GIS)_, especially related to the [xplanet][3] program
+**(Version 0.9x only, for now)**. They allow you to display
+**up-to-the-minute** information on **weather**, **earthquakes**,
+**hurricanes** and more on your computer.
 
 
 ***
 
-All-in-one packages that should be unpacked into your xplanet directory (the directory with the images/ and markers/ subdirectories).
+All-in-one packages that should be unpacked into your xplanet directory
+(the directory with the images/ and markers/ subdirectories).
 
 Windows users please read [this][5].
-
-[Announcements archive][6] | [Mailing list][7].
 
 | Program | Version | Updated | Usage |
 | ------- | ------- | ------- | ----- |
@@ -297,10 +303,7 @@ Please write with any suggestions to [Hans][56]
 [1]: /web/peters_moon.jpg
 [2]: http://acoustics.mines.edu/~hans/xplanet_images/current_1600x1200_peters_moon.jpg
 [3]: http://xplanet.sourceforge.net
-[4]: http://juad.ath.cx/flatplanet/
 [5]: #windows-information-and-fixed-binary-xplanet-distribution
-[6]: http://acoustics.mines.edu/pipermail/xplanet-scripts-news/
-[7]: http://acoustics.mines.edu/mailman/listinfo/xplanet-scripts-news
 [8]: #geo_locator-and-igeo
 [9]: #weather
 [10]: #forecast
