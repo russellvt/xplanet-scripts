@@ -36,3 +36,18 @@ satellites/iss
 spice/
 stars/
 
+#
+# Previously-tracked files updated by xplanet-update.pl
+satellites/iss.tle
+satellites/iss_hans.tle
+satellites/science.tle
+satellites/science_hans.tle
+
+#
+# Untracked files updated by xplanet-update.pl
+arcs/hurricane
+arcs/hurricane.tight
+markers/hurricane
+markers/moonphase
+xplanet-update-new.pl
+
