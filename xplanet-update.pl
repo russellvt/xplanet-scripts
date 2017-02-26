@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-
+#
 # This script should be called every 3 hours (or so). It will
 #   * Download the newest cloud map from any mirror
 #     use this cloud map to create new day- and night-images containing clouds
@@ -10,30 +10,35 @@
 # INSTALL: Put this script in your xplanet directory
 #          Run it once
 #          It should create or update the xplanet.conf configuration file
-#          Adjust any variables inside that file, if needed (you likely don't have to)
+#          Adjust any variables inside that file, if needed (likely unnecessary)
 #
 # homepage/newest version: http://hans.ecke.ws/xplanet
 #
 # Usage: * Run this script every 3 hours. It will take care to update everything
 #          your xplanet installation needs.
-#          1.) Unix: you do this with the cron daemon. A cron script like this:
-#              44 0,3,6,9,12,15,18,21 * * * root /usr/local/share/xplanet/xplanet-update.pl
-#              tells cron to run xplanet-update every 3 hours, at 44 minutes after the hour
-#          2.) Windows: If you are running a recent version of Windows (2000 or XP, maybe others)
-#              the Task Scheduler can do this for you. In the versions I know,
-#              you can not ask to have a program run more often than daily. But there is a
-#              work-around:
-#              * Make an "xplanet-update.pl" task that runs daily
-#              * In the "Scheduled Tasks" list, open the xplanet-update.pl task.
-#              * Go to Schedule/Advanced and tell it to repeat the task every 3 hours in a 24 hour
-#                duration.
 #
+# 1.) Unix: you do this with the cron daemon. A cron script like this:
+#
+#  44 0,3,6,9,12,15,18,21 * * * root /usr/local/share/xplanet/xplanet-update.pl
+#
+#     ...tells cron to run xplanet-update every 3 hours, at 44 minutes
+#     after the hour. (Please use a "random" time after the hour)
+#
+# 2.) Windows: If you are running a recent version of Windows, the Task
+#     Scheduler can do this for you. In the versions I know, you can not
+#     ask to have a program run more often than daily. But there is a
+#     work-around:
+#
+#       * Make an "xplanet-update.pl" task that runs daily
+#       * In the "Scheduled Tasks" list, open the xplanet-update.pl task.
+#       * Go to Schedule/Advanced and tell it to repeat the task every 3
+#         hours in a 24 hour duration.
 #
 # Copyright 2002 Hans Ecke <hans@ecke.ws>
 #
-# Licence: Gnu Public License. In short: This comes without any warranty. Redistribution
-#          of the original or changed versions must leave this Copyright statement intact -AND-
-#          provide the sourcecode for free.
+# Licence: Gnu Public License. In short: This comes without any warranty.
+# Redistribution of the original or changed versions must leave this
+# Copyright statement intact -AND- provide the sourcecode for free.
 #
 # Written and tested on Linux and Windows 98. Especially the behavior on
 # Windows is poorly tested
@@ -47,14 +52,15 @@
 # Changelog:
 #    0.9.7: Unix: overriding DISPLAY with GEOMETRY on top of script
 #    0.9.5: fix cloud_shade option which wasn't working :-(
-#    0.9.4: cloud_shade xplanet option used for night map after suggestion by Michael Knight
+#    0.9.4: cloud_shade xplanet option used for night map after suggestion
+#           by Michael Knight
 #    0.9.3: windows fixes
 #    0.9.2: added support for moonphase
 #    0.9.1: added support for visible-satellites
 #      0.9: auto-updating, improved config file handling
-#      0.5: first release as a continuation and rewrite of xplanet-hans's xplanet.clouds.sh
-#           including the new unified configuration
-
+#      0.5: first release as a continuation and rewrite of xplanet-hans's
+#           xplanet.clouds.sh including the new unified configuration
+#
 
 require 5.006;
 
