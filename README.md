@@ -106,10 +106,10 @@ Last updated _02 May 2003_, Version 2.1.5: Updated wunderground.com parsing
 
 Downloadable files: (Usage, documentation and ChangeLog inside the script file at the top)
 
-        Screenshot        |
- ------------------------ |
-![partial screenshot][24] |
-Europe at dusk: it's sunny and slightly hazy with 14-26 degrees celsius (centigrade) in Berlin and mostly clear with 11-19 degree celsius in Moscow. |
+|        Screenshot        |
+|:------------------------:|
+| ![partial screenshot][24] |
+| Europe at dusk: it's sunny and slightly hazy with 14-26 degrees celsius (centigrade) in Berlin and mostly clear with 11-19 degree celsius in Moscow. |
 
 
 ***
