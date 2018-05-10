@@ -15,7 +15,7 @@ information (GIS)_, especially related to the [xplanet][3] program
 **hurricanes** and more on your computer.
 
 
-***
+---
 
 All-in-one packages that should be unpacked into your xplanet directory
 (the directory with the images/ and markers/ subdirectories).
@@ -37,7 +37,7 @@ Windows users please read [this][5].
 | [xplanet Linux RPM][18] |  0.94-3 |  02 May 2003 |  Linux RPM's of xplanet with various problems fixed |
 | [Windows binary][5] |  0.94-2 |  21 Feb 2003 |  Windows binary of xplanet with various problems fixed |
 
-***
+---
 
 ### Introduction
 
@@ -59,7 +59,7 @@ adjust the xplanet.conf configuration file:
 All source code published here is under the [GNU General Public License][19].
 
 
-***
+---
 
 ### geo_locator and igeo
 
@@ -94,7 +94,7 @@ There are associated marker files:
 which contain more than 100000 locations.
 
 
-***
+---
 
 ### weather
 
@@ -112,7 +112,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
 | Europe at dusk: it's sunny and slightly hazy with 14-26 degrees celsius (centigrade) in Berlin and mostly clear with 11-19 degree celsius in Moscow. |
 
 
-***
+---
 
 ### forecast
 
@@ -134,7 +134,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
  Till Friday it will be cold and snowy, but will get drier and slightly warmer after Saturday. |
 
 
-***
+---
 
 ### earthq
 
@@ -152,7 +152,7 @@ If anybody out there has an artistic streak, I'd be really happy about nicer ico
  In south- and east Europe, we see 4 recent earthquakes: one of magnitude 4.4 near the Black Sea, on of magnitude 4.6 off the coast of Greece and two near Sicily of magnitude 4.5 and 5.9. The 5.9 earthquake happened on September 5th. |
 
 
-***
+---
 
 ### volcano
 
@@ -173,7 +173,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
  Popocatepetl near Mexico City is active... |
 
 
-***
+---
 
 ### hurricane
 
@@ -198,7 +198,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
  An inset example: hurricane Lili shortly before crossing the western tip of Cuba. It is progressing to the North-West with 92 miles per hour. |
 
 
-***
+---
 
 ### visible-satellites
 
@@ -214,7 +214,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
  Off the south-eastern coast of Australia, satellites TRMM and STS-107 speed eastwards. At 5:47pm and 7:22pm we will be able to see TRMM from our home. At 5:33pm and 7:6pm, STS-107 will be visible to us. |
 
 
-***
+---
 
 ### xplanet-update
 
@@ -232,7 +232,7 @@ This script is a direct successor of the **xplanet.clouds.sh** part of the disco
 Last updated _15 July 2003_, Version 0.9.7: Unix: overriding DISPLAY with GEOMETRY on top of script
 
 
-***
+---
 
 ### image-stream
 
@@ -247,7 +247,7 @@ Please install the [above geo_locator package][8] before trying to install image
 Last updated _15 July 2003_, Version 0.9.7: Unix: overriding DISPLAY with GEOMETRY on top of script
 
 
-***
+---
 
 ### moonphase
 
@@ -263,7 +263,7 @@ Downloadable files: (Usage, documentation and ChangeLog inside the script file a
  Today, on the 13th of February, the phase is between half- and full moon, increasing towards the full moon which will appear on the 17th. The next (decreasing) half moon will be on the 23rd. |
 
 
-***
+---
 
 ### xplanet Linux RPM
 
@@ -281,22 +281,33 @@ where `x` and `y` are above 360. Might be necessary for forecast.pl
 [xplanet-0.94-3_8.0.i386.rpm][53]: The binary RPM, compiled under RedHat Linux 8.0.
 
 
-***
+---
 
 ### Windows information and fixed binary xplanet distribution
 
-* Gerrit Cap provided a **Windows binary of xplanet**, in which the same problems as in the Linux RPM above are fixed: [xplanet-0.94-2.zip][54].
-* You will need a version of xplanet.exe that has GIF image file support. xplanet-0.94a.zip (from [xplanet's homepage][3]) and the version above are known to work at least for NT and XP.
-* If you have choosen to install the perl scripts (those .pl files), you need to have Perl installed. A good Perl distribution for Windows is [Active State's Active Perl][55]. But I also provide standalone Windows executables, so you don't need Perl anymore.
-* The cookie file weather.pl needs must be in Netscape's format. This means cookie files from Internet Explorer do not work. You need cookie files from Netscape or Mozilla. I found Mozilla cookie files in
-`C:WINDOWSApplication&nbsp;DataMozillaProfilesdefault***.sltcookies.txt`
+* Gerrit Cap provided a **Windows binary of xplanet**, in which the
+  same problems as in the Linux RPM above are fixed: [xplanet-0.94-2.zip][54].
+* You will need a version of xplanet.exe that has GIF image file
+  support. xplanet-0.94a.zip (from [xplanet's homepage][3]) and the
+  version above are known to work at least for NT and XP.
+* If you have choosen to install the perl scripts (those .pl files),
+  you need to have Perl installed. A good Perl distribution for Windows
+  is [Active State's Active Perl][55]. But I also provide standalone
+  Windows executables, so you don't need Perl anymore.
+* The cookie file weather.pl needs must be in Netscape's format. This
+  means cookie files from Internet Explorer do not work. You need cookie
+  files from Netscape or Mozilla. I found Mozilla cookie files in
+
+`
+C:\WINDOWS\Application Data\Mozilla\Profiles\default***.sltcookies.txt
 or
-`C:Documents&nbsp;and&nbsp;Settings<name>Application&nbsp;DataMozillaProfilesdefault***.sltcookies.txt`
+C:\Documents and Settings\<name>\Application Data]\Mozilla\Profiles\default***.sltcookies.txt
 or
-`C:WINNTProfiles<name>Application&nbsp;DataMozillaProfilesdefault***.sltcookies.txt`
+C:\WINNT\Profiles\<name>\Application Data\Mozilla\Profiles\default***.sltcookies.txt
+`
 
 
-***
+---
 
 Please write with any suggestions to [Hans][56]
 
