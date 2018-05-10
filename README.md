@@ -298,13 +298,11 @@ where `x` and `y` are above 360. Might be necessary for forecast.pl
   means cookie files from Internet Explorer do not work. You need cookie
   files from Netscape or Mozilla. I found Mozilla cookie files in
 
-`
-C:\WINDOWS\Application Data\Mozilla\Profiles\default***.sltcookies.txt
+`C:\WINDOWS\Application Data\Mozilla\Profiles\default***.sltcookies.txt`
 or
-C:\Documents and Settings\<name>\Application Data]\Mozilla\Profiles\default***.sltcookies.txt
+`C:\Documents and Settings\<name>\Application Data]\Mozilla\Profiles\default***.sltcookies.txt`
 or
-C:\WINNT\Profiles\<name>\Application Data\Mozilla\Profiles\default***.sltcookies.txt
-`
+`C:\WINNT\Profiles\<name>\Application Data\Mozilla\Profiles\default***.sltcookies.txt`
 
 
 ---
