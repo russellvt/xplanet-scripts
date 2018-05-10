@@ -1,23 +1,26 @@
 #!/usr/bin/perl -w
 
-# This uses the Weekly Volcanic Activity Report of the Smithsonian and xplanet to show
-# active volcanoes on your desktop
+# This uses the Weekly Volcanic Activity Report of the Smithsonian and
+# xplanet to show active volcanoes on your desktop
 #
 # INSTALL: Put this script in your xplanet directory
 #          Run it once
 #          It should create or update the xplanet.conf configuration file
-#          Adjust any variables inside that file, if needed (you likely don't have to)
+#          Adjust any variables inside that file, if needed (you likely
+#          don't have to)
 #
 # homepage/newest version: http://hans.ecke.ws/xplanet
 #
-# Usage: * call the script.  It will write a markerfile 'volcano' to xplanet/marker/
+# Usage: * call the script.  It will write a markerfile 'volcano' to
+#          xplanet/marker/
 #        * put '-markerfile volcano' in your xplanet commandline
 #
 # Copyright 2002 Hans Ecke <hans@ecke.ws>
 #
-# Licence: Gnu Public License. In short: This comes without any warranty. Redistribution
-#          of the original or changed versions must leave this Copyright statement intact -AND-
-#          provide the sourcecode for free.
+# License: Gnu Public License. In short: This comes without any warranty.
+#          Redistribution of the original or changed versions must leave
+#          this Copyright statement intact -AND- provide the sourcecode
+#          for free.
 #
 # Written and tested on Linux and Windows 98. Especially the behavior on
 # Windows is poorly tested
@@ -36,8 +39,9 @@
 #            2.0: source code cleanup: share between all xplanet perl scripts
 #                 new unified configuration system using the xplanet.conf file
 #                 changed license to GPL
-#            1.0: this really isn't beta anymore, so I bump the version number.
-#                 no feature or bug updates, just change of status to stable software
+#            1.0: this really isn't beta anymore, so I bump the version
+#                 number. No feature or bug updates, just change of
+#                 status to stable software
 #          0.9.6: updated caching
 #          0.9.5: caching get_webpage()
 #                 windows and non-US compatibility fixes, thanks Stefan P. Wolf
@@ -65,6 +69,8 @@ use File::Basename;
 use File::Spec;
 
 # the file we try to download
+#  - Seems to be gone, now (RVT 2018/05)
+#  - Looking from here: http://volcano.si.edu/reports_weekly.cfm (RSS?)
 my $URL = "http://www.volcano.si.edu/gvp/reports/usgs/index.cfm";
 
 # if downloaded copy found, when will it be considered too old?
@@ -3678,7 +3684,7 @@ sub convolution($$) {
 #	   int lz, int ifz, float *z)
 #	int ilx=ifx+lx-1,ily=ify+ly-1,ilz=ifz+lz-1,i,j,jlow,jhigh;
 #	float sum;
-#	
+#
 #	x -= ifx;  y -= ify;  z -= ifz;
 #	for (i=ifz; i<=ilz; ++i) {
 #		jlow = i-ily;  if (jlow<ifx) jlow = ifx;
