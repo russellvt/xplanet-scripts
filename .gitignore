@@ -3,3 +3,37 @@ local_location.cache.generic
 test.xplanet-update.[0-9]*
 xplanet.conf
 *.swp
+
+# XPlanet 1.3.0 Distribution Files - Conflicts
+satellites/iss.tle
+
+# XPlanet 1.3.0 Distribution Files
+arcs/README
+arcs/constellations
+config/
+ephemeris/
+fonts/FreeMonoBold.ttf
+fonts/README
+images/README
+images/earth.jpg
+images/hubble.png
+images/iss.png
+images/mgs.png
+images/night.jpg
+images/odyssey.png
+images/shuttle.png
+images/smile.png
+images/sublunar.png
+images/subsolar.png
+images/sun.jpg
+markers/README
+markers/brightStars
+markers/earth
+markers/mars
+markers/moon
+origin/
+rgb.txt
+satellites/README
+satellites/iss
+spice/
+stars/
